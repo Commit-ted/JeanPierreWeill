@@ -1,0 +1,971 @@
+month,sale_line_type,billing_country,billing_city,customer_type,customer_name,customer_email,shipping_country,product_price,product_title,orders,gross_sales,discounts,returns,net_sales,shipping,taxes,total_sales,average_order_value,units_per_transaction,ordered_item_quantity
+2023-01,product,Israel,Tel Aviv Yafo/תל אביב יפו,First-time,shayne eventov,eventovsa@gmail.com,Israel,69.000,Together,1,58.970,0.000,0.000,58.970,0.000,10.030,69.000,58.970,1,1
+2023-01,product,Canada,Toronto,Returning,Maria Alexandra Faria,design.ma@gmail.com,Canada,69.000,Beginnings,1,69.000,-13.800,0.000,55.200,0.000,0.000,55.200,55.200,1,1
+2023-01,product,Canada,Toronto,Returning,Maria Alexandra Faria,design.ma@gmail.com,Canada,69.000,Sweet Year,1,69.000,-13.800,0.000,55.200,0.000,0.000,55.200,55.200,1,1
+2023-01,product,Canada,Kelowna,First-time,William Eager,beimpressive360@gmail.com,Canada,59.000,The Well of Being,1,59.000,0.000,0.000,59.000,0.000,0.000,59.000,59.000,1,1
+2023-01,product,United States,Corte Madera,First-time,Sharon  Gurewitz,sharongurewitz@gmail.com,United States,69.000,Water Yourself,1,69.000,0.000,0.000,69.000,0.000,0.000,69.000,69.000,1,1
+2023-01,product,United States,Downingtown,Returning,Trish Davis,trishy0721@gmail.com,United States,69.000,Together,1,69.000,0.000,0.000,69.000,0.000,0.000,69.000,69.000,1,1
+2023-01,product,United States,Columbia,Returning,Mary Kay Pappadeas,mkpappadeas@yahoo.com,United States,69.000,Water Yourself,1,69.000,0.000,0.000,69.000,0.000,0.000,69.000,69.000,1,1
+2023-01,product,United States,Bordentown,Returning,Geraldine Smith,g.smith50@comcast.net,United States,169.000,A moment's rest,1,169.000,-33.800,0.000,135.200,0.000,0.000,135.200,135.200,1,1
+2023-01,product,United States,Bordentown,Returning,Geraldine Smith,g.smith50@comcast.net,United States,69.000,Together,1,69.000,-13.800,0.000,55.200,0.000,0.000,55.200,55.200,1,1
+2023-01,product,United States,Potomac,First-time,Lisa Charnoff,miriamcharnoff@gmail.com,United States,530.000,Tree,1,530.000,0.000,0.000,530.000,0.000,0.000,530.000,530.000,1,1
+2023-01,product,United States,Washington,First-time,Kara Kastan,kara.kastan@miltongottesman.org,United States,169.000,Aleph Bet,1,507.000,-101.400,0.000,405.600,0.000,0.000,405.600,405.600,3,3
+2023-01,product,United States,Centerton,Returning,Denise Anzalone,denise.anzalone@gmail.com,United States,69.000,Water Yourself,1,69.000,0.000,0.000,69.000,0.000,0.000,69.000,69.000,1,1
+2023-01,product,United States,Huntington Woods,Returning,Ron Elkus,elkshirt@aol.com,United States,169.000,Kotel,1,169.000,0.000,0.000,169.000,0.000,0.000,169.000,169.000,1,1
+2023-01,product,United States,Huntington Woods,Returning,Ron Elkus,elkshirt@aol.com,United States,169.000,Jerusalem Prayer,1,169.000,0.000,0.000,169.000,0.000,0.000,169.000,169.000,1,1
+2023-01,product,United States,Naples,First-time,Cheryl Wallert,cawallert@comcast.net,United States,69.000,Happy Penguin,1,69.000,0.000,0.000,69.000,0.000,0.000,69.000,69.000,1,1
+2023-01,product,United States,Houston,Returning,Carol M Stanley,carol.stanley@nsgen.com,United States,69.000,Tree of Orange Hearts,1,69.000,0.000,0.000,69.000,0.000,0.000,69.000,69.000,1,1
+2023-01,product,United States,Auburn,Returning,Anne Lawler,anne.lawler@lssliving.org,United States,69.000,Tree of Orange Hearts,1,69.000,0.000,0.000,69.000,0.000,0.000,69.000,69.000,1,1
+2023-01,shipping,United States,Columbia,Returning,Mary Kay Pappadeas,mkpappadeas@yahoo.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-01,shipping,United States,Washington,First-time,Kara Kastan,kara.kastan@miltongottesman.org,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-01,shipping,United States,Potomac,First-time,Lisa Charnoff,miriamcharnoff@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-01,shipping,United States,Houston,Returning,Carol M Stanley,carol.stanley@nsgen.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-01,shipping,United States,Huntington Woods,Returning,Ron Elkus,elkshirt@aol.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-01,shipping,United States,Centerton,Returning,Denise Anzalone,denise.anzalone@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-01,shipping,United States,Corte Madera,First-time,Sharon  Gurewitz,sharongurewitz@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-01,shipping,United States,Auburn,Returning,Anne Lawler,anne.lawler@lssliving.org,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-01,shipping,United States,Downingtown,Returning,Trish Davis,trishy0721@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-01,shipping,United States,Bordentown,Returning,Geraldine Smith,g.smith50@comcast.net,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-01,shipping,United States,Naples,First-time,Cheryl Wallert,cawallert@comcast.net,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-01,shipping,Israel,Tel Aviv Yafo/תל אביב יפו,First-time,shayne eventov,eventovsa@gmail.com,Israel,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-01,shipping,Canada,Kelowna,First-time,William Eager,beimpressive360@gmail.com,Canada,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-01,shipping,Canada,Toronto,Returning,Maria Alexandra Faria,design.ma@gmail.com,Canada,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-02,shipping,United Kingdom,Hindhead,Returning,Graeme  Collins,grayrcollins@hotmail.co.uk,United Kingdom,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-02,unknown,United States,Las Vegas,First-time,Jessica Stockman,jes.333emet@gmail.com,Israel,0.000,,0,0.000,0.000,-12.000,-12.000,0.000,0.000,-12.000,0.000,0,0
+2023-02,product,United States,Toms River,First-time,Hillel  Dershowitz,hsdersh@hotmail.com,United States,10.000,Hand-written personalization inside your painting,1,10.000,-1.000,0.000,9.000,0.000,0.000,9.000,9.000,1,1
+2023-02,product,United States,Toms River,First-time,Hillel  Dershowitz,hsdersh@hotmail.com,United States,69.000,Western Wall,1,69.000,-6.900,0.000,62.100,0.000,0.000,62.100,62.100,1,1
+2023-02,product,United States,Las Vegas,First-time,Jessica Stockman,jes.333emet@gmail.com,Israel,59.000,The Well of Being,1,50.430,0.000,0.000,50.430,0.000,8.570,59.000,50.430,1,1
+2023-02,product,United States,Parma,First-time,Christine  Dombo,christinehdombo@gmail.com,United States,69.000,Tree of Purple Hearts,1,69.000,0.000,0.000,69.000,0.000,0.000,69.000,69.000,1,1
+2023-02,product,United States,Parma,First-time,Christine  Dombo,christinehdombo@gmail.com,United States,10.000,Hand-written personalization inside your painting,1,10.000,0.000,0.000,10.000,0.000,0.000,10.000,10.000,1,1
+2023-02,product,United States,Newport Beach,Returning,Jacqueline Whisnant,jaw@pwggc.com,United States,69.000,Tree of Orange Hearts,1,138.000,0.000,0.000,138.000,0.000,0.000,138.000,138.000,2,2
+2023-02,product,United States,Wilmington,Returning,Elizabeth Griffin,griffpeds@gmail.com,United States,69.000,Water Yourself,1,69.000,0.000,0.000,69.000,0.000,0.000,69.000,69.000,1,1
+2023-02,product,United States,Plano,First-time,Heather Shapan,shapanfamily@verizon.net,United States,169.000,Giraffe Heart,1,169.000,-16.900,0.000,152.100,0.000,0.000,152.100,152.100,1,1
+2023-02,product,United States,Carnation,First-time,Rebecca Erin Nussbaum,cuppie22@mac.com,United States,69.000,Western Wall,1,69.000,0.000,0.000,69.000,0.000,0.000,69.000,69.000,1,1
+2023-02,product,United States,Richardson,First-time,Scott Robbins,sirobbins@yahoo.com,United States,169.000,Jerusalem Prayer,1,169.000,0.000,0.000,169.000,0.000,0.000,169.000,169.000,1,1
+2023-02,product,United States,Depew,Returning,Cathy Caruso,catcarter46@gmail.com,United States,169.000,Ballet,1,169.000,0.000,0.000,169.000,0.000,0.000,169.000,169.000,1,1
+2023-02,product,United States,Flossmoor,First-time,Christine Triche,cmkontos@yahoo.com,United States,69.000,Mazal,1,69.000,0.000,0.000,69.000,0.000,0.000,69.000,69.000,1,1
+2023-02,product,United States,Severna Park,Returning,Diane Brewer,diane.brewer@heimlantz.com,United States,169.000,Tree of Life,1,169.000,-33.800,0.000,135.200,0.000,0.000,135.200,135.200,1,1
+2023-02,product,United States,Severna Park,Returning,Diane Brewer,diane.brewer@heimlantz.com,United States,169.000,Open Birdcage,1,169.000,-33.800,0.000,135.200,0.000,0.000,135.200,135.200,1,1
+2023-02,product,United States,Valhermoso Springs,Returning,Sonya Pounders,sonisings@me.com,United States,69.000,Small Things,1,69.000,-13.800,0.000,55.200,0.000,0.000,55.200,55.200,1,1
+2023-02,product,United States,Valhermoso Springs,Returning,Sonya Pounders,sonisings@me.com,United States,69.000,Water Yourself,1,69.000,-13.800,0.000,55.200,0.000,0.000,55.200,55.200,1,1
+2023-02,product,United States,Valhermoso Springs,Returning,Sonya Pounders,sonisings@me.com,United States,69.000,Together,1,69.000,-13.800,0.000,55.200,0.000,0.000,55.200,55.200,1,1
+2023-02,product,United States,Fort Worth,First-time,Iliana Herrera,eivytherrera@gmail.com,United States,69.000,Love,1,69.000,0.000,0.000,69.000,0.000,0.000,69.000,69.000,1,1
+2023-02,product,United Kingdom,Hindhead,Returning,Graeme  Collins,grayrcollins@hotmail.co.uk,United Kingdom,169.000,A moment's rest,1,169.000,-8.450,0.000,160.550,0.000,0.000,160.550,160.550,1,1
+2023-02,shipping,United States,Carnation,First-time,Rebecca Erin Nussbaum,cuppie22@mac.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-02,shipping,United States,Las Vegas,First-time,Jessica Stockman,jes.333emet@gmail.com,Israel,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-02,shipping,United States,Depew,Returning,Cathy Caruso,catcarter46@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-02,shipping,United States,Toms River,First-time,Hillel  Dershowitz,hsdersh@hotmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-02,shipping,United States,Parma,First-time,Christine  Dombo,christinehdombo@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-02,shipping,United States,Richardson,First-time,Scott Robbins,sirobbins@yahoo.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-02,shipping,United States,Flossmoor,First-time,Christine Triche,cmkontos@yahoo.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-02,shipping,United States,Severna Park,Returning,Diane Brewer,diane.brewer@heimlantz.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-02,shipping,United States,Valhermoso Springs,Returning,Sonya Pounders,sonisings@me.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-02,shipping,United States,Newport Beach,Returning,Jacqueline Whisnant,jaw@pwggc.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-02,shipping,United States,Wilmington,Returning,Elizabeth Griffin,griffpeds@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-02,shipping,United States,Fort Worth,First-time,Iliana Herrera,eivytherrera@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-02,shipping,United States,Plano,First-time,Heather Shapan,shapanfamily@verizon.net,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-03,shipping,United States,Northborough,First-time,Pragya Gaur,pragyarajshiva@yahoo.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-03,shipping,Switzerland,Otelfingen,First-time,Nina Burkhalter,nina.leikauf@hotmail.com,Switzerland,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-03,shipping,United States,Englewood,Returning,Nancy Hegele,nhegele@craighospital.org,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-03,shipping,United States,Sartell,Returning,Karen Fenlason,klfenlason@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-03,shipping,United States,New York,Returning,Federico Ferrari,federicferrari@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-03,shipping,United States,New York,First-time,Federico Ferrari,federicferrari@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-03,shipping,United States,Lexington,Returning,Melanie  Simpson,melanie@kvoil.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-03,shipping,United States,Grayson,Returning,Liliana Garcia,lilygarcia16@hotmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-03,shipping,United States,Holtville,First-time,Natasha Pekin,natasha.pekin@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-03,shipping,United States,Lincoln,Returning,JoAnne Nickerson,nickersonleonard@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-03,shipping,Israel,תקוע,First-time,דוידה ולאמן,davida.m.klein@gmail.com,Israel,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-03,shipping,Israel,Ramat Gan,First-time,Anna Langer,anna.langerrr@gmail.com,Israel,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-03,shipping,Israel,ראש העין,First-time,Maayan Sayag,maayanshb@gmail.com,Israel,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-03,unknown,United States,Lexington,Returning,Melanie  Simpson,melanie@kvoil.com,United States,0.000,,0,0.000,0.000,-20.000,-20.000,0.000,0.000,-20.000,0.000,0,0
+2023-03,product,United Kingdom,Narborough,Returning,Ruth Malkin,rlmnarborough@aol.com,United Kingdom,169.000,Shalom,1,169.000,0.000,0.000,169.000,0.000,0.000,169.000,169.000,1,1
+2023-03,product,United Kingdom,Newark,First-time,Lindsey Lynch,lindseylynch6224@gmail.com,United Kingdom,169.000,Rachel's Tomb,1,169.000,0.000,0.000,169.000,0.000,0.000,169.000,169.000,1,1
+2023-03,product,United Kingdom,Coventry,Returning,ELIZABETH HUNTER,lizjoy.hunter@hotmail.co.uk,Singapore,10.000,Hand-written personalization inside your painting,1,10.000,0.000,0.000,10.000,0.000,0.000,10.000,10.000,1,1
+2023-03,product,United Kingdom,Coventry,Returning,ELIZABETH HUNTER,lizjoy.hunter@hotmail.co.uk,Singapore,69.000,Emet,1,69.000,0.000,0.000,69.000,0.000,0.000,69.000,69.000,1,1
+2023-03,product,Israel,Ramat Gan,First-time,Anna Langer,anna.langerrr@gmail.com,Israel,69.000,Western Wall,1,58.970,0.000,0.000,58.970,0.000,10.030,69.000,58.970,1,1
+2023-03,product,Israel,תקוע,First-time,דוידה ולאמן,davida.m.klein@gmail.com,Israel,10.000,Hand-written personalization inside your painting,1,8.540,-0.850,-7.690,0.000,0.000,0.000,0.000,7.690,0,1
+2023-03,product,Israel,ראש העין,First-time,Maayan Sayag,maayanshb@gmail.com,Israel,69.000,Home,1,58.970,0.000,0.000,58.970,0.000,10.030,69.000,58.970,1,1
+2023-03,product,United States,Garnet Valley,First-time,Karen Grethlein,kgrethlein@gmail.com,United States,169.000,Kotel,1,169.000,0.000,0.000,169.000,0.000,0.000,169.000,169.000,1,1
+2023-03,product,United States,Champaign,First-time,Patricia Hund,phund@sbcglobal.net,United States,169.000,Fiddler on the Roof,1,169.000,-16.900,0.000,152.100,0.000,0.000,152.100,152.100,1,1
+2023-03,product,United States,Beverly Hills,Returning,Aaron Sebban,aaronsebban92@gmail.com,United States,169.000,Kotel,1,169.000,-25.350,0.000,143.650,0.000,0.000,143.650,143.650,1,1
+2023-03,product,United States,Beverly Hills,Returning,Aaron Sebban,aaronsebban92@gmail.com,United States,10.000,Hand-written personalization inside your painting,1,10.000,0.000,0.000,10.000,0.000,0.000,10.000,10.000,1,1
+2023-03,product,United States,Bogota,Returning,Aviva Brown,avivabrown@gmail.com,United States,69.000,Fiddler,1,69.000,0.000,0.000,69.000,0.000,0.000,69.000,69.000,1,1
+2023-03,product,United States,Bogota,Returning,Aviva Brown,avivabrown@gmail.com,United States,169.000,Jerusalem Prayer,1,169.000,0.000,0.000,169.000,0.000,0.000,169.000,169.000,1,1
+2023-03,product,United States,Lexington,Returning,Melanie  Simpson,melanie@kvoil.com,United States,69.000,Boots,1,69.000,0.000,0.000,69.000,0.000,0.000,69.000,69.000,1,1
+2023-03,product,United States,Lexington,Returning,Melanie  Simpson,melanie@kvoil.com,United States,3100.000,Paris Spring,1,3100.000,0.000,0.000,3100.000,0.000,0.000,3100.000,3100.000,1,1
+2023-03,product,United States,Sartell,Returning,Karen Fenlason,klfenlason@gmail.com,United States,169.000,Lone Oak Tree,1,169.000,0.000,0.000,169.000,0.000,0.000,169.000,169.000,1,1
+2023-03,product,United States,Belton,First-time,Debra Rice,militaryerrn@gmaol.com,United States,169.000,Men Raining,1,169.000,0.000,0.000,169.000,0.000,0.000,169.000,169.000,1,1
+2023-03,product,United States,Lake Forest,Returning,Nancy Stinson,nancystinson@gmail.com,United States,169.000,Lone Oak Tree,1,169.000,-20.000,0.000,149.000,0.000,0.000,149.000,149.000,1,1
+2023-03,product,United States,Deerfield,First-time,Nan Fine,srd22@aol.com,United States,10.000,Hand-written personalization inside your painting,1,10.000,0.000,0.000,10.000,0.000,0.000,10.000,10.000,1,1
+2023-03,product,United States,Deerfield,First-time,Nan Fine,srd22@aol.com,United States,69.000,Red Riding Hood,1,69.000,0.000,0.000,69.000,0.000,0.000,69.000,69.000,1,1
+2023-03,product,United States,Lake Havasu City,Returning,Stuart Flamm,tallguy592003@yahoo.com,United States,169.000,Wildflowers,1,169.000,0.000,0.000,169.000,0.000,0.000,169.000,169.000,1,1
+2023-03,product,United States,Mclean,Returning,Susan Arthur,arthurs1@cox.net,United States,169.000,Tree of Life,1,169.000,-20.000,0.000,149.000,0.000,0.000,149.000,149.000,1,1
+2023-03,product,United States,Grayson,Returning,Liliana Garcia,lilygarcia16@hotmail.com,United States,169.000,Happy Anniversary,1,169.000,-20.000,0.000,149.000,0.000,0.000,149.000,149.000,1,1
+2023-03,product,United States,Lincoln,Returning,JoAnne Nickerson,nickersonleonard@gmail.com,United States,169.000,Moonlight Dance,1,169.000,-20.000,0.000,149.000,0.000,0.000,149.000,149.000,1,1
+2023-03,product,United States,Englewood,Returning,Nancy Hegele,nhegele@craighospital.org,United States,169.000,Cranes in Winter,1,169.000,0.000,0.000,169.000,0.000,0.000,169.000,169.000,1,1
+2023-03,product,United States,Northborough,First-time,Pragya Gaur,pragyarajshiva@yahoo.com,United States,169.000,NY Jazz,1,169.000,0.000,0.000,169.000,0.000,0.000,169.000,169.000,1,1
+2023-03,product,United States,Holtville,First-time,Natasha Pekin,natasha.pekin@gmail.com,United States,169.000,Rachel's Tomb,1,169.000,0.000,0.000,169.000,0.000,0.000,169.000,169.000,1,1
+2023-03,product,United States,New York,First-time,Federico Ferrari,federicferrari@gmail.com,United States,69.000,Mazal,1,69.000,0.000,0.000,69.000,0.000,0.000,69.000,69.000,1,1
+2023-03,product,United States,New York,First-time,Federico Ferrari,federicferrari@gmail.com,United States,10.000,Hand-written personalization inside your painting,1,10.000,0.000,0.000,10.000,0.000,0.000,10.000,10.000,1,1
+2023-03,product,United States,New York,Returning,Federico Ferrari,federicferrari@gmail.com,United States,69.000,Emet,1,69.000,-6.900,0.000,62.100,0.000,0.000,62.100,62.100,1,1
+2023-03,product,United States,New York,Returning,Federico Ferrari,federicferrari@gmail.com,United States,69.000,Wonder,1,69.000,0.000,0.000,69.000,0.000,0.000,69.000,69.000,1,1
+2023-03,product,United States,New York,Returning,Federico Ferrari,federicferrari@gmail.com,United States,10.000,Hand-written personalization inside your painting,2,20.000,0.000,0.000,20.000,0.000,0.000,20.000,10.000,1,2
+2023-03,product,United States,Perris,First-time,Terra Jacobus,jacobusterra@aol.com,United States,69.000,Western Wall,1,69.000,0.000,0.000,69.000,0.000,0.000,69.000,69.000,1,1
+2023-03,product,United States,Perris,First-time,Terra Jacobus,jacobusterra@aol.com,United States,169.000,Tree of Life,1,169.000,0.000,0.000,169.000,0.000,0.000,169.000,169.000,1,1
+2023-03,product,Switzerland,Otelfingen,First-time,Nina Burkhalter,nina.leikauf@hotmail.com,Switzerland,69.000,Small Things,1,69.000,0.000,0.000,69.000,0.000,0.000,69.000,69.000,1,1
+2023-03,product,Switzerland,Otelfingen,First-time,Nina Burkhalter,nina.leikauf@hotmail.com,Switzerland,10.000,Hand-written personalization inside your painting,1,10.000,0.000,0.000,10.000,0.000,0.000,10.000,10.000,1,1
+2023-03,shipping,United States,Mclean,Returning,Susan Arthur,arthurs1@cox.net,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-03,shipping,United States,Beverly Hills,Returning,Aaron Sebban,aaronsebban92@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-03,shipping,United States,Champaign,First-time,Patricia Hund,phund@sbcglobal.net,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-03,shipping,United States,Lake Havasu City,Returning,Stuart Flamm,tallguy592003@yahoo.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-03,shipping,United States,Lake Forest,Returning,Nancy Stinson,nancystinson@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-03,shipping,United States,Perris,First-time,Terra Jacobus,jacobusterra@aol.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-03,shipping,United States,Belton,First-time,Debra Rice,militaryerrn@gmaol.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-03,shipping,United States,Garnet Valley,First-time,Karen Grethlein,kgrethlein@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-03,shipping,United States,Bogota,Returning,Aviva Brown,avivabrown@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-03,shipping,United States,Deerfield,First-time,Nan Fine,srd22@aol.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-03,shipping,United Kingdom,Coventry,Returning,ELIZABETH HUNTER,lizjoy.hunter@hotmail.co.uk,Singapore,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-03,shipping,United Kingdom,Newark,First-time,Lindsey Lynch,lindseylynch6224@gmail.com,United Kingdom,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-03,shipping,United Kingdom,Narborough,Returning,Ruth Malkin,rlmnarborough@aol.com,United Kingdom,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-04,product,United States,Liberty Twp,Returning,Mary Hopton,hoptonmi@gmail.com,United States,69.000,Tree of Purple Hearts,1,69.000,0.000,0.000,69.000,0.000,0.000,69.000,69.000,1,1
+2023-04,product,United States,Valley Village,First-time,Risa Ungar,tevasaks@gmail.com,United States,69.000,Jaffa,1,69.000,0.000,0.000,69.000,0.000,0.000,69.000,69.000,1,1
+2023-04,product,United States,West Plains,Returning,Earlene Rich,eph41@hotmail.com,United States,169.000,Mesorah,2,338.000,-33.800,0.000,304.200,0.000,0.000,304.200,152.100,1,2
+2023-04,product,United States,Weston,Returning,Alzira Eiras,tcub97@gmail.com,United States,69.000,Tree of Orange Hearts,1,69.000,0.000,0.000,69.000,0.000,0.000,69.000,69.000,1,1
+2023-04,product,United States,Weston,Returning,Alzira Eiras,tcub97@gmail.com,United States,69.000,Small Things,1,69.000,0.000,0.000,69.000,0.000,0.000,69.000,69.000,1,1
+2023-04,shipping,United States,Liberty Twp,Returning,Mary Hopton,hoptonmi@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-04,product,United Kingdom,Manchester,First-time,Martyn Thompson,tommojr@hotmail.co.uk,United Kingdom,169.000,Italian Pastel,1,169.000,-16.900,0.000,152.100,0.000,0.000,152.100,152.100,1,1
+2023-04,product,United States,Framingham,Returning,Artiom Dolghi,zekecp@gmail.com,United States,169.000,Feathers,1,169.000,0.000,0.000,169.000,0.000,0.000,169.000,169.000,1,1
+2023-04,product,United States,Washington,First-time,Justin Loffredo,j.e.loffredo@gmail.com,United States,59.000,The Well of Being,1,59.000,0.000,0.000,59.000,0.000,0.000,59.000,59.000,1,1
+2023-04,product,United States,West Hempstead,Returning,HOWARD TABER,htaber@bhcpas.com,United States,169.000,Mesorah,1,169.000,-16.900,0.000,152.100,0.000,0.000,152.100,152.100,1,1
+2023-04,product,United States,Chicago,Returning,Rochelle Golen,rochelle.golen@gmail.com,United States,10.000,Hand-written personalization inside your painting,1,10.000,0.000,0.000,10.000,0.000,0.000,10.000,10.000,1,1
+2023-04,product,United States,Buffalo,First-time,Darlene Carruthers,sunmoonandstars91258@hotmail.com,United States,69.000,Small Things,1,138.000,0.000,0.000,138.000,0.000,0.000,138.000,138.000,2,2
+2023-04,product,France,Le Vésinet,First-time,Valérie quintard,quintardv@free.fr,Switzerland,169.000,Moonlight Dance,1,169.000,0.000,0.000,169.000,0.000,0.000,169.000,169.000,1,1
+2023-04,shipping,United States,San Mateo,Returning,Nancy Greenberg,nancyjanegraphics@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-04,product,Australia,Nudgee,First-time,Jacqui Vaevaemaki,orchidandrusty@gmail.com,Australia,69.000,Jerusalem,1,69.000,0.000,0.000,69.000,0.000,0.000,69.000,69.000,1,1
+2023-04,shipping,United States,Valley Village,First-time,Risa Ungar,tevasaks@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-04,shipping,United States,Dublin,First-time,Keila Naparstek Hund,knaparstek@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-04,product,United States,San Mateo,Returning,Nancy Greenberg,nancyjanegraphics@gmail.com,United States,69.000,Cat,1,69.000,-69.000,0.000,0.000,0.000,0.000,0.000,0.000,1,1
+2023-04,shipping,Australia,Nudgee,First-time,Jacqui Vaevaemaki,orchidandrusty@gmail.com,Australia,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-04,product,United States,Benson,First-time,Jennifer Hall,gbread94@aol.com,United States,69.000,Beginnings,1,69.000,-6.900,0.000,62.100,0.000,0.000,62.100,62.100,1,1
+2023-04,shipping,United States,Benson,First-time,Jennifer Hall,gbread94@aol.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-04,shipping,United States,Avon Lake,First-time,NEIL GOLDOFTAS,nprobe@aol.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-04,shipping,United States,Pasadena,First-time,Esther Kornfeld,kornfeld.esther@gmail.com,France,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-04,product,United States,Newport Beach,Returning,Jacqueline Whisnant,jaw@pwggc.com,United States,69.000,Soar!,1,69.000,0.000,0.000,69.000,0.000,0.000,69.000,69.000,1,1
+2023-04,product,Netherlands,Dordrecht,First-time,Inge Van der padt,pascalvanderpadt@gmail.com,Netherlands,69.000,Together,1,69.000,0.000,0.000,69.000,0.000,0.000,69.000,69.000,1,1
+2023-04,shipping,United States,Buffalo,First-time,Darlene Carruthers,sunmoonandstars91258@hotmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-04,product,United States,Springfield,Returning,Sonia Felner,sfelner55@gmail.com,United States,69.000,Beginnings,1,69.000,0.000,0.000,69.000,0.000,0.000,69.000,69.000,1,1
+2023-04,shipping,France,Le Vésinet,First-time,Valérie quintard,quintardv@free.fr,Switzerland,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-04,product,Italy,Desenzano Del Garda,Returning,Federico Ferrari,federicferrari@gmail.com,Italy,10.000,Hand-written personalization inside your painting,1,10.000,0.000,0.000,10.000,0.000,0.000,10.000,10.000,1,1
+2023-04,shipping,United Kingdom,Manchester,First-time,Martyn Thompson,tommojr@hotmail.co.uk,United Kingdom,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-04,product,United States,Avon Lake,First-time,NEIL GOLDOFTAS,nprobe@aol.com,United States,169.000,Goat on Balcony,1,169.000,-16.900,0.000,152.100,0.000,0.000,152.100,152.100,1,1
+2023-04,shipping,United States,Weston,Returning,Alzira Eiras,tcub97@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-04,product,United States,Buffalo,First-time,Darlene Carruthers,sunmoonandstars91258@hotmail.com,United States,69.000,Together,1,138.000,0.000,0.000,138.000,0.000,0.000,138.000,138.000,2,2
+2023-04,shipping,United States,Placentia,First-time,Cathy Breckenridge,cathybreck75@yahoo.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-04,product,United States,Placentia,First-time,Cathy Breckenridge,cathybreck75@yahoo.com,United States,69.000,Wonder,1,69.000,0.000,0.000,69.000,0.000,0.000,69.000,69.000,1,1
+2023-04,shipping,United States,Forest City,Returning,Kris Oswald,Koswald2166@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-04,product,United States,Placentia,First-time,Cathy Breckenridge,cathybreck75@yahoo.com,United States,69.000,Bear,1,69.000,0.000,0.000,69.000,0.000,0.000,69.000,69.000,1,1
+2023-04,shipping,United States,Framingham,Returning,Artiom Dolghi,zekecp@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-04,shipping,Italy,Desenzano Del Garda,Returning,Federico Ferrari,federicferrari@gmail.com,Italy,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-04,product,United States,Pasadena,First-time,Esther Kornfeld,kornfeld.esther@gmail.com,France,169.000,Shalom,1,169.000,0.000,0.000,169.000,0.000,0.000,169.000,169.000,1,1
+2023-04,shipping,United States,West Plains,Returning,Earlene Rich,eph41@hotmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-04,product,United States,Springfield,Returning,Sonia Felner,sfelner55@gmail.com,United States,10.000,Hand-written personalization inside your painting,1,10.000,0.000,0.000,10.000,0.000,0.000,10.000,10.000,1,1
+2023-04,shipping,United States,Smithtown,First-time,Sharon Weingarten,sharon718@me.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-04,product,United States,San Mateo,Returning,Nancy Greenberg,nancyjanegraphics@gmail.com,United States,69.000,Herodium,1,138.000,0.000,0.000,138.000,0.000,0.000,138.000,138.000,2,2
+2023-04,shipping,United States,Washington,First-time,Justin Loffredo,j.e.loffredo@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-04,product,United States,Garnet Valley,Returning,Karen Grethlein,kgrethlein@gmail.com,United States,169.000,Kotel,1,169.000,0.000,0.000,169.000,0.000,0.000,169.000,169.000,1,1
+2023-04,shipping,United States,Garnet Valley,Returning,Karen Grethlein,kgrethlein@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-04,product,United States,San Mateo,Returning,Nancy Greenberg,nancyjanegraphics@gmail.com,United States,69.000,Western Wall,1,69.000,0.000,0.000,69.000,0.000,0.000,69.000,69.000,1,1
+2023-04,shipping,Netherlands,Dordrecht,First-time,Inge Van der padt,pascalvanderpadt@gmail.com,Netherlands,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-04,product,United States,Benson,First-time,Jennifer Hall,gbread94@aol.com,United States,10.000,Hand-written personalization inside your painting,1,10.000,-1.000,0.000,9.000,0.000,0.000,9.000,9.000,1,1
+2023-04,shipping,United Kingdom,Finchley,First-time,Tessa Davis,tessa@tessardavis.com,United Kingdom,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-04,product,United States,Buffalo,First-time,Darlene Carruthers,sunmoonandstars91258@hotmail.com,United States,69.000,Love,1,69.000,-69.000,0.000,0.000,0.000,0.000,0.000,0.000,1,1
+2023-04,shipping,United States,West Hempstead,Returning,HOWARD TABER,htaber@bhcpas.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-04,product,United States,Dublin,First-time,Keila Naparstek Hund,knaparstek@gmail.com,United States,69.000,Fiddler,1,69.000,0.000,0.000,69.000,0.000,0.000,69.000,69.000,1,1
+2023-04,shipping,United States,Chicago,Returning,Rochelle Golen,rochelle.golen@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-04,product,United States,Buffalo,First-time,Darlene Carruthers,sunmoonandstars91258@hotmail.com,United States,69.000,Tree of Purple Hearts,1,138.000,0.000,0.000,138.000,0.000,0.000,138.000,138.000,2,2
+2023-04,shipping,United States,Newport Beach,Returning,Jacqueline Whisnant,jaw@pwggc.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-04,product,United States,Beaverton,First-time,Andrea Bride,andreabride@gmail.com,United States,59.000,The Well of Being,1,59.000,0.000,0.000,59.000,0.000,0.000,59.000,59.000,1,1
+2023-04,product,Italy,Desenzano Del Garda,Returning,Federico Ferrari,federicferrari@gmail.com,Italy,69.000,Love,1,69.000,0.000,0.000,69.000,0.000,0.000,69.000,69.000,1,1
+2023-04,product,United States,Forest City,Returning,Kris Oswald,Koswald2166@gmail.com,United States,69.000,Home,1,69.000,0.000,0.000,69.000,0.000,0.000,69.000,69.000,1,1
+2023-04,product,United States,Liberty Twp,Returning,Mary Hopton,hoptonmi@gmail.com,United States,10.000,Hand-written personalization inside your painting,1,10.000,0.000,0.000,10.000,0.000,0.000,10.000,10.000,1,1
+2023-04,product,United States,Chicago,Returning,Rochelle Golen,rochelle.golen@gmail.com,United States,69.000,Soar!,1,69.000,0.000,0.000,69.000,0.000,0.000,69.000,69.000,1,1
+2023-04,product,United States,Buffalo,First-time,Darlene Carruthers,sunmoonandstars91258@hotmail.com,United States,69.000,Tree of Orange Hearts,1,69.000,-69.000,0.000,0.000,0.000,0.000,0.000,0.000,1,1
+2023-04,product,United Kingdom,Finchley,First-time,Tessa Davis,tessa@tessardavis.com,United Kingdom,69.000,Beginnings,1,69.000,0.000,0.000,69.000,0.000,0.000,69.000,69.000,1,1
+2023-04,shipping,United States,Beaverton,First-time,Andrea Bride,andreabride@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-04,product,United States,San Mateo,Returning,Nancy Greenberg,nancyjanegraphics@gmail.com,United States,69.000,Fiddler,1,69.000,0.000,0.000,69.000,0.000,0.000,69.000,69.000,1,1
+2023-04,product,United States,Smithtown,First-time,Sharon Weingarten,sharon718@me.com,United States,169.000,Feathers,1,169.000,0.000,0.000,169.000,0.000,0.000,169.000,169.000,1,1
+2023-04,shipping,United States,Springfield,Returning,Sonia Felner,sfelner55@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-05,product,Canada,Toronto,First-time,Mark Iron,rituziki15@gmail.com,Israel,10.000,Hand-written personalization inside your painting,1,8.540,-0.850,0.000,7.690,0.000,1.310,9.000,7.690,1,1
+2023-05,product,United States,Huntington Woods,Returning,Ron Elkus,elkshirt@aol.com,United States,169.000,Shalom,1,169.000,0.000,0.000,169.000,0.000,0.000,169.000,169.000,1,1
+2023-05,product,United States,Pomona,First-time,Chaye Sabol,chayesabol@gmail.com,United Kingdom,169.000,Feathers,1,169.000,0.000,0.000,169.000,0.000,0.000,169.000,169.000,1,1
+2023-05,product,United States,Auburn,First-time,Raquel Mckinnom,elysiancolor@gmail.com,United States,169.000,Open Birdcage,1,169.000,0.000,0.000,169.000,0.000,0.000,169.000,169.000,1,1
+2023-05,shipping,United States,Pomona,First-time,Chaye Sabol,chayesabol@gmail.com,United Kingdom,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-05,product,United States,Wheeling,Returning,Miriam Balavender,mirik@lycos.com,United States,69.000,Water Yourself,1,69.000,0.000,0.000,69.000,0.000,0.000,69.000,69.000,1,1
+2023-05,product,United States,Franklin,Returning,Roz Blanck,rkblanck@gmail.com,United States,69.000,Water Yourself,1,69.000,0.000,0.000,69.000,0.000,0.000,69.000,69.000,1,1
+2023-05,shipping,Canada,Toronto,First-time,Mark Iron,rituziki15@gmail.com,Israel,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-05,product,United States,Powell,Returning,Wallace Lansberry,wwlans@ameritech.net,United States,69.000,Together,1,69.000,0.000,0.000,69.000,0.000,0.000,69.000,69.000,1,1
+2023-05,product,United States,Maple Grove,First-time,Marvin Zeff,mbzeff@aol.com,United States,169.000,Fiddler on the Roof,1,169.000,0.000,0.000,169.000,0.000,0.000,169.000,169.000,1,1
+2023-05,product,United States,Springfield,First-time,David Chilton,offcumden@gmail.com,United States,69.000,Western Wall,1,69.000,0.000,0.000,69.000,0.000,0.000,69.000,69.000,1,1
+2023-05,shipping,Italy,Sestu,First-time,Daniele Piras,danielepiras80@tiscali.it,Italy,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-05,shipping,United States,Sugar Land,Returning,Nora Sessions,nora@norafoods.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-05,shipping,United States,University Place,Returning,Tina Halmot,dthalmot@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-05,product,Canada,Toronto,First-time,Mark Iron,rituziki15@gmail.com,Israel,69.000,Love,1,58.970,-5.890,0.000,53.080,0.000,9.020,62.100,53.080,1,1
+2023-05,shipping,United States,Wheeling,Returning,Miriam Balavender,mirik@lycos.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-05,shipping,United States,Huntington Woods,Returning,Ron Elkus,elkshirt@aol.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-05,product,United States,Fort Lee,Returning,Vickie Thaw,vthaw@outlook.com,United States,69.000,Together,1,69.000,0.000,0.000,69.000,0.000,0.000,69.000,69.000,1,1
+2023-05,product,United States,Stamford,First-time,Leah Schechter,schechterleah@gmail.com,United States,79.000,Ruth,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-05,shipping,Canada,Toronto,Returning,Maria Alexandra Faria,design.ma@gmail.com,Portugal,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-05,shipping,United States,Auburn,First-time,Raquel Mckinnom,elysiancolor@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-05,product,United States,Corte Madera,Returning,Sharon  Gurewitz,sharongurewitz@gmail.com,United States,69.000,Small Things,1,69.000,0.000,0.000,69.000,0.000,0.000,69.000,69.000,1,1
+2023-05,shipping,United States,Fort Lee,Returning,Vickie Thaw,vthaw@outlook.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-05,shipping,United States,Springfield,First-time,David Chilton,offcumden@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-05,product,United States,Wheeling,Returning,Miriam Balavender,mirik@lycos.com,United States,69.000,Western Wall,1,69.000,0.000,0.000,69.000,0.000,0.000,69.000,69.000,1,1
+2023-05,shipping,United States,Los Angeles,Returning,Sharon Saks,sharonjsaks@gmail.com,Israel,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-05,product,United States,Sugar Land,Returning,Nora Sessions,nora@norafoods.com,United States,69.000,Daydreams,1,69.000,0.000,0.000,69.000,0.000,0.000,69.000,69.000,1,1
+2023-05,product,United States,Chino,Returning,Bridget  Burns,hebgbees13@aol.com,United States,69.000,Cat,1,69.000,0.000,0.000,69.000,0.000,0.000,69.000,69.000,1,1
+2023-05,product,United States,Los Angeles,Returning,Sharon Saks,sharonjsaks@gmail.com,Israel,10.000,Hand-written personalization inside your painting,1,8.550,0.000,0.000,8.550,0.000,1.450,10.000,8.550,1,1
+2023-05,shipping,United States,Maple Grove,First-time,Marvin Zeff,mbzeff@aol.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-05,product,United States,Powell,Returning,Wallace Lansberry,wwlans@ameritech.net,United States,69.000,Fiddler,1,69.000,0.000,0.000,69.000,0.000,0.000,69.000,69.000,1,1
+2023-05,shipping,United States,Webster Springs,Returning,Edwin Roode,eroode@citlink.net,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-05,product,United States,University Place,Returning,Tina Halmot,dthalmot@gmail.com,United States,169.000,Child on Beach,1,169.000,0.000,0.000,169.000,0.000,0.000,169.000,169.000,1,1
+2023-05,shipping,United States,Powell,Returning,Wallace Lansberry,wwlans@ameritech.net,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-05,product,United States,Sugar Land,Returning,Nora Sessions,nora@norafoods.com,United States,10.000,Hand-written personalization inside your painting,1,10.000,0.000,0.000,10.000,0.000,0.000,10.000,10.000,1,1
+2023-05,shipping,United States,Omaha,First-time,Sara Wolfson,swolfson6@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-05,product,United States,Webster Springs,Returning,Edwin Roode,eroode@citlink.net,United States,69.000,Together,1,69.000,0.000,0.000,69.000,0.000,0.000,69.000,69.000,1,1
+2023-05,shipping,United States,Englewood,Returning,Nancy Hegele,nhegele@craighospital.org,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-05,shipping,United States,Stamford,First-time,Leah Schechter,schechterleah@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-05,product,Canada,Toronto,Returning,Maria Alexandra Faria,design.ma@gmail.com,Portugal,169.000,Venice Autumn,1,169.000,0.000,0.000,169.000,0.000,0.000,169.000,169.000,1,1
+2023-05,shipping,United States,Corte Madera,Returning,Sharon  Gurewitz,sharongurewitz@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-05,product,United States,Los Angeles,Returning,Sharon Saks,sharonjsaks@gmail.com,Israel,69.000,Together,1,58.970,0.000,0.000,58.970,0.000,10.030,69.000,58.970,1,1
+2023-05,product,Italy,Sestu,First-time,Daniele Piras,danielepiras80@tiscali.it,Italy,169.000,A moment's rest,1,169.000,-16.900,0.000,152.100,0.000,0.000,152.100,152.100,1,1
+2023-05,product,United States,Springfield,First-time,David Chilton,offcumden@gmail.com,United States,10.000,Hand-written personalization inside your painting,1,10.000,0.000,0.000,10.000,0.000,0.000,10.000,10.000,1,1
+2023-05,product,United States,Webster Springs,Returning,Edwin Roode,eroode@citlink.net,United States,10.000,Hand-written personalization inside your painting,1,10.000,0.000,0.000,10.000,0.000,0.000,10.000,10.000,1,1
+2023-05,shipping,United States,Chino,Returning,Bridget  Burns,hebgbees13@aol.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-05,product,United States,Omaha,First-time,Sara Wolfson,swolfson6@gmail.com,United States,69.000,Jaffa,1,69.000,0.000,0.000,69.000,0.000,0.000,69.000,69.000,1,1
+2023-05,product,United States,Queens,First-time,Maureen dale Yanong,yanongmaureen@gmail.com,Canada,169.000,Wildflowers,1,169.000,0.000,0.000,169.000,0.000,0.000,169.000,169.000,1,1
+2023-05,product,United States,Englewood,Returning,Nancy Hegele,nhegele@craighospital.org,United States,169.000,Cranes in Winter,1,169.000,0.000,0.000,169.000,0.000,0.000,169.000,169.000,1,1
+2023-05,shipping,United States,Queens,First-time,Maureen dale Yanong,yanongmaureen@gmail.com,Canada,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-05,shipping,United States,Franklin,Returning,Roz Blanck,rkblanck@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-06,product,United States,Oakhurst,First-time,Renee Margaux,rmargaux@outlook.com,United States,79.000,Tree of Purple Hearts,1,79.000,-9.480,0.000,69.520,0.000,0.000,69.520,69.520,1,1
+2023-06,product,United States,West Hempstead,Returning,HOWARD TABER,htaber@bhcpas.com,United States,370.000,Your favorite Petite 4x larger,1,370.000,0.000,0.000,370.000,0.000,0.000,370.000,370.000,1,1
+2023-06,product,United States,Auburn,Returning,Anne Lawler,anne.lawler@lssliving.org,United States,79.000,Mazal,1,79.000,-9.480,0.000,69.520,0.000,0.000,69.520,69.520,1,1
+2023-06,product,United States,Huntington Woods,Returning,Ron Elkus,elkshirt@aol.com,United States,189.000,Mesorah,1,189.000,0.000,0.000,189.000,0.000,0.000,189.000,189.000,1,1
+2023-06,product,United States,Charlotte,First-time,Alex Kleber,kleber4791@gmail.com,United States,189.000,Kotel,1,189.000,0.000,0.000,189.000,0.000,0.000,189.000,189.000,1,1
+2023-06,product,United States,Charlotte,First-time,Alex Kleber,kleber4791@gmail.com,United States,79.000,Jerusalem,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-06,product,United States,Los Angeles,Returning,Sharon Saks,sharonjsaks@gmail.com,Israel,10.000,Hand-written personalization inside your painting,1,8.550,0.000,0.000,8.550,0.000,1.450,10.000,8.550,1,1
+2023-06,product,United States,Los Angeles,Returning,Sharon Saks,sharonjsaks@gmail.com,Israel,79.000,Together,1,67.520,0.000,0.000,67.520,0.000,11.480,79.000,67.520,1,1
+2023-06,product,United States,Austin,First-time,Cynthia Schlessinger,chschles@gmail.com,United States,530.000,Moonlit Dancers,1,530.000,0.000,0.000,530.000,0.000,0.000,530.000,530.000,1,1
+2023-06,product,United States,Huntsville,First-time,Alisa White,alisawhite10@gmail.com,United States,79.000,Tree of Orange Hearts,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-06,product,Russia,Moscow,First-time,Evgeny Babin,psylosss@gmail.com,Russia,189.000,Balloon Over Paris Bridge,1,189.000,0.000,0.000,189.000,0.000,0.000,189.000,189.000,1,1
+2023-06,product,Russia,Moscow,First-time,Evgeny Babin,psylosss@gmail.com,Russia,189.000,Paris Morning,1,189.000,0.000,0.000,189.000,0.000,0.000,189.000,189.000,1,1
+2023-06,product,United Kingdom,Glasgow,Returning,Mrs Rosemary Venditozzi,lauravenditozzi69@gmail.com,United Kingdom,189.000,Wildflowers,1,189.000,0.000,0.000,189.000,0.000,0.000,189.000,189.000,1,1
+2023-06,product,Germany,Eschweiler,Returning,Mario Marin Garcia,mariogarcia985@googlemail.com,Germany,370.000,Your favorite Petite 4x larger,2,1110.000,0.000,0.000,1110.000,0.000,0.000,1110.000,555.000,1.5,3
+2023-06,product,Netherlands,Rijswijk,First-time,Suzanne de Lange,delangesuzanne@hotmail.com,Netherlands,189.000,Paris Morning,1,189.000,-18.900,0.000,170.100,0.000,0.000,170.100,170.100,1,1
+2023-06,shipping,United States,Huntington Woods,Returning,Ron Elkus,elkshirt@aol.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-06,shipping,United States,Austin,First-time,Cynthia Schlessinger,chschles@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-06,shipping,United States,Fort Lee,Returning,Vickie Thaw,vthaw@outlook.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-06,shipping,United States,Oakhurst,First-time,Renee Margaux,rmargaux@outlook.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-06,shipping,United States,Charlotte,First-time,Alex Kleber,kleber4791@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-06,shipping,United States,Osterville,First-time,Barbara Simons,barbarajsimons@hotmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-06,shipping,United States,Maple Grove,Returning,Marvin Zeff,mbzeff@aol.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-06,shipping,United States,Los Angeles,Returning,Sharon Saks,sharonjsaks@gmail.com,Israel,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-06,shipping,United States,Tucson,Returning,Marcia Louchheim,louchheimmarcia@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-06,shipping,United States,Lawrence Township,Returning,Sarah Horne,sarah.horne0429@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-06,shipping,United States,Huntsville,First-time,Alisa White,alisawhite10@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-06,shipping,United States,West Hempstead,Returning,HOWARD TABER,htaber@bhcpas.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-06,shipping,United States,Auburn,Returning,Anne Lawler,anne.lawler@lssliving.org,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-06,shipping,United States,Mt. Pleasant,First-time,Sally A Kuhlman,kuhlman2008@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-06,shipping,United States,Morristown,First-time,Pamela Schoenberg,pamela.schoenberg@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-06,shipping,United States,West Orange,Returning,Marcia Schoppik,reachteach@hotmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-06,product,United States,Tucson,Returning,Marcia Louchheim,louchheimmarcia@gmail.com,United States,189.000,Jerusalem Prayer,1,189.000,0.000,0.000,189.000,0.000,0.000,189.000,189.000,1,1
+2023-06,product,United States,Fort Lee,Returning,Vickie Thaw,vthaw@outlook.com,United States,79.000,Together,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-06,product,United States,Lawrence Township,Returning,Sarah Horne,sarah.horne0429@gmail.com,United States,79.000,Beginnings,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-06,product,United States,Lawrence Township,Returning,Sarah Horne,sarah.horne0429@gmail.com,United States,10.000,Hand-written personalization inside your painting,1,10.000,0.000,0.000,10.000,0.000,0.000,10.000,10.000,1,1
+2023-06,product,United States,Maple Grove,Returning,Marvin Zeff,mbzeff@aol.com,United States,189.000,Kotel,1,189.000,0.000,0.000,189.000,0.000,0.000,189.000,189.000,1,1
+2023-06,product,United States,Mt. Pleasant,First-time,Sally A Kuhlman,kuhlman2008@gmail.com,United States,189.000,Paris Morning,1,189.000,0.000,0.000,189.000,0.000,0.000,189.000,189.000,1,1
+2023-06,product,United States,Osterville,First-time,Barbara Simons,barbarajsimons@hotmail.com,United States,189.000,A moment's rest,1,189.000,-22.680,0.000,166.320,0.000,0.000,166.320,166.320,1,1
+2023-06,product,United States,West Orange,Returning,Marcia Schoppik,reachteach@hotmail.com,United States,79.000,Dove,1,79.000,-9.480,0.000,69.520,0.000,0.000,69.520,69.520,1,1
+2023-06,product,United States,Morristown,First-time,Pamela Schoenberg,pamela.schoenberg@gmail.com,United States,189.000,Italian Pastel,1,189.000,-22.680,0.000,166.320,0.000,0.000,166.320,166.320,1,1
+2023-06,shipping,United Kingdom,Glasgow,Returning,Mrs Rosemary Venditozzi,lauravenditozzi69@gmail.com,United Kingdom,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-06,shipping,Netherlands,Rijswijk,First-time,Suzanne de Lange,delangesuzanne@hotmail.com,Netherlands,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-06,shipping,Russia,Moscow,First-time,Evgeny Babin,psylosss@gmail.com,Russia,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-06,shipping,Germany,Eschweiler,Returning,Mario Marin Garcia,mariogarcia985@googlemail.com,Germany,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-06,unknown,United States,Huntington Woods,Returning,Ron Elkus,elkshirt@aol.com,United States,0.000,,0,0.000,0.000,-20.000,-20.000,0.000,0.000,-20.000,0.000,0,0
+2023-07,product,Israel,Jerusalem,First-time,Adiel Sharaby,adielsharaby@gmail.com,United States,189.000,NY Jazz,1,189.000,0.000,0.000,189.000,0.000,0.000,189.000,189.000,1,1
+2023-07,shipping,Germany,Obermichelbach Rothenberg,First-time,Oliver Franz,shopping.of@franzpost.de,Germany,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-07,product,South Africa,Johannesburg,First-time,Shani Brest,shani.las16@gmail.com,South Africa,530.000,Your favorite Petite 4x larger,1,530.000,-159.000,0.000,371.000,0.000,0.000,371.000,371.000,1,1
+2023-07,product,Spain,Mazarrón,First-time,Sebas,navarrosotoraja@gmail.com,Spain,530.000,Moonlit Dancers,1,530.000,-53.000,-477.000,0.000,0.000,0.000,0.000,477.000,0,1
+2023-07,product,Spain,Mazarrón,Returning,Sebas,navarrosotoraja@gmail.com,Spain,189.000,Moonlight Dance,1,189.000,-18.900,0.000,170.100,0.000,0.000,170.100,170.100,1,1
+2023-07,product,Israel,Jerusalem,First-time,Adiel Sharaby,adielsharaby@gmail.com,United States,189.000,Jerusalem Prayer,1,189.000,0.000,0.000,189.000,0.000,0.000,189.000,189.000,1,1
+2023-07,product,Australia,Denham Court,First-time,ANMAR HASAN,anmar_t@yahoo.com,Australia,189.000,Wildflowers,1,189.000,-22.680,0.000,166.320,0.000,0.000,166.320,166.320,1,1
+2023-07,product,Germany,Obermichelbach Rothenberg,First-time,Oliver Franz,shopping.of@franzpost.de,Germany,79.000,Together,1,79.000,-7.900,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-07,product,United States,Daytona Beach,Returning,John Howell,drakor143@gmail.com,United States,189.000,Child on Beach,1,189.000,0.000,0.000,189.000,0.000,0.000,189.000,189.000,1,1
+2023-07,product,United States,New City,First-time,Jay Lombard,neuroscienceconsulting@gmail.com,United States,79.000,Friendship,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-07,product,United States,Bogota,Returning,Aviva Brown,avivabrown@gmail.com,United States,79.000,Water Yourself,1,79.000,-15.800,0.000,63.200,0.000,0.000,63.200,63.200,1,1
+2023-07,product,United States,Bogota,Returning,Aviva Brown,avivabrown@gmail.com,United States,79.000,Tree of Purple Hearts,1,79.000,-15.800,0.000,63.200,0.000,0.000,63.200,63.200,1,1
+2023-07,product,United States,Bogota,Returning,Aviva Brown,avivabrown@gmail.com,United States,79.000,Together,1,79.000,-15.800,0.000,63.200,0.000,0.000,63.200,63.200,1,1
+2023-07,product,United States,Bogota,Returning,Aviva Brown,avivabrown@gmail.com,United States,189.000,Giraffe Heart,1,189.000,-37.800,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-07,product,United States,Bogota,Returning,Aviva Brown,avivabrown@gmail.com,United States,189.000,Tree of Life,1,189.000,-37.800,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-07,product,United States,Ceresco,First-time,Tina Baines,red17wings@gmail.com,United States,79.000,Tree of Purple Hearts,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-07,product,United States,Lynn,First-time,Robert Kershaw,rkershaw@sgtorrice.com,United States,189.000,Wildflowers,1,189.000,0.000,0.000,189.000,0.000,0.000,189.000,189.000,1,1
+2023-07,product,United States,Owings Mills,First-time,Pam Goode,pgoode316@gmail.com,United States,530.000,Your favorite Petite 4x larger,1,530.000,-106.000,0.000,424.000,0.000,0.000,424.000,424.000,1,1
+2023-07,product,United States,Tracy,First-time,Anita McManus,anitalou8@yahoo.com,United States,79.000,Water Yourself,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-07,product,United States,Dallas,First-time,Catherine Bellah,catherinebkeller@gmail.com,United States,79.000,Dove,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-07,product,United States,Dallas,First-time,Catherine Bellah,catherinebkeller@gmail.com,United States,79.000,Western Wall,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-07,product,United States,Dallas,First-time,Catherine Bellah,catherinebkeller@gmail.com,United States,79.000,Jaffa,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-07,product,United States,Key West,Returning,Grace Tingle,tingle909kw@gmail.com,United States,79.000,Small Things,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-07,product,United States,Rockwall,Returning,JULIE PIETSCHMAN,krzy4maui@gmail.com,United States,79.000,Red Riding Hood,1,79.000,-15.800,0.000,63.200,0.000,0.000,63.200,63.200,1,1
+2023-07,product,United States,Rockwall,Returning,JULIE PIETSCHMAN,krzy4maui@gmail.com,United States,10.000,Hand-written personalization inside your painting,1,10.000,-2.000,0.000,8.000,0.000,0.000,8.000,8.000,1,1
+2023-07,product,United States,Weddington,First-time,Louise Glassman,glassman.louise@gmail.com,United States,10.000,Hand-written personalization inside your painting,1,10.000,0.000,0.000,10.000,0.000,0.000,10.000,10.000,1,1
+2023-07,product,United States,Weddington,First-time,Louise Glassman,glassman.louise@gmail.com,United States,79.000,Medical superhero M,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-07,product,United States,New York,Returning,Federico Ferrari,federicferrari@gmail.com,United States,79.000,Jerusalem,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-07,product,United States,New York,Returning,Federico Ferrari,federicferrari@gmail.com,United States,10.000,Hand-written personalization inside your painting,1,10.000,0.000,0.000,10.000,0.000,0.000,10.000,10.000,1,1
+2023-07,product,United States,Nottingham,Returning,Bonnie Besche,babesche0279@yahoo.com,United States,79.000,Tree of Orange Hearts,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-07,product,United States,Englewood,Returning,Nancy Hegele,nhegele@craighospital.org,United States,79.000,Together,1,553.000,0.000,0.000,553.000,0.000,0.000,553.000,553.000,7,7
+2023-07,product,United States,Brooklyn,First-time,Donna Nixon,dnixon54@verizon.net,United States,79.000,Bear,1,79.000,-15.800,0.000,63.200,0.000,0.000,63.200,63.200,1,1
+2023-07,product,United States,Brooklyn,First-time,Donna Nixon,dnixon54@verizon.net,United States,10.000,Hand-written personalization inside your painting,1,10.000,0.000,0.000,10.000,0.000,0.000,10.000,10.000,1,1
+2023-07,product,United States,Miami,First-time,Melissa Hernandez,melissah87@gmail.com,United States,79.000,Sailing,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-07,product,United States,Miami,First-time,Melissa Hernandez,melissah87@gmail.com,United States,79.000,Jaffa,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-07,shipping,Australia,Denham Court,First-time,ANMAR HASAN,anmar_t@yahoo.com,Australia,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-07,shipping,South Africa,Johannesburg,First-time,Shani Brest,shani.las16@gmail.com,South Africa,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-07,shipping,United States,Dallas,First-time,Catherine Bellah,catherinebkeller@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-07,shipping,United States,Ceresco,First-time,Tina Baines,red17wings@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-07,shipping,United States,Owings Mills,First-time,Pam Goode,pgoode316@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-07,shipping,United States,Tracy,First-time,Anita McManus,anitalou8@yahoo.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-07,shipping,United States,Brooklyn,First-time,Donna Nixon,dnixon54@verizon.net,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-07,shipping,United States,New York,Returning,Federico Ferrari,federicferrari@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-07,shipping,United States,Nottingham,Returning,Bonnie Besche,babesche0279@yahoo.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-07,shipping,United States,Bogota,Returning,Aviva Brown,avivabrown@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-07,shipping,United States,Weddington,First-time,Louise Glassman,glassman.louise@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-07,shipping,United States,Daytona Beach,Returning,John Howell,drakor143@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-07,shipping,United States,Miami,First-time,Melissa Hernandez,melissah87@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-07,shipping,United States,Lynn,First-time,Robert Kershaw,rkershaw@sgtorrice.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-07,shipping,United States,Key West,Returning,Grace Tingle,tingle909kw@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-07,shipping,United States,Rockwall,Returning,JULIE PIETSCHMAN,krzy4maui@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-07,shipping,United States,Englewood,Returning,Nancy Hegele,nhegele@craighospital.org,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-07,shipping,United States,New City,First-time,Jay Lombard,neuroscienceconsulting@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-07,shipping,Spain,Mazarrón,Returning,Sebas,navarrosotoraja@gmail.com,Spain,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-07,shipping,Spain,Mazarrón,First-time,Sebas,navarrosotoraja@gmail.com,Spain,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-07,shipping,Israel,Jerusalem,First-time,Adiel Sharaby,adielsharaby@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-08,product,Israel,מבועים,First-time,מירי אליאס,MIRIE@SDA-SPICE.COM,Israel,189.000,Rachel's Tomb,1,161.540,0.000,0.000,161.540,0.000,27.460,189.000,161.540,1,1
+2023-08,unknown,Spain,Mazarrón,Returning,Sebas,navarrosotoraja@gmail.com,Spain,0.000,,0,0.000,0.000,-170.100,-170.100,0.000,0.000,-170.100,0.000,0,0
+2023-08,product,United States,Newport Beach,Returning,Jacqueline Whisnant,jaw@pwggc.com,United States,189.000,Tree of Life,1,189.000,0.000,0.000,189.000,0.000,0.000,189.000,189.000,1,1
+2023-08,product,Germany,Diekhusen Fahrstedt,First-time,Rike Herzog,rikeherzog@yahoo.de,Germany,79.000,Wonder,1,79.000,-7.900,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-08,shipping,Germany,Diekhusen Fahrstedt,First-time,Rike Herzog,rikeherzog@yahoo.de,Germany,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-08,shipping,United States,West Newbury,First-time,Steph Cormier,stephw424@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-08,shipping,United States,Rome,Returning,Allan Brown,allanb1939@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-08,shipping,United States,Delray Beach,First-time,Francine Braunfeld,franny143@yahoo.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-08,shipping,United States,Dallas,Returning,Catherine Bellah,catherinebkeller@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-08,shipping,United States,Lakewood,Returning,Aaron Sebban,aaronsebban92@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-08,shipping,United States,Mequon,First-time,Kara  Sapoznik,karap55@yahoo.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-08,shipping,United States,Hartford,First-time,Ellen Fladvid,ellenfladvid@hotmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-08,shipping,United States,Placentia,Returning,Cathy Breckenridge,cathybreck75@yahoo.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-08,shipping,United States,Deerfield,First-time,Tammy Brody,noahbrody13@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-08,shipping,United States,Newport Beach,Returning,Jacqueline Whisnant,jaw@pwggc.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-08,shipping,United States,Laurel Hollow,First-time,Diana Levin,dianalevin@yahoo.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-08,shipping,United States,Sterling Heights,First-time,Kelli M Bonkowski,kelli_bonkowski@hotmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-08,shipping,Greece,Athens,First-time,Lucia Ravenco,lucia.ravenco@mail.ru,Greece,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-08,shipping,Israel,מבועים,First-time,מירי אליאס,MIRIE@SDA-SPICE.COM,Israel,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-08,shipping,Israel,מבועים,Returning,מירי אליאס,MIRIE@SDA-SPICE.COM,Israel,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-08,shipping,Israel,Jerusalem,First-time,Adiel Sharaby,adielsharaby@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,-15.000,0.000,-15.000,0.000,0,0
+2023-08,product,United States,Laurel Hollow,First-time,Diana Levin,dianalevin@yahoo.com,United States,79.000,Love,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-08,product,United States,Laurel Hollow,First-time,Diana Levin,dianalevin@yahoo.com,United States,10.000,Hand-written personalization inside your painting,1,10.000,0.000,0.000,10.000,0.000,0.000,10.000,10.000,1,1
+2023-08,product,United States,Rome,Returning,Allan Brown,allanb1939@gmail.com,United States,79.000,Cat,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-08,product,United States,Hartford,First-time,Ellen Fladvid,ellenfladvid@hotmail.com,United States,79.000,Water Yourself,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-08,product,United States,Mequon,First-time,Kara  Sapoznik,karap55@yahoo.com,United States,530.000,Your favorite Petite 4x larger,1,530.000,-106.000,0.000,424.000,0.000,0.000,424.000,424.000,1,1
+2023-08,product,United States,Delray Beach,First-time,Francine Braunfeld,franny143@yahoo.com,United States,10.000,Hand-written personalization inside your painting,1,10.000,0.000,0.000,10.000,0.000,0.000,10.000,10.000,1,1
+2023-08,product,United States,Delray Beach,First-time,Francine Braunfeld,franny143@yahoo.com,United States,79.000,Water Yourself,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-08,product,United States,Lakewood,Returning,Aaron Sebban,aaronsebban92@gmail.com,United States,189.000,Mesorah,1,189.000,0.000,0.000,189.000,0.000,0.000,189.000,189.000,1,1
+2023-08,product,United States,Placentia,Returning,Cathy Breckenridge,cathybreck75@yahoo.com,United States,79.000,Home,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-08,product,United States,Deerfield,First-time,Tammy Brody,noahbrody13@gmail.com,United States,79.000,Dove,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-08,product,United States,Dallas,Returning,Catherine Bellah,catherinebkeller@gmail.com,United States,189.000,Tree of Life,1,189.000,0.000,0.000,189.000,0.000,0.000,189.000,189.000,1,1
+2023-08,product,United States,Dallas,Returning,Catherine Bellah,catherinebkeller@gmail.com,United States,79.000,Soar!,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-08,product,United States,Dallas,Returning,Catherine Bellah,catherinebkeller@gmail.com,United States,79.000,Together,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-08,product,United States,West Newbury,First-time,Steph Cormier,stephw424@gmail.com,United States,189.000,Child on Beach,1,189.000,0.000,0.000,189.000,0.000,0.000,189.000,189.000,1,1
+2023-08,product,United States,West Newbury,First-time,Steph Cormier,stephw424@gmail.com,United States,79.000,Wonder,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-08,product,Israel,מבועים,Returning,מירי אליאס,MIRIE@SDA-SPICE.COM,Israel,189.000,Italian Pastel,1,161.540,0.000,0.000,161.540,0.000,27.460,189.000,161.540,1,1
+2023-08,product,Israel,מבועים,First-time,מירי אליאס,MIRIE@SDA-SPICE.COM,Israel,79.000,Jaffa,1,67.520,0.000,0.000,67.520,0.000,11.480,79.000,67.520,1,1
+2023-08,product,Israel,מבועים,First-time,מירי אליאס,MIRIE@SDA-SPICE.COM,Israel,79.000,Western Wall,1,67.520,0.000,0.000,67.520,0.000,11.480,79.000,67.520,1,1
+2023-08,product,Israel,מבועים,First-time,מירי אליאס,MIRIE@SDA-SPICE.COM,Israel,79.000,Herodium,1,67.520,0.000,0.000,67.520,0.000,11.480,79.000,67.520,1,1
+2023-08,product,United States,Sterling Heights,First-time,Kelli M Bonkowski,kelli_bonkowski@hotmail.com,United States,79.000,Penguin,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-08,product,Greece,Athens,First-time,Lucia Ravenco,lucia.ravenco@mail.ru,Greece,79.000,Home,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-08,unknown,United States,Laurel Hollow,First-time,Diana Levin,dianalevin@yahoo.com,United States,0.000,,0,0.000,0.000,-8.900,-8.900,0.000,0.000,-8.900,0.000,0,0
+2023-09,shipping,Israel,Haifa,First-time,NUR ABD EL QADIR,sweet_nor7@hotmail.com,Israel,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-09,product,United States,Encino,First-time,David Binder,4binders@gmail.com,United States,189.000,Kotel,1,189.000,0.000,0.000,189.000,0.000,0.000,189.000,189.000,1,1
+2023-09,product,United States,Arlington,First-time,Tara Horst,tarahorst61@gmail.com,United States,189.000,Birthday Celebration,1,189.000,0.000,0.000,189.000,0.000,0.000,189.000,189.000,1,1
+2023-09,shipping,New Zealand,Porirua,First-time,Marie Rodgers,ree.rodgers@gmail.com,New Zealand,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-09,product,United States,Mequon,Returning,Kara  Sapoznik,karap55@yahoo.com,United States,189.000,Venice Autumn,1,189.000,-22.680,0.000,166.320,0.000,0.000,166.320,166.320,1,1
+2023-09,shipping,United States,Havre De Grace,First-time,Marian Friedman,marian.joy.friedman@comcast.net,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-09,shipping,United States,Flushing,First-time,Barbara Tuckel,bktuckel1836@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-09,shipping,United States,Los Angeles,First-time,Sheherzad Jowhersha,sherrykaru@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-09,product,United States,Boerne,Returning,Amanda Perez,sonnybsonora@hotmail.com,United States,79.000,Together,2,158.000,0.000,0.000,158.000,0.000,0.000,158.000,79.000,1,2
+2023-09,product,United States,Boerne,Returning,Amanda Perez,sonnybsonora@hotmail.com,United States,10.000,Hand-written personalization inside your painting,2,30.000,0.000,0.000,30.000,0.000,0.000,30.000,15.000,1.5,3
+2023-09,shipping,United States,Exton,First-time,William Diamond,wpdiamond@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-09,shipping,United States,Flushing,Returning,Barbara Tuckel,bktuckel1836@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-09,product,Cambodia,Phnom Penh,First-time,Taing  Sok,sok.taing@yahoo.com,Cambodia,189.000,Wildflowers,1,189.000,0.000,0.000,189.000,0.000,0.000,189.000,189.000,1,1
+2023-09,product,New Zealand,Porirua,First-time,Marie Rodgers,ree.rodgers@gmail.com,New Zealand,79.000,Soar!,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-09,shipping,United States,Mount Vernon,First-time,Matthew Bianconi,mattbianconi@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-09,product,United States,Sachse,First-time,Mike Richards,mike.richards44@gmail.com,United States,10.000,Hand-written personalization inside your painting,1,10.000,0.000,0.000,10.000,0.000,0.000,10.000,10.000,1,1
+2023-09,product,Israel,Haifa,First-time,NUR ABD EL QADIR,sweet_nor7@hotmail.com,Israel,79.000,Medical superhero M,1,67.520,0.000,0.000,67.520,0.000,11.480,79.000,67.520,1,1
+2023-09,shipping,Ireland,Kilcock,First-time,Kristin Matson,gerardlowe65@gmail.com,Ireland,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-09,product,United States,Exton,First-time,William Diamond,wpdiamond@gmail.com,United States,189.000,Moonlight Dance,1,189.000,0.000,0.000,189.000,0.000,0.000,189.000,189.000,1,1
+2023-09,shipping,United States,Buffalo Grove,First-time,Barb Kavitt,rkavitt@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-09,product,Ireland,Kilcock,First-time,Kristin Matson,gerardlowe65@gmail.com,Ireland,79.000,Happy Penguin,1,79.000,-7.900,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-09,shipping,United States,Omaha,Returning,Sara Wolfson,swolfson6@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-09,product,United States,Los Angeles,First-time,Sheherzad Jowhersha,sherrykaru@gmail.com,United States,189.000,Tree of Life,1,189.000,0.000,0.000,189.000,0.000,0.000,189.000,189.000,1,1
+2023-09,product,United States,Buffalo Grove,First-time,Barb Kavitt,rkavitt@gmail.com,United States,189.000,Kotel,1,189.000,-18.900,0.000,170.100,0.000,0.000,170.100,170.100,1,1
+2023-09,shipping,United States,Mequon,Returning,Kara  Sapoznik,karap55@yahoo.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-09,product,United States,Redmond,Returning,Janet Karr,jmkarr@gmail.com,United States,189.000,Kotel,1,189.000,0.000,0.000,189.000,0.000,0.000,189.000,189.000,1,1
+2023-09,shipping,United States,Encino,First-time,David Binder,4binders@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-09,product,United States,Havre De Grace,First-time,Marian Friedman,marian.joy.friedman@comcast.net,United States,189.000,Mesorah,1,189.000,-18.900,0.000,170.100,0.000,0.000,170.100,170.100,1,1
+2023-09,product,United States,Sachse,First-time,Mike Richards,mike.richards44@gmail.com,United States,79.000,Together,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-09,product,United States,Flushing,First-time,Barbara Tuckel,bktuckel1836@gmail.com,United States,71.100,Sweet Year,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-09,product,United States,Mequon,Returning,Kara  Sapoznik,karap55@yahoo.com,United States,189.000,Jerusalem Prayer,1,189.000,-22.680,0.000,166.320,0.000,0.000,166.320,166.320,1,1
+2023-09,product,United States,Hammond,Returning,Nicoline Marinovich,nicoline.marinovich@gmail.com,United States,71.100,Sweet Year,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-09,product,United States,Mount Vernon,First-time,Matthew Bianconi,mattbianconi@gmail.com,United States,59.000,The Well of Being,1,59.000,0.000,0.000,59.000,0.000,0.000,59.000,59.000,1,1
+2023-09,product,Ireland,Kilcock,First-time,Kristin Matson,gerardlowe65@gmail.com,Ireland,10.000,Hand-written personalization inside your painting,1,10.000,-1.000,0.000,9.000,0.000,0.000,9.000,9.000,1,1
+2023-09,shipping,United States,Redmond,Returning,Janet Karr,jmkarr@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-09,product,Israel,Haifa,First-time,NUR ABD EL QADIR,sweet_nor7@hotmail.com,Israel,10.000,Hand-written personalization inside your painting,1,8.550,0.000,0.000,8.550,0.000,1.450,10.000,8.550,1,1
+2023-09,product,United States,Boerne,Returning,Amanda Perez,sonnybsonora@hotmail.com,United States,79.000,Fiddler,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-09,product,United States,Boston,First-time,Diana Taksir,dtaksir@gmail.com,United States,79.000,Love,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-09,product,United States,Buffalo Grove,First-time,Barb Kavitt,rkavitt@gmail.com,United States,79.000,Mazal,1,79.000,-7.900,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-09,shipping,United States,Arlington,First-time,Tara Horst,tarahorst61@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-09,product,United States,Omaha,Returning,Sara Wolfson,swolfson6@gmail.com,United States,79.000,Together,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-09,shipping,Cambodia,Phnom Penh,First-time,Taing  Sok,sok.taing@yahoo.com,Cambodia,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-09,shipping,United States,Boston,First-time,Diana Taksir,dtaksir@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-09,product,United States,Hammond,Returning,Nicoline Marinovich,nicoline.marinovich@gmail.com,United States,10.000,Hand-written personalization inside your painting,1,10.000,0.000,0.000,10.000,0.000,0.000,10.000,10.000,1,1
+2023-09,product,United States,Flushing,Returning,Barbara Tuckel,bktuckel1836@gmail.com,United States,71.100,Sweet Year,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-09,shipping,United States,Sachse,First-time,Mike Richards,mike.richards44@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-09,shipping,United States,Boerne,Returning,Amanda Perez,sonnybsonora@hotmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-09,shipping,United States,Hammond,Returning,Nicoline Marinovich,nicoline.marinovich@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-10,product,United States,Lexington,First-time,Maria Pak,mariabpak@gmail.com,United States,189.000,Tree of Life,1,189.000,0.000,0.000,189.000,0.000,0.000,189.000,189.000,1,1
+2023-10,product,Canada,Vancouver,First-time,Claudia Kassam,ckassam@hotmail.com,Canada,189.000,Open Birdcage,1,189.000,0.000,0.000,189.000,0.000,0.000,189.000,189.000,1,1
+2023-10,unknown,United States,Boerne,Returning,Amanda Perez,sonnybsonora@hotmail.com,United States,0.000,,0,0.000,0.000,-85.000,-85.000,0.000,0.000,-85.000,0.000,0,0
+2023-10,unknown,United States,New York,Returning,Davida Test,info@jeanpierreweill.com,Israel,0.000,,0,0.000,0.000,79.000,79.000,0.000,0.000,79.000,0.000,0,0
+2023-10,shipping,United States,Avon Lake,First-time,Gail Goldoftas,ggsanibel@aol.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-10,shipping,United States,New York,Returning,Davida Test,info@jeanpierreweill.com,Israel,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-10,shipping,United States,Berkey,First-time,Colette Lundberg,colettelundberg@yahoo.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-10,shipping,United States,Lexington,First-time,Maria Pak,mariabpak@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-10,shipping,United States,Lake Oswego,First-time,Paria Zarrinnegar,paria.zarrinnegar@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-10,shipping,United States,Silver Spring,Returning,Carol A Bergen,smi3mari@aol.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-10,shipping,United States,Fredericksburg,First-time,Debra J. Aldebs,daldebs@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-10,shipping,United States,Webster Springs,Returning,Edwin Roode,eroode@citlink.net,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-10,shipping,United States,Omaha,Returning,Sara Wolfson,swolfson6@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-10,shipping,United States,Clements,First-time,Tom Davis,whoistfd@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-10,shipping,United States,Las Vegas,First-time,Marie Croitoru,danielle1234576@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-10,shipping,United States,Jamison,First-time,Marshal Davis,mdavis@mhdesq.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-10,shipping,United States,Antioch,First-time,Susan Clark,sjcflute@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-10,shipping,United States,Havre De Grace,Returning,Marian Friedman,marian.joy.friedman@comcast.net,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-10,shipping,United States,Northbrook,First-time,Joy Bruckman,efbjmb@aol.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-10,shipping,United States,Naples,First-time,Kim Papa,kimlotusgirl@aol.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-10,shipping,United States,Peachtree City,First-time,Jeannie Springfield,jeanniespringfield@yahoo.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-10,shipping,United States,Paramus,First-time,frances spiegel,swah2u@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-10,shipping,United States,Lakewood,First-time,Pamela Lane,fivepizme@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-10,shipping,United States,Woodstock,First-time,Tara Bomar,lala0031@yahoo.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-10,shipping,United States,Deer Park,First-time,Philip Politis,aabb9988@hotmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-10,shipping,United States,Boerne,Returning,Amanda Perez,sonnybsonora@hotmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-10,shipping,Singapore,Singapore,First-time,Shunfu Eunice,uneezz@hotmail.com,Singapore,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-10,shipping,Canada,Vancouver,First-time,Claudia Kassam,ckassam@hotmail.com,Canada,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-10,shipping,Philippines,Paranaque,First-time,Shirley Bautista,syerli2003@yahoo.com,Philippines,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-10,shipping,Mexico,León,First-time,Marlene  González,marlenne.gm18@gmail.com,Mexico,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-10,shipping,Germany,Strausberg,First-time,Jacqueline Baatz,j.baatz@gmx.de,Germany,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-10,shipping,Germany,Hamburg,First-time,Jörg KÖHNEMANN,joerg.koehnemann@googlemail.com,Germany,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-10,product,United States,New York,Returning,Davida Test,info@jeanpierreweill.com,Israel,79.000,Jaffa,1,67.520,0.000,-67.520,0.000,0.000,0.000,0.000,67.520,0,1
+2023-10,product,United States,Berkey,First-time,Colette Lundberg,colettelundberg@yahoo.com,United States,79.000,Dove,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-10,product,United States,Berkey,First-time,Colette Lundberg,colettelundberg@yahoo.com,United States,79.000,Jaffa,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-10,product,United States,Deer Park,First-time,Philip Politis,aabb9988@hotmail.com,United States,189.000,Italian Pastel,1,189.000,-18.900,0.000,170.100,0.000,0.000,170.100,170.100,1,1
+2023-10,product,United States,Fredericksburg,First-time,Debra J. Aldebs,daldebs@gmail.com,United States,189.000,Birthday Celebration,1,189.000,0.000,0.000,189.000,0.000,0.000,189.000,189.000,1,1
+2023-10,product,United States,Las Vegas,First-time,Marie Croitoru,danielle1234576@gmail.com,United States,79.000,Together,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-10,product,United States,Las Vegas,First-time,Marie Croitoru,danielle1234576@gmail.com,United States,79.000,Rendezvous,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-10,product,United States,Omaha,Returning,Sara Wolfson,swolfson6@gmail.com,United States,79.000,Western Wall,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-10,product,United States,Paramus,First-time,frances spiegel,swah2u@gmail.com,United States,79.000,Home,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-10,product,United States,Avon Lake,First-time,Gail Goldoftas,ggsanibel@aol.com,United States,79.000,Water Yourself,1,79.000,-7.900,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-10,product,United States,Jamison,First-time,Marshal Davis,mdavis@mhdesq.com,United States,79.000,Jaffa,1,79.000,-7.900,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-10,product,United States,Jamison,First-time,Marshal Davis,mdavis@mhdesq.com,United States,10.000,Hand-written personalization inside your painting,1,10.000,-1.000,0.000,9.000,0.000,0.000,9.000,9.000,1,1
+2023-10,product,United States,Boerne,Returning,Amanda Perez,sonnybsonora@hotmail.com,United States,189.000,Fiddler on the Roof,1,189.000,0.000,0.000,189.000,0.000,0.000,189.000,189.000,1,1
+2023-10,product,United States,Boerne,Returning,Amanda Perez,sonnybsonora@hotmail.com,United States,189.000,Moonlight Dance,1,189.000,0.000,0.000,189.000,0.000,0.000,189.000,189.000,1,1
+2023-10,product,United States,Boerne,Returning,Amanda Perez,sonnybsonora@hotmail.com,United States,189.000,Flying High With You,1,189.000,0.000,0.000,189.000,0.000,0.000,189.000,189.000,1,1
+2023-10,product,United States,Naples,First-time,Kim Papa,kimlotusgirl@aol.com,United States,79.000,Water Yourself,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-10,product,United States,Silver Spring,Returning,Carol A Bergen,smi3mari@aol.com,United States,189.000,Flying High With You,1,189.000,0.000,0.000,189.000,0.000,0.000,189.000,189.000,1,1
+2023-10,product,United States,Antioch,First-time,Susan Clark,sjcflute@gmail.com,United States,189.000,Flying High With You,1,189.000,0.000,0.000,189.000,0.000,0.000,189.000,189.000,1,1
+2023-10,product,United States,Lake Oswego,First-time,Paria Zarrinnegar,paria.zarrinnegar@gmail.com,United States,79.000,Water Yourself,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-10,product,United States,Lake Oswego,First-time,Paria Zarrinnegar,paria.zarrinnegar@gmail.com,United States,79.000,Red Riding Hood,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-10,product,United States,Lake Oswego,First-time,Paria Zarrinnegar,paria.zarrinnegar@gmail.com,United States,189.000,Giraffe Heart,1,189.000,0.000,0.000,189.000,0.000,0.000,189.000,189.000,1,1
+2023-10,product,United States,Lake Oswego,First-time,Paria Zarrinnegar,paria.zarrinnegar@gmail.com,United States,10.000,Hand-written personalization inside your painting,1,10.000,0.000,0.000,10.000,0.000,0.000,10.000,10.000,1,1
+2023-10,product,United States,Lake Oswego,First-time,Paria Zarrinnegar,paria.zarrinnegar@gmail.com,United States,530.000,Wings,1,530.000,0.000,0.000,530.000,0.000,0.000,530.000,530.000,1,1
+2023-10,product,United States,Woodstock,First-time,Tara Bomar,lala0031@yahoo.com,United States,79.000,Dove,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-10,product,United States,Webster Springs,Returning,Edwin Roode,eroode@citlink.net,United States,79.000,Cat,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-10,product,United States,Webster Springs,Returning,Edwin Roode,eroode@citlink.net,United States,10.000,Hand-written personalization inside your painting,1,10.000,0.000,0.000,10.000,0.000,0.000,10.000,10.000,1,1
+2023-10,product,United States,Peachtree City,First-time,Jeannie Springfield,jeanniespringfield@yahoo.com,United States,189.000,John Lennon,1,189.000,0.000,0.000,189.000,0.000,0.000,189.000,189.000,1,1
+2023-10,product,United States,Clements,First-time,Tom Davis,whoistfd@gmail.com,United States,79.000,Water Yourself,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-10,product,United States,Clements,First-time,Tom Davis,whoistfd@gmail.com,United States,79.000,Home,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-10,product,United States,Lakewood,First-time,Pamela Lane,fivepizme@gmail.com,United States,189.000,Jitterbug,1,189.000,0.000,0.000,189.000,0.000,0.000,189.000,189.000,1,1
+2023-10,product,United States,Lexington,First-time,Maria Pak,mariabpak@gmail.com,United States,189.000,Cranes in Winter,1,189.000,0.000,0.000,189.000,0.000,0.000,189.000,189.000,1,1
+2023-10,product,United States,Lexington,First-time,Maria Pak,mariabpak@gmail.com,United States,79.000,Tree of Purple Hearts,1,158.000,0.000,0.000,158.000,0.000,0.000,158.000,158.000,2,2
+2023-10,product,United States,Northbrook,First-time,Joy Bruckman,efbjmb@aol.com,United States,530.000,Your favorite Petite 4x larger,1,530.000,-53.000,0.000,477.000,0.000,0.000,477.000,477.000,1,1
+2023-10,product,United States,Havre De Grace,Returning,Marian Friedman,marian.joy.friedman@comcast.net,United States,79.000,Cat,1,79.000,-15.800,0.000,63.200,0.000,0.000,63.200,63.200,1,1
+2023-10,product,United States,Havre De Grace,Returning,Marian Friedman,marian.joy.friedman@comcast.net,United States,79.000,Jaffa,1,79.000,-15.800,0.000,63.200,0.000,0.000,63.200,63.200,1,1
+2023-10,product,United States,Havre De Grace,Returning,Marian Friedman,marian.joy.friedman@comcast.net,United States,79.000,Small Things,1,79.000,-15.800,0.000,63.200,0.000,0.000,63.200,63.200,1,1
+2023-10,product,Singapore,Singapore,First-time,Shunfu Eunice,uneezz@hotmail.com,Singapore,530.000,Your favorite Petite 4x larger,1,530.000,0.000,0.000,530.000,0.000,0.000,530.000,530.000,1,1
+2023-10,product,Mexico,León,First-time,Marlene  González,marlenne.gm18@gmail.com,Mexico,10.000,Hand-written personalization inside your painting,1,10.000,0.000,0.000,10.000,0.000,0.000,10.000,10.000,1,1
+2023-10,product,Mexico,León,First-time,Marlene  González,marlenne.gm18@gmail.com,Mexico,79.000,Jerusalem,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-10,product,Mexico,León,First-time,Marlene  González,marlenne.gm18@gmail.com,Mexico,79.000,Jaffa,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-10,product,Germany,Hamburg,First-time,Jörg KÖHNEMANN,joerg.koehnemann@googlemail.com,Germany,79.000,Jaffa,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-10,product,Germany,Strausberg,First-time,Jacqueline Baatz,j.baatz@gmx.de,Germany,79.000,Tree of Purple Hearts,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-10,product,Germany,Strausberg,First-time,Jacqueline Baatz,j.baatz@gmx.de,Germany,79.000,Water Yourself,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-10,product,Germany,Strausberg,First-time,Jacqueline Baatz,j.baatz@gmx.de,Germany,79.000,Boots,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-10,product,Philippines,Paranaque,First-time,Shirley Bautista,syerli2003@yahoo.com,Philippines,530.000,Your favorite Petite 4x larger,1,530.000,-53.000,0.000,477.000,0.000,0.000,477.000,477.000,1,1
+2023-10,product,Canada,Vancouver,First-time,Claudia Kassam,ckassam@hotmail.com,Canada,10.000,Hand-written personalization inside your painting,1,20.000,0.000,0.000,20.000,0.000,0.000,20.000,20.000,2,2
+2023-10,product,Canada,Vancouver,First-time,Claudia Kassam,ckassam@hotmail.com,Canada,79.000,Tree of Purple Hearts,1,158.000,0.000,0.000,158.000,0.000,0.000,158.000,158.000,2,2
+2023-11,product,United States,Staten Island,Returning,Tatyana Mogilevskaya,tovochka@gmail.com,United States,151.200,Aleph Bet,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,product,United States,Omaha,Returning,Sara Wolfson,swolfson6@gmail.com,United States,71.100,Love,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-11,product,United States,Lindenhurst,Returning,Susan Campbell,sec13soup@yahoo.com,United States,71.100,Home,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-11,product,United States,Macungie,Returning,Elizabeth Pflugler,pflugler@kutztown.edu,United States,71.100,Red Riding Hood,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-11,product,United States,Champaign,Returning,Patricia Hund,phund@sbcglobal.net,United States,151.200,Jerusalem Prayer,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,product,United States,Scottsdale,First-time,susan criswell,criswell5210@aol.com,United States,71.100,Rendezvous,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-11,product,United States,Highlands Ranch,Returning,Jandel Allen-Davis,jc4ja@aol.com,United States,424.000,Wings,1,424.000,0.000,0.000,424.000,0.000,0.000,424.000,424.000,1,1
+2023-11,product,United States,Highlands Ranch,Returning,Jandel Allen-Davis,jc4ja@aol.com,United States,151.200,Feathers,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,product,United States,Sunset Beach,First-time,Peggy-Anne McGuinness,peggyr@atmc.net,United States,10.000,Hand-written personalization inside your painting,1,10.000,0.000,0.000,10.000,0.000,0.000,10.000,10.000,1,1
+2023-11,product,United States,University Place,Returning,Tina Halmot,dthalmot@gmail.com,United States,424.000,Dancing Cranes,1,424.000,0.000,0.000,424.000,0.000,0.000,424.000,424.000,1,1
+2023-11,product,United States,Delray Beach,Returning,Francine Braunfeld,franny143@yahoo.com,United States,10.000,Hand-written personalization inside your painting,1,10.000,0.000,0.000,10.000,0.000,0.000,10.000,10.000,1,1
+2023-11,shipping,Canada,North York,First-time,Jeffrey Shore,shore.jeffrey@gmail.com,Canada,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,United States,Hurricane,Returning,Cami Molina,cgsquirrel@gmail.com,United States,151.200,Italian Pastel,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,shipping,United States,Beaumont,Returning,MARY JANE CASTRO,mjcmd2664@yahoo.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-11,product,United States,Great Neck,First-time,Shirley and Omid Rahmani,dbassiri@gmail.com,United States,151.200,Jerusalem Prayer,1,151.200,-15.120,0.000,136.080,0.000,0.000,136.080,136.080,1,1
+2023-11,product,United States,Gilford,Returning,Edith Rose,edith_rose@comcast.net,United States,10.000,Hand-written personalization inside your painting,1,10.000,0.000,0.000,10.000,0.000,0.000,10.000,10.000,1,1
+2023-11,product,United States,Potomac,First-time,Naomi Schachter,nomischachter@gmail.com,United States,71.100,Western Wall,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-11,shipping,United States,Baltimore,First-time,Stephanie Geller,stephaniegeller@hotmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,Germany,Bremen,First-time,Stefan Luett,stefan-luett@gmx.de,Germany,430.000,Your favorite Petite 4x larger,1,430.000,0.000,0.000,430.000,0.000,0.000,430.000,430.000,1,1
+2023-11,shipping,United States,Valley Village,Returning,Elke Coblens,moteck4@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,shipping,United Kingdom,Alfreton,Returning,Susan Finney,sue@suefinney.plus.com,United Kingdom,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,shipping,United States,Highlands Ranch,Returning,Jandel Allen-Davis,jc4ja@aol.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,shipping,New Zealand,Auckland,First-time,Andrew Wurr,andy.wurr@gmail.com,New Zealand,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-11,product,United States,Rensselaer,Returning,Linda Cox,lcox0208@gmail.com,United States,151.200,Birthday Celebration,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,shipping,United States,Londonderry,Returning,Janet Armstrong,janetarm@comcast.net,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,United States,Laredo,First-time,RAMON GONZALEZ,ragos123@hotmail.com,United States,151.200,Mesorah,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,shipping,Netherlands,Sint Nicolaasga,First-time,Dr Hans Schilder,psychomedisch@gmail.com,Netherlands,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,shipping,United States,Dix Hills,First-time,Shari Jason,jasonfamilyny@aol.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,United States,Staten Island,Returning,Tatyana Mogilevskaya,tovochka@gmail.com,United States,151.200,Rachel's Tomb,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,shipping,United States,Spring Valley,Returning,Rebecca Fine,rfinerd@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,United Kingdom,Ilford,First-time,AK DURRANI,contact@arkssdesign.co.uk,United Kingdom,71.100,Jaffa,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-11,product,Canada,North York,First-time,Jeffrey Shore,shore.jeffrey@gmail.com,Canada,424.000,Your favorite Petite 4x larger,1,424.000,0.000,0.000,424.000,0.000,0.000,424.000,424.000,1,1
+2023-11,product,United States,Austin,First-time,Margaret Huff,vicki.huff50@gmail.com,United States,71.100,Water Yourself,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-11,product,United States,Valencia,First-time,Olga Onanyan,olgaonanyan@yahoo.com,United States,151.200,Tree of Life,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,product,United States,Mercer Island,First-time,Katie Hurlbut,katiehurlbut@hotmail.com,United States,151.200,Birthday Celebration,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,product,United States,Greenfield,First-time,Michelle Schutt,mkschutt@outlook.com,United States,151.200,Cranes in Winter,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,shipping,United States,Mequon,First-time,Kara Sapoznik,karasapo1983@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,United States,Seattle,Returning,Patricia Johnson,peeeeej1@gmail.com,United States,151.200,Venice Autumn,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,product,United States,Astoria,Returning,Shirley Krepky,code11@centurylink.net,United States,151.200,Cranes in Winter,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,shipping,United States,Scottsdale,First-time,susan criswell,criswell5210@aol.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,United States,Houston,Returning,Elke Coblens,moteck4@gmail.com,United States,151.200,Tree of Life,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,shipping,Germany,Waldalgesheim,First-time,Andrea Heimen,andrea.heimen@googlemail.com,Germany,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,shipping,United States,Owens Cross Roads,Returning,Susan Farbman,sfarbman@comcast.net,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,United States,Baltimore,First-time,Stephanie Geller,stephaniegeller@hotmail.com,United States,71.100,Mazal,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-11,product,United States,Newington,Returning,Kathleen Coughlin,grnire@aol.com,United States,151.200,Open Birdcage,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,product,Germany,Waldalgesheim,First-time,Andrea Heimen,andrea.heimen@googlemail.com,Germany,71.100,Love,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-11,shipping,United States,Greenfield,First-time,Michelle Schutt,mkschutt@outlook.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,shipping,United States,Champaign,Returning,Patricia Hund,phund@sbcglobal.net,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,shipping,United States,Charlotte,First-time,Rima Trost,rimatrost@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,shipping,United States,Great Neck,First-time,Shirley and Omid Rahmani,dbassiri@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-11,shipping,United States,Commerce Township,Returning,Jodie Polk,chefjimjo@yahoo.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,United States,Dix Hills,First-time,Shari Jason,jasonfamilyny@aol.com,United States,71.100,Western Wall,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-11,shipping,United States,Livingston,First-time,Yelena Rom,yelenarom@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,Netherlands,Assen,First-time,Fp Wortelboer,fp.wortelboer@home.nl,Netherlands,151.200,Tree of Life,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,product,Canada,Vancouver,Returning,Claudia Kassam,ckassam@hotmail.com,Canada,71.100,Small Things,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-11,shipping,United States,Holden,Returning,Richard Condon,rgc02895@yahoo.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,shipping,Canada,Kamloops,First-time,Philip or Laurie Gordon,philinthefield@gmail.com,Canada,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,shipping,United States,Liverpool,First-time,Alea Smith,aleacorismith@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-11,shipping,United States,Newington,Returning,Kathleen Coughlin,grnire@aol.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,shipping,United States,Buffalo Grove,Returning,Barb Kavitt,rkavitt@gmail.com,Israel,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,United States,Livingston,First-time,Yelena Rom,yelenarom@gmail.com,United States,151.200,Fiddler on the Roof,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,product,Netherlands,Sint Nicolaasga,First-time,Dr Hans Schilder,psychomedisch@gmail.com,Netherlands,71.100,Western Wall,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-11,product,United States,Newton,First-time,Judi Elovitz,judi5@aol.com,United States,71.100,Dove,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-11,shipping,United States,Macungie,Returning,Elizabeth Pflugler,pflugler@kutztown.edu,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,United States,Mount Hood Parkdale,First-time,Cindy Hurlbert,thehurlberts@outlook.com,United States,71.100,Tree of Purple Hearts,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-11,product,Hong Kong,Ma On Shan,Returning,Wendy Lau,wendy1912@gmail.com,Hong Kong,10.000,Hand-written personalization inside your painting,1,10.000,0.000,0.000,10.000,0.000,0.000,10.000,10.000,1,1
+2023-11,product,United States,New York,Returning,Barbara Kaye,barbarakaye76@yahoo.com,United States,71.100,Western Wall,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-11,product,United States,Dix Hills,First-time,Shari Jason,jasonfamilyny@aol.com,United States,151.200,Herod's Mountain,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,shipping,Germany,Bremen,First-time,Stefan Luett,stefan-luett@gmx.de,Germany,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,United States,Mercer Island,First-time,Katie Hurlbut,katiehurlbut@hotmail.com,United States,10.000,Hand-written personalization inside your painting,1,20.000,0.000,0.000,20.000,0.000,0.000,20.000,20.000,2,2
+2023-11,shipping,United States,Metairie,First-time,Elizabeth Sloane,elizabeth@jewishnola.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-11,shipping,United States,Potomac,First-time,Naomi Schachter,nomischachter@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,United States,Dix Hills,First-time,Shari Jason,jasonfamilyny@aol.com,United States,71.100,Dove,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-11,product,United States,Metairie,First-time,Elizabeth Sloane,elizabeth@jewishnola.com,United States,151.200,Kotel,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,shipping,United States,Flushing,First-time,Michal Goldman,mtparness@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-11,product,United States,Farmington Hills,Returning,Deborah Rankin,poeticmom@hotmail.com,United States,71.100,Tree of Purple Hearts,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-11,product,Germany,Karlsruhe,First-time,Michael Hambardzumyan,michael.hambardzumian@gmail.com,Germany,71.100,Wonder,1,71.100,-7.110,0.000,63.990,0.000,0.000,63.990,63.990,1,1
+2023-11,product,United States,Depew,Returning,Cathy Caruso,catcarter46@gmail.com,United States,151.200,Cranes in Winter,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,shipping,United States,Marco Island,Returning,Margaret Huff,vicki.huff50@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,United States,Tarrytown,First-time,Adam Breitman,adam.breitman@gmail.com,United States,71.100,Western Wall,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-11,shipping,Germany,Strausberg,Returning,Jacqueline Baatz,j.baatz@gmx.de,Germany,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,United States,Austin,Returning,Kara Salmanson,ksalmanson@yahoo.com,United States,151.200,Mesorah,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,shipping,United States,Virginia Beach,First-time,Serban Ghenea,serban@mac.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,United States,Armada,First-time,Kathleen Stork,kathiestork@yahoo.com,United States,151.200,Moonlight Dance,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,product,United States,Denver,First-time,Thomas Bagan,rlwms3212@gmail.com,United States,151.200,Italian Pastel,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,product,United States,Hurricane,Returning,Cami Molina,cgsquirrel@gmail.com,United States,71.100,Boots,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-11,shipping,United States,Issaquah,First-time,Blair Rasmussen,blair.a.rasmussen@outlook.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,shipping,United States,Astoria,Returning,Shirley Krepky,code11@centurylink.net,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,United States,Virginia Beach,First-time,Serban Ghenea,serban@mac.com,United States,22000.000,Nature is a Temple,1,22000.000,-8800.000,0.000,13200.000,0.000,0.000,13200.000,13200.000,1,1
+2023-11,shipping,United States,Springfield,First-time,Susie Rexius,susierexius@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,United States,Boerne,Returning,Amanda Perez,sonnybsonora@hotmail.com,United States,151.200,Seaside Serenade,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,shipping,United States,Rockford,First-time,Sarah Baumgardner,sbaumgar840@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,Canada,Kamloops,First-time,Philip or Laurie Gordon,philinthefield@gmail.com,Canada,151.200,Italian Pastel,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,shipping,United States,Austin,First-time,Margaret Huff,vicki.huff50@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,United States,Liverpool,First-time,Alea Smith,aleacorismith@gmail.com,United States,151.200,Fiddler on the Roof,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,product,United States,Livingston,First-time,Yelena Rom,yelenarom@gmail.com,United States,151.200,Kotel,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,shipping,United States,Mercer Island,First-time,Katie Hurlbut,katiehurlbut@hotmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-11,shipping,United States,Mount Hood Parkdale,First-time,Cindy Hurlbert,thehurlberts@outlook.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,United States,Waltham,First-time,Ira Rothman,irothman@yahoo.com,United States,151.200,Fiddler on the Roof,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,shipping,United States,Seattle,Returning,Patricia Johnson,peeeeej1@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,United States,Springfield,First-time,Susie Rexius,susierexius@gmail.com,United States,151.200,Tree of Life,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,shipping,United Kingdom,Ilford,First-time,AK DURRANI,contact@arkssdesign.co.uk,United Kingdom,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,United States,Omaha,Returning,Sara Wolfson,swolfson6@gmail.com,United States,71.100,Tree of Orange Hearts,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-11,shipping,United Kingdom,"Rochester, Kent",Returning,Sharon Clewes,shazla0866@gmail.com,United Kingdom,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,shipping,United States,Tarrytown,First-time,Adam Breitman,adam.breitman@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,shipping,Hong Kong,Ma On Shan,Returning,Wendy Lau,wendy1912@gmail.com,Hong Kong,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,shipping,United States,University Place,Returning,Tina Halmot,dthalmot@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,shipping,Canada,Toronto,First-time,Casey Torch,caseytorch5@yahoo.ca,Canada,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,United Kingdom,Alfreton,Returning,Susan Finney,sue@suefinney.plus.com,United Kingdom,10.000,Hand-written personalization inside your painting,1,10.000,0.000,0.000,10.000,0.000,0.000,10.000,10.000,1,1
+2023-11,product,United States,Mercer Island,First-time,Katie Hurlbut,katiehurlbut@hotmail.com,United States,71.100,Tree of Purple Hearts,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-11,shipping,United States,Delray Beach,Returning,Francine Braunfeld,franny143@yahoo.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,United States,Spring Valley,Returning,Rebecca Fine,rfinerd@gmail.com,United States,430.000,Your favorite Petite 4x larger,1,430.000,-25.200,0.000,404.800,0.000,0.000,404.800,404.800,1,1
+2023-11,product,United Kingdom,Coventry,Returning,ELIZABETH HUNTER,lizjoy.hunter@hotmail.co.uk,United Kingdom,71.100,Together,2,142.200,0.000,0.000,142.200,0.000,0.000,142.200,71.100,1,2
+2023-11,product,United States,Flushing,First-time,Michal Goldman,mtparness@gmail.com,United States,151.200,Wildflowers,1,151.200,-15.120,0.000,136.080,0.000,0.000,136.080,136.080,1,1
+2023-11,shipping,United States,Gilford,Returning,Edith Rose,edith_rose@comcast.net,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,United States,Dix Hills,First-time,Shari Jason,jasonfamilyny@aol.com,United States,71.100,Water Yourself,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-11,product,United States,Topeka,Returning,Elizabeth Schlossman,bschlossman@outlook.com,United States,71.100,Water Yourself,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-11,product,United States,Issaquah,First-time,Blair Rasmussen,blair.a.rasmussen@outlook.com,United States,151.200,Giraffe Heart,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,shipping,United States,Amherst,First-time,Jennifer Guglielmo,sisterlake@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-11,product,United States,Meridian,Returning,Karen Rhom,krhom@centurylink.net,United States,71.100,Beginnings,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-11,product,Ecuador,Samborondon,First-time,Ana Maria Ortega,anamaria25@gmail.com,Ecuador,71.100,Tree of Purple Hearts,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-11,product,United States,Valley Village,Returning,Elke Coblens,moteck4@gmail.com,United States,151.200,Here's to you!,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,shipping,United States,Somerset,Returning,Maria Calma,mdcalma@aol.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,United States,Rensselaer,Returning,Linda Cox,lcox0208@gmail.com,United States,151.200,Mesorah,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,product,United States,Beaumont,Returning,MARY JANE CASTRO,mjcmd2664@yahoo.com,United States,151.200,Birthday Celebration,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,product,United States,Amherst,First-time,Jennifer Guglielmo,sisterlake@gmail.com,United States,71.100,Tree of Purple Hearts,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-11,shipping,United States,Farmington Hills,Returning,Deborah Rankin,poeticmom@hotmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,United States,Somerset,Returning,Maria Calma,mdcalma@aol.com,United States,71.100,Home,1,142.200,0.000,0.000,142.200,0.000,0.000,142.200,142.200,2,2
+2023-11,product,Hong Kong,Ma On Shan,Returning,Wendy Lau,wendy1912@gmail.com,Hong Kong,71.100,Water Yourself,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-11,product,United States,Highlands Ranch,Returning,Jandel Allen-Davis,jc4ja@aol.com,United States,71.100,Dove,1,142.200,0.000,0.000,142.200,0.000,0.000,142.200,142.200,2,2
+2023-11,product,United States,Rockford,First-time,Sarah Baumgardner,sbaumgar840@gmail.com,United States,151.200,Mesorah,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,product,United States,Charlotte,First-time,Rima Trost,rimatrost@gmail.com,United States,151.200,Jerusalem Prayer,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,product,United States,Highlands Ranch,Returning,Jandel Allen-Davis,jc4ja@aol.com,United States,151.200,Mesorah,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,shipping,United States,Metairie,First-time,Robert French,robertjfrench@icloud.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-11,product,United States,Sunset Beach,First-time,Peggy-Anne McGuinness,peggyr@atmc.net,United States,71.100,Sailing,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-11,unknown,Netherlands,Sint Nicolaasga,First-time,Dr Hans Schilder,psychomedisch@gmail.com,Netherlands,0.000,,0,0.000,0.000,-10.000,-10.000,0.000,0.000,-10.000,0.000,0,0
+2023-11,product,United States,University Place,Returning,Tina Halmot,dthalmot@gmail.com,United States,424.000,Summer Friends,1,424.000,0.000,0.000,424.000,0.000,0.000,424.000,424.000,1,1
+2023-11,shipping,United States,Metairie,Returning,Robert French,robertjfrench@icloud.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,United States,Macungie,Returning,Elizabeth Pflugler,pflugler@kutztown.edu,United States,151.200,Moonlight Dance,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,product,Germany,Strausberg,Returning,Jacqueline Baatz,j.baatz@gmx.de,Germany,71.100,Water Yourself,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-11,product,United States,Metairie,First-time,Robert French,robertjfrench@icloud.com,United States,151.200,Kotel,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,shipping,United States,Rensselaer,Returning,Linda Cox,lcox0208@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,United States,Metairie,Returning,Robert French,robertjfrench@icloud.com,United States,151.200,Kotel,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,shipping,Germany,Greifswald,First-time,D. Berkholz,dilsberk@web.de,Germany,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,United States,Holden,Returning,Richard Condon,rgc02895@yahoo.com,United States,151.200,Time Flies,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,shipping,United States,"Cypress, Ca",Returning,MIHAELA CHELU,chelumihaela@yahoo.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-11,product,United States,Gilford,Returning,Edith Rose,edith_rose@comcast.net,United States,71.100,Medical Superhero F,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-11,product,United States,Denver,First-time,Thomas Bagan,rlwms3212@gmail.com,United States,424.000,Your favorite Petite 4x larger,1,848.000,0.000,0.000,848.000,0.000,0.000,848.000,848.000,2,2
+2023-11,product,United States,Buffalo Grove,Returning,Barb Kavitt,rkavitt@gmail.com,Israel,151.200,Jerusalem Prayer,1,129.230,0.000,0.000,129.230,0.000,21.970,151.200,129.230,1,1
+2023-11,shipping,United States,Sunset Beach,First-time,Peggy-Anne McGuinness,peggyr@atmc.net,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,United States,Lake Placid,First-time,William whitney,billyw@roadrunner.com,United States,71.100,Home,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-11,shipping,Germany,Karlsruhe,First-time,Michael Hambardzumyan,michael.hambardzumian@gmail.com,Germany,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,United States,Tarrytown,First-time,Adam Breitman,adam.breitman@gmail.com,United States,71.100,Sailing,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-11,shipping,United States,Hurricane,Returning,Cami Molina,cgsquirrel@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,United States,Mequon,First-time,Kara Sapoznik,karasapo1983@gmail.com,United States,151.200,Jerusalem Prayer,1,151.200,-15.120,0.000,136.080,0.000,0.000,136.080,136.080,1,1
+2023-11,product,Germany,Greifswald,First-time,D. Berkholz,dilsberk@web.de,Germany,151.200,Happy Anniversary,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,product,United States,Owens Cross Roads,Returning,Susan Farbman,sfarbman@comcast.net,United States,71.100,Western Wall,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-11,shipping,United States,Valencia,First-time,Olga Onanyan,olgaonanyan@yahoo.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,New Zealand,Auckland,First-time,Andrew Wurr,andy.wurr@gmail.com,New Zealand,151.200,Moonlight Dance,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,product,United States,Beaumont,Returning,MARY JANE CASTRO,mjcmd2664@yahoo.com,United States,151.200,Child on Beach,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,product,United States,Newington,Returning,Kathleen Coughlin,grnire@aol.com,United States,151.200,Here's to you!,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,shipping,United States,Omaha,Returning,Sara Wolfson,swolfson6@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,United States,Hurricane,Returning,Cami Molina,cgsquirrel@gmail.com,United States,151.200,Venice Autumn,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,product,United States,Devine,Returning,cecilia manning,ceciliaannmanning@gmail.com,United States,71.100,Daydreams,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-11,product,United States,Hurricane,Returning,Cami Molina,cgsquirrel@gmail.com,United States,71.100,Daydreams,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-11,shipping,United States,Staten Island,Returning,Tatyana Mogilevskaya,tovochka@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,Israel,Ramat Gan,First-time,Dana Cohen,danah2139@gmail.com,Israel,151.200,Here's to you!,1,129.230,0.000,0.000,129.230,0.000,21.970,151.200,129.230,1,1
+2023-11,shipping,Indonesia,Surabaya,First-time,Christin Adni,ctineasp@gmail.com,Indonesia,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,shipping,United States,Loudon,First-time,Anastasia LeBlanc,staceyleblanc1@yahoo.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,shipping,United States,Devine,Returning,cecilia manning,ceciliaannmanning@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,shipping,United States,Armada,First-time,Kathleen Stork,kathiestork@yahoo.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,Germany,Waldalgesheim,First-time,Andrea Heimen,andrea.heimen@googlemail.com,Germany,10.000,Hand-written personalization inside your painting,1,10.000,0.000,0.000,10.000,0.000,0.000,10.000,10.000,1,1
+2023-11,shipping,United States,Lake Placid,First-time,William whitney,billyw@roadrunner.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-11,product,United States,Amarillo,First-time,Amy Crowley,fromonemom@outlook.com,United States,151.200,Kotel,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,shipping,United States,New York,Returning,Barbara Kaye,barbarakaye76@yahoo.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,shipping,Ecuador,Samborondon,First-time,Ana Maria Ortega,anamaria25@gmail.com,Ecuador,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,shipping,United States,Port Charlotte,Returning,Julius Becker,juliusbecker77@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,United States,Marco Island,Returning,Margaret Huff,vicki.huff50@gmail.com,United States,71.100,Small Things,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-11,shipping,United States,Amarillo,First-time,Amy Crowley,fromonemom@outlook.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,United States,Denver,First-time,Thomas Bagan,rlwms3212@gmail.com,United States,151.200,Wildflowers,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,shipping,United States,Austin,Returning,Kara Salmanson,ksalmanson@yahoo.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,shipping,United Kingdom,Prestwick,Returning,Audrey Brown,mrsamb41@hotmail.com,United Kingdom,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,shipping,Netherlands,Assen,First-time,Fp Wortelboer,fp.wortelboer@home.nl,Netherlands,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,shipping,United States,Cumming,First-time,Neha Bhagg,nehab@mac.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,shipping,United States,Lindenhurst,Returning,Susan Campbell,sec13soup@yahoo.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,United States,Cumming,First-time,Neha Bhagg,nehab@mac.com,United States,151.200,Tree of Life,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,shipping,United States,Waltham,First-time,Ira Rothman,irothman@yahoo.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-11,product,United Kingdom,"Rochester, Kent",Returning,Sharon Clewes,shazla0866@gmail.com,United Kingdom,71.100,Together,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-11,shipping,United States,Meridian,Returning,Karen Rhom,krhom@centurylink.net,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,United States,"Cypress, Ca",Returning,MIHAELA CHELU,chelumihaela@yahoo.com,United States,151.200,Moonlight Dance,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,shipping,United States,Newton,First-time,Judi Elovitz,judi5@aol.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,shipping,United States,Topeka,Returning,Elizabeth Schlossman,bschlossman@outlook.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,shipping,United States,Depew,Returning,Cathy Caruso,catcarter46@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,United States,Livingston,First-time,Yelena Rom,yelenarom@gmail.com,United States,151.200,Rachel's Tomb,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,shipping,United States,Denver,First-time,Thomas Bagan,rlwms3212@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,United States,Mercer Island,First-time,Katie Hurlbut,katiehurlbut@hotmail.com,United States,71.100,Friendship,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-11,shipping,United Kingdom,Ashton Under Lyne,Returning,Raechel Batey,raechelbatey@gmail.com,United Kingdom,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,United States,Loudon,First-time,Anastasia LeBlanc,staceyleblanc1@yahoo.com,United States,151.200,Venice Autumn,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,product,Canada,Toronto,First-time,Casey Torch,caseytorch5@yahoo.ca,Canada,151.200,Fiddler on the Roof,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,shipping,United States,Houston,Returning,Elke Coblens,moteck4@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,Canada,Vancouver,Returning,Claudia Kassam,ckassam@hotmail.com,Canada,71.100,Cat,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-11,product,United States,Port Charlotte,Returning,Julius Becker,juliusbecker77@gmail.com,United States,151.200,Shalom,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,product,Canada,Vancouver,Returning,Claudia Kassam,ckassam@hotmail.com,Canada,10.000,Hand-written personalization inside your painting,1,20.000,0.000,0.000,20.000,0.000,0.000,20.000,20.000,2,2
+2023-11,product,United Kingdom,Alfreton,Returning,Susan Finney,sue@suefinney.plus.com,United Kingdom,71.100,Home,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-11,shipping,Israel,Ramat Gan,First-time,Dana Cohen,danah2139@gmail.com,Israel,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,United Kingdom,Ashton Under Lyne,Returning,Raechel Batey,raechelbatey@gmail.com,United Kingdom,71.100,Small Things,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-11,product,United States,Delray Beach,Returning,Francine Braunfeld,franny143@yahoo.com,United States,71.100,Medical superhero M,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-11,shipping,United States,Laredo,First-time,RAMON GONZALEZ,ragos123@hotmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,shipping,Canada,Vancouver,Returning,Claudia Kassam,ckassam@hotmail.com,Canada,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,United States,Londonderry,Returning,Janet Armstrong,janetarm@comcast.net,United States,71.100,Home,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-11,shipping,United Kingdom,Coventry,Returning,ELIZABETH HUNTER,lizjoy.hunter@hotmail.co.uk,United Kingdom,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,Netherlands,Sint Nicolaasga,First-time,Dr Hans Schilder,psychomedisch@gmail.com,Netherlands,10.000,Hand-written personalization inside your painting,1,20.000,0.000,0.000,20.000,0.000,0.000,20.000,20.000,2,2
+2023-11,product,United States,Mercer Island,First-time,Katie Hurlbut,katiehurlbut@hotmail.com,United States,71.100,Western Wall,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-11,product,United States,Mercer Island,First-time,Katie Hurlbut,katiehurlbut@hotmail.com,United States,71.100,Cat,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-11,product,United States,Commerce Township,Returning,Jodie Polk,chefjimjo@yahoo.com,United States,151.200,Birthday Celebration,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-11,product,Indonesia,Surabaya,First-time,Christin Adni,ctineasp@gmail.com,Indonesia,424.000,Limitless,1,424.000,0.000,0.000,424.000,0.000,0.000,424.000,424.000,1,1
+2023-11,unknown,United States,Las Vegas,First-time,Marie Croitoru,danielle1234576@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,shipping,United States,Boerne,Returning,Amanda Perez,sonnybsonora@hotmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-11,product,United Kingdom,Prestwick,Returning,Audrey Brown,mrsamb41@hotmail.com,United Kingdom,151.200,Balloon Over Paris Bridge,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,shipping,United States,Mountain View,First-time,Nupur Chatterji,nchats@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,product,Germany,Greifswald,First-time,Friederike Kautz,schuhgroesse39@web.de,Germany,71.100,Red Riding Hood,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-12,shipping,Germany,Greifswald,First-time,Friederike Kautz,schuhgroesse39@web.de,Germany,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,Brazil,Porto Alegre,First-time,Guilherme Paulon Torrano Ferreira Lopes,guilherme.torrano.lopes@gmail.com,Brazil,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,Maldives,Hulhumale,First-time,Ali Naseem,h.niham@icloud.com,Maldives,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,South Korea,Seoul,First-time,yeawon kim,icloudlove@gmail.com,South Korea,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,Ireland,An Cheathrú Rua,First-time,Michael Brennan,michael.carraroesruthan@gmail.com,Ireland,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,Bryn Mawr,First-time,Jared Winikor,jwinikor@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-12,shipping,United States,Teaneck,First-time,Sarah Potash,sarlipman@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,Seminole,First-time,Courtney Landry,cwygle@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,Cañon City,First-time,Marvin Carter,marvinandpaulavan@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,Bedford,First-time,Kristin Keefe,kristinkeefe627@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,Dover,Returning,Tara Faro,taramfaro@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,Dover,First-time,Tara Faro,taramfaro@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,Salem,First-time,Chris Collins,christojc@me.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,Doylestown,First-time,James Dimitry,dimitryjim@hotmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,Grand Rapids,First-time,Victoria Olson,volson25@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,Macungie,Returning,Elizabeth Pflugler,pflugler@kutztown.edu,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,Coral Springs,First-time,Thao Dinh,thao.dinh1822@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,Edison,First-time,Julie Arnow,rivky.arnow@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,Buffalo Grove,Returning,Barb Kavitt,rkavitt@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-12,shipping,United States,Chicago,Returning,Cristine Guillermo,cristine@uic.edu,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,Rome,Returning,Melody Meisenhelder,melmeisen@yahoo.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-12,shipping,United States,Philadelphia,First-time,danielle Levin,daniellalevin9@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,Philadelphia,First-time,Mark Lichter,aplusroofing@comcast.net,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-12,shipping,United States,Philadelphia,Returning,Mark Lichter,aplusroofing@comcast.net,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,New York,First-time,Connor Copeland,cpcope.films@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,St. Petersburg,First-time,Joshua Baker,24bakerj@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-12,shipping,United States,Northfield,Returning,Heidi Frahler,hfrahler@sbcglobal.net,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,Warrington,First-time,Jonathan Hric,meleon330@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-12,shipping,United States,Livingston,First-time,Simon Ahn,ahnsimon@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-12,shipping,United States,Livingston,Returning,Yelena Rom,yelenarom@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,Sylvania,First-time,Mark Friedman,amfassociates@bex.net,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-12,shipping,United States,Elk Grove,First-time,Pam Nickson,pmdoctor@hotmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,Laurens,First-time,Bernadette Winters Bell,b15lola@aol.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,Austin,First-time,Lauren Leon,lauriele1222@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,Greensboro,First-time,Brett Thompson,brett.triad@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-12,shipping,United States,Alexandria,First-time,Rachel Tucker,rct0509@yahoo.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,Leesport,First-time,Stephen Hart,hart88@comcast.net,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-12,shipping,United States,Villa Rica,First-time,Tracy Denton,tcdenton90@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-12,shipping,United States,Birmingham,First-time,Abigail Hedden,abigail_hedden@yahoo.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,Burlington,First-time,Evan Holman,evanholman@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-12,shipping,United States,Benson,Returning,Jennifer Hall,gbread94@aol.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,Bronx,First-time,Raisa Ratri,raisaratri14@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,Washington,Returning,Thao Dinh,thao.dinh1822@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,Gallatin,First-time,Bill Thompson,bthompson@whud.org,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,Hidden Hills,First-time,CAROL MEYERS,carolmeyers123@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,Glen Ellyn,Returning,Annike Strauch,astrauch44@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-12,shipping,United States,Tulsa,First-time,Brian Jennings,918xander@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-12,shipping,United States,Abington,First-time,Charles Nalliah,charles@nalliah.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,Round Rock,First-time,Anastasia Kondratiuk,00-0@inbox.ru,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,Medford,First-time,Bryan Gonzalez,gobryan007@yahoo.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,Marco Island,Returning,Margaret Huff,vicki.huff50@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,Farmers Branch,First-time,Robin Johnston,mizjay@verizon.net,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,Springfield,Returning,Debra Moses,ok2mo@hotmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,Seattle,First-time,Matthew Langa,matthewlanga@msn.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-12,shipping,United States,Jersey City,First-time,GISUK LEE,leeg17@my.erau.edu,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,Denver,Returning,Thomas Bagan,rlwms3212@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,30.000,0.000,30.000,0.000,0,0
+2023-12,shipping,United States,San Francisco,First-time,Audrey Menna,audreyamenna@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,Rancho Santa Fe,First-time,Terry Haahr,terryhaahr@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,Dallas,Returning,Catherine Bellah,catherinebkeller@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,Loveland,First-time,alice brown,alicefbrown36@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,Costa Mesa,First-time,Sharon Wingert,shezwingert@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-12,shipping,United States,Briarcliff Manor,Returning,Michele Pullman,mishmommy@aol.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,Plainview,Returning,Sandra Bashary,s.bashary@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,Plainview,First-time,Alicia Arso-DiStefano,aliciadistefano16@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,Hoover,First-time,Tripp Mckee,tripp@priorityulogistics.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-12,shipping,United States,North Bend,Returning,Noreen Galang,noreencgalang@yahoo.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-12,shipping,United States,Orlando,First-time,Gisuk Les,lgs2860@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,New Oxford,First-time,Patricia Rickrode,squire64@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,San Juan Capistrano,First-time,Valerie Bertolone,valerie.bertolone@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,Los Angeles,Returning,Edna Joe,keccajoe@aol.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,Pikesville,First-time,Dr. Randi Miller,amyhull56@comcast.net,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-12,shipping,United States,Fairfield,Returning,Irene Bauer,irene.bauer@comcast.net,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-12,shipping,United States,Buskirk,First-time,Karen O'Leary,ksoleary@yahoo.com,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-12,shipping,United States,Fort Worth,First-time,Lori Paluska,jessica.paluska@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,Boynton Beach,First-time,Daniella Nordlicht,daniella.nordlicht@gmail.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,Orland Park,Returning,Cristine Guillermo,cristineguillermo@yahoo.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,Havre De Grace,Returning,Marian Friedman,marian.joy.friedman@comcast.net,United States,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-12,shipping,United States,Oceanside,First-time,stephen mauskopf,ruksym@gmail.com,Israel,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United States,Dix Hills,Returning,Shari Jason,jasonfamilyny@aol.com,United States,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,Switzerland,Lanzenhäusern,First-time,Demira Lerch,lerch.demira@gmail.com,Switzerland,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,Panama,Panama,First-time,Joseph Gazal,joeygazal@gmail.com,Panama,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,Israel,Tel Aviv,Returning,Shirley and Omid Rahmani,dbassiri@gmail.com,Israel,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,unknown,United States,Orlando,First-time,Gisuk Les,lgs2860@gmail.com,United States,0.000,,0,0.000,0.000,-152.200,-152.200,0.000,0.000,-152.200,0.000,0,0
+2023-12,shipping,Germany,Hamburg,First-time,Elnaz Klippgen,elnaz.m@freenet.de,Germany,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-12,shipping,Australia,Harrington Park,First-time,Stevan Maslovaric,steve1389@hotmail.com,Australia,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-12,shipping,United Kingdom,Wigston,First-time,Tara Mercer,taramercer@aol.com,United Kingdom,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United Kingdom,London,First-time,Sarah Woodward,sarahlouisewoodward@hotmail.co.uk,United Kingdom,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,United Kingdom,London,First-time,Man Yu Choi,choitzeyu@gmail.com,United Kingdom,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-12,shipping,Canada,Winnipeg,First-time,Melissa Serbin,melissanserbin@gmail.com,Canada,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,Canada,Toronto,First-time,Chana Levi,chanalevi97@gmail.com,Canada,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,Canada,Vancouver,First-time,Claudine Lam,claudine_lam@hotmail.com,Canada,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,Singapore,Singapore,First-time,Elaine Tan,elaineissomewhere@gmail.com,Singapore,0.000,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0
+2023-12,shipping,Sweden,Södertälje,First-time,Omar Salem,omar-saad1998@hotmail.se,Sweden,0.000,,0,0.000,0.000,0.000,0.000,15.000,0.000,15.000,0.000,0,0
+2023-12,product,Sweden,Södertälje,First-time,Omar Salem,omar-saad1998@hotmail.se,Sweden,151.200,Shape of My Heart,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,Sweden,Södertälje,First-time,Omar Salem,omar-saad1998@hotmail.se,Sweden,151.200,Tree of Life,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,South Korea,Seoul,First-time,yeawon kim,icloudlove@gmail.com,South Korea,151.200,Birthday Celebration,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,Brazil,Porto Alegre,First-time,Guilherme Paulon Torrano Ferreira Lopes,guilherme.torrano.lopes@gmail.com,Brazil,10.000,Hand-written personalization inside your painting,1,10.000,0.000,0.000,10.000,0.000,0.000,10.000,10.000,1,1
+2023-12,product,Brazil,Porto Alegre,First-time,Guilherme Paulon Torrano Ferreira Lopes,guilherme.torrano.lopes@gmail.com,Brazil,71.100,Medical Superhero F,1,142.200,0.000,-71.100,71.100,0.000,0.000,71.100,71.100,1,1
+2023-12,product,Brazil,Porto Alegre,First-time,Guilherme Paulon Torrano Ferreira Lopes,guilherme.torrano.lopes@gmail.com,Brazil,71.100,Cat,1,142.200,0.000,-71.100,71.100,0.000,0.000,71.100,71.100,1,1
+2023-12,product,United States,Abington,First-time,Charles Nalliah,charles@nalliah.com,United States,151.200,Tree of Life,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Loveland,First-time,alice brown,alicefbrown36@gmail.com,United States,71.100,Dove,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-12,product,United States,Dix Hills,Returning,Shari Jason,jasonfamilyny@aol.com,United States,151.200,Tree of Life,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Dix Hills,Returning,Shari Jason,jasonfamilyny@aol.com,United States,151.200,Jerusalem Prayer,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Buffalo Grove,Returning,Barb Kavitt,rkavitt@gmail.com,United States,151.200,Kotel,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Costa Mesa,First-time,Sharon Wingert,shezwingert@gmail.com,United States,71.100,Home,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-12,product,United States,Springfield,Returning,Debra Moses,ok2mo@hotmail.com,United States,71.100,Water Yourself,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-12,product,United States,Springfield,Returning,Debra Moses,ok2mo@hotmail.com,United States,71.100,Small Things,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-12,product,United States,Northfield,Returning,Heidi Frahler,hfrahler@sbcglobal.net,United States,10.000,Hand-written personalization inside your painting,1,20.000,0.000,0.000,20.000,0.000,0.000,20.000,20.000,2,2
+2023-12,product,United States,Northfield,Returning,Heidi Frahler,hfrahler@sbcglobal.net,United States,71.100,Soar!,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-12,product,United States,Northfield,Returning,Heidi Frahler,hfrahler@sbcglobal.net,United States,71.100,Happy Penguin,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-12,product,United States,Havre De Grace,Returning,Marian Friedman,marian.joy.friedman@comcast.net,United States,151.200,Tree of Life,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Havre De Grace,Returning,Marian Friedman,marian.joy.friedman@comcast.net,United States,151.200,Open Birdcage,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Havre De Grace,Returning,Marian Friedman,marian.joy.friedman@comcast.net,United States,430.000,Your favorite Petite 4x larger,1,430.000,0.000,0.000,430.000,0.000,0.000,430.000,430.000,1,1
+2023-12,product,United States,Farmers Branch,First-time,Robin Johnston,mizjay@verizon.net,United States,71.100,Dove,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-12,product,United States,Bryn Mawr,First-time,Jared Winikor,jwinikor@gmail.com,United States,430.000,Your favorite Petite 4x larger,1,430.000,0.000,0.000,430.000,0.000,0.000,430.000,430.000,1,1
+2023-12,product,United States,San Juan Capistrano,First-time,Valerie Bertolone,valerie.bertolone@gmail.com,United States,151.200,Open Birdcage,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Rancho Santa Fe,First-time,Terry Haahr,terryhaahr@gmail.com,United States,151.200,Bookville,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Rancho Santa Fe,First-time,Terry Haahr,terryhaahr@gmail.com,United States,151.200,Kotel,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Rancho Santa Fe,First-time,Terry Haahr,terryhaahr@gmail.com,United States,151.200,Rachel's Tomb,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Jersey City,First-time,GISUK LEE,leeg17@my.erau.edu,United States,71.100,Together,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-12,product,United States,Jersey City,First-time,GISUK LEE,leeg17@my.erau.edu,United States,10.000,Hand-written personalization inside your painting,1,10.000,0.000,0.000,10.000,0.000,0.000,10.000,10.000,1,1
+2023-12,product,United States,Jersey City,First-time,GISUK LEE,leeg17@my.erau.edu,United States,151.200,Flying High With You,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Hoover,First-time,Tripp Mckee,tripp@priorityulogistics.com,United States,151.200,Feathers,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Leesport,First-time,Stephen Hart,hart88@comcast.net,United States,151.200,Balloon Over Paris Bridge,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Round Rock,First-time,Anastasia Kondratiuk,00-0@inbox.ru,United States,151.200,Wildflowers,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Coral Springs,First-time,Thao Dinh,thao.dinh1822@gmail.com,United States,71.100,Daydreams,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-12,product,United States,Orlando,First-time,Gisuk Les,lgs2860@gmail.com,United States,71.100,Together,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-12,product,United States,Orlando,First-time,Gisuk Les,lgs2860@gmail.com,United States,71.100,Tree of Orange Hearts,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-12,product,United States,Orlando,First-time,Gisuk Les,lgs2860@gmail.com,United States,10.000,Hand-written personalization inside your painting,1,10.000,0.000,0.000,10.000,0.000,0.000,10.000,10.000,1,1
+2023-12,product,United States,Plainview,First-time,Alicia Arso-DiStefano,aliciadistefano16@gmail.com,United States,151.200,NY Jazz,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Plainview,Returning,Sandra Bashary,s.bashary@gmail.com,United States,151.200,Moonlight Dance,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Dover,First-time,Tara Faro,taramfaro@gmail.com,United States,430.000,Your favorite Petite 4x larger,1,430.000,0.000,0.000,430.000,0.000,0.000,430.000,430.000,1,1
+2023-12,product,United States,Dover,Returning,Tara Faro,taramfaro@gmail.com,United States,151.200,Fiddler on the Roof,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Dover,Returning,Tara Faro,taramfaro@gmail.com,United States,71.100,Tree of Orange Hearts,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-12,product,United States,Dover,Returning,Tara Faro,taramfaro@gmail.com,United States,71.100,Small Things,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-12,product,United States,Dover,Returning,Tara Faro,taramfaro@gmail.com,United States,71.100,Water Yourself,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-12,product,United States,Dover,Returning,Tara Faro,taramfaro@gmail.com,United States,71.100,Friendship,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-12,product,United States,Grand Rapids,First-time,Victoria Olson,volson25@gmail.com,United States,151.200,Seaside Serenade,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Tulsa,First-time,Brian Jennings,918xander@gmail.com,United States,151.200,Balloon Over Paris Bridge,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Elk Grove,First-time,Pam Nickson,pmdoctor@hotmail.com,United States,71.100,Water Yourself,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-12,product,United States,Bedford,First-time,Kristin Keefe,kristinkeefe627@gmail.com,United States,151.200,Tree of Life,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,New Oxford,First-time,Patricia Rickrode,squire64@gmail.com,United States,79.000,Ruth,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-12,product,United States,Pikesville,First-time,Dr. Randi Miller,amyhull56@comcast.net,United States,430.000,Your favorite Petite 4x larger,1,430.000,0.000,0.000,430.000,0.000,0.000,430.000,430.000,1,1
+2023-12,product,United States,Birmingham,First-time,Abigail Hedden,abigail_hedden@yahoo.com,United States,151.200,Birthday Celebration,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Seattle,First-time,Matthew Langa,matthewlanga@msn.com,United States,71.100,Sweet Year,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-12,product,United States,Teaneck,First-time,Sarah Potash,sarlipman@gmail.com,United States,151.200,Child on Beach,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Dallas,Returning,Catherine Bellah,catherinebkeller@gmail.com,United States,151.200,Giraffe Heart,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Boynton Beach,First-time,Daniella Nordlicht,daniella.nordlicht@gmail.com,United States,71.100,Western Wall,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-12,product,United States,Benson,Returning,Jennifer Hall,gbread94@aol.com,United States,71.100,Western Wall,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-12,product,United States,Buskirk,First-time,Karen O'Leary,ksoleary@yahoo.com,United States,71.100,Tree of Purple Hearts,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-12,product,United States,Bronx,First-time,Raisa Ratri,raisaratri14@gmail.com,United States,71.100,Jaffa,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-12,product,United States,Alexandria,First-time,Rachel Tucker,rct0509@yahoo.com,United States,71.100,Red Riding Hood,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-12,product,United States,Orland Park,Returning,Cristine Guillermo,cristineguillermo@yahoo.com,United States,10.000,Hand-written personalization inside your painting,1,10.000,0.000,0.000,10.000,0.000,0.000,10.000,10.000,1,1
+2023-12,product,United States,Orland Park,Returning,Cristine Guillermo,cristineguillermo@yahoo.com,United States,71.100,Small Things,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-12,product,United States,Laurens,First-time,Bernadette Winters Bell,b15lola@aol.com,United States,151.200,Jerusalem Prayer,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Laurens,First-time,Bernadette Winters Bell,b15lola@aol.com,United States,151.200,Fiddler on the Roof,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Oceanside,First-time,stephen mauskopf,ruksym@gmail.com,Israel,151.200,Kotel,1,129.230,0.000,0.000,129.230,0.000,21.970,151.200,129.230,1,1
+2023-12,product,United States,New York,First-time,Connor Copeland,cpcope.films@gmail.com,United States,71.100,Jaffa,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-12,product,United States,North Bend,Returning,Noreen Galang,noreencgalang@yahoo.com,United States,71.100,Sailing,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-12,product,United States,Livingston,First-time,Simon Ahn,ahnsimon@gmail.com,United States,430.000,Your favorite Petite 4x larger,1,430.000,0.000,0.000,430.000,0.000,0.000,430.000,430.000,1,1
+2023-12,product,United States,Livingston,Returning,Yelena Rom,yelenarom@gmail.com,United States,71.100,Together,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-12,product,United States,Livingston,Returning,Yelena Rom,yelenarom@gmail.com,United States,71.100,Dove,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-12,product,United States,Livingston,Returning,Yelena Rom,yelenarom@gmail.com,United States,151.200,NY Jazz,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Mountain View,First-time,Nupur Chatterji,nchats@gmail.com,United States,71.100,Wonder,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-12,product,United States,Los Angeles,Returning,Edna Joe,keccajoe@aol.com,United States,430.000,Dancing Cranes,1,430.000,0.000,0.000,430.000,0.000,0.000,430.000,430.000,1,1
+2023-12,product,United States,Seminole,First-time,Courtney Landry,cwygle@gmail.com,United States,71.100,Jerusalem,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-12,product,United States,Seminole,First-time,Courtney Landry,cwygle@gmail.com,United States,71.100,Western Wall,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-12,product,United States,Seminole,First-time,Courtney Landry,cwygle@gmail.com,United States,71.100,Dove,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-12,product,United States,Chicago,Returning,Cristine Guillermo,cristine@uic.edu,United States,71.100,Friendship,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-12,product,United States,Chicago,Returning,Cristine Guillermo,cristine@uic.edu,United States,10.000,Hand-written personalization inside your painting,1,10.000,0.000,0.000,10.000,0.000,0.000,10.000,10.000,1,1
+2023-12,product,United States,Rome,Returning,Melody Meisenhelder,melmeisen@yahoo.com,United States,151.200,Tree of Life,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Briarcliff Manor,Returning,Michele Pullman,mishmommy@aol.com,United States,71.100,Tree of Orange Hearts,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-12,product,United States,Denver,Returning,Thomas Bagan,rlwms3212@gmail.com,United States,71.100,Friendship,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-12,product,United States,Denver,Returning,Thomas Bagan,rlwms3212@gmail.com,United States,71.100,Soar!,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-12,product,United States,Marco Island,Returning,Margaret Huff,vicki.huff50@gmail.com,United States,71.100,Wonder,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-12,product,United States,Marco Island,Returning,Margaret Huff,vicki.huff50@gmail.com,United States,151.200,Child on Beach,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Doylestown,First-time,James Dimitry,dimitryjim@hotmail.com,United States,151.200,Open Birdcage,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Fairfield,Returning,Irene Bauer,irene.bauer@comcast.net,United States,71.100,Wonder,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-12,product,United States,Fairfield,Returning,Irene Bauer,irene.bauer@comcast.net,United States,71.100,Boots,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-12,product,United States,Washington,Returning,Thao Dinh,thao.dinh1822@gmail.com,United States,151.200,Feathers,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Medford,First-time,Bryan Gonzalez,gobryan007@yahoo.com,United States,151.200,Venice Autumn,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Burlington,First-time,Evan Holman,evanholman@gmail.com,United States,10.000,Hand-written personalization inside your painting,1,10.000,0.000,0.000,10.000,0.000,0.000,10.000,10.000,1,1
+2023-12,product,United States,Burlington,First-time,Evan Holman,evanholman@gmail.com,United States,71.100,Sailing,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-12,product,United States,San Francisco,First-time,Audrey Menna,audreyamenna@gmail.com,United States,151.200,Italian Pastel,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Philadelphia,Returning,Mark Lichter,aplusroofing@comcast.net,United States,151.200,Fiddler on the Roof,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Philadelphia,First-time,danielle Levin,daniellalevin9@gmail.com,United States,71.100,Rendezvous,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-12,product,United States,Philadelphia,First-time,Mark Lichter,aplusroofing@comcast.net,United States,151.200,Aleph Bet,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Philadelphia,First-time,Mark Lichter,aplusroofing@comcast.net,United States,151.200,Kotel,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Philadelphia,First-time,Mark Lichter,aplusroofing@comcast.net,United States,151.200,Venice Autumn,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Philadelphia,First-time,Mark Lichter,aplusroofing@comcast.net,United States,151.200,Here's to you!,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Philadelphia,First-time,Mark Lichter,aplusroofing@comcast.net,United States,151.200,NY Jazz,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Philadelphia,First-time,Mark Lichter,aplusroofing@comcast.net,United States,151.200,Jerusalem Prayer,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Philadelphia,First-time,Mark Lichter,aplusroofing@comcast.net,United States,151.200,Mesorah,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Philadelphia,First-time,Mark Lichter,aplusroofing@comcast.net,United States,151.200,Fiddler on the Roof,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Philadelphia,First-time,Mark Lichter,aplusroofing@comcast.net,United States,151.200,Shalom,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Philadelphia,First-time,Mark Lichter,aplusroofing@comcast.net,United States,151.200,Balloon Over Paris Bridge,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Philadelphia,First-time,Mark Lichter,aplusroofing@comcast.net,United States,151.200,Tree of Life,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Glen Ellyn,Returning,Annike Strauch,astrauch44@gmail.com,United States,430.000,Limitless,1,430.000,0.000,0.000,430.000,0.000,0.000,430.000,430.000,1,1
+2023-12,product,United States,Fort Worth,First-time,Lori Paluska,jessica.paluska@gmail.com,United States,71.100,Western Wall,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-12,product,United States,Gallatin,First-time,Bill Thompson,bthompson@whud.org,United States,151.200,Aleph Bet,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Villa Rica,First-time,Tracy Denton,tcdenton90@gmail.com,United States,151.200,Ballet Class,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Greensboro,First-time,Brett Thompson,brett.triad@gmail.com,United States,151.200,Feathers,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Warrington,First-time,Jonathan Hric,meleon330@gmail.com,United States,151.200,Moonlight Dance,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Sylvania,First-time,Mark Friedman,amfassociates@bex.net,United States,151.200,Here's to you!,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Macungie,Returning,Elizabeth Pflugler,pflugler@kutztown.edu,United States,71.100,Penguin,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-12,product,United States,Macungie,Returning,Elizabeth Pflugler,pflugler@kutztown.edu,United States,151.200,Wildflowers,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Hidden Hills,First-time,CAROL MEYERS,carolmeyers123@gmail.com,United States,151.200,Mesorah,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Cañon City,First-time,Marvin Carter,marvinandpaulavan@gmail.com,United States,59.000,The Well of Being,1,59.000,0.000,0.000,59.000,0.000,0.000,59.000,59.000,1,1
+2023-12,product,United States,Austin,First-time,Lauren Leon,lauriele1222@gmail.com,United States,430.000,Limitless,1,430.000,0.000,0.000,430.000,0.000,0.000,430.000,430.000,1,1
+2023-12,product,United States,St. Petersburg,First-time,Joshua Baker,24bakerj@gmail.com,United States,151.200,Flying High With You,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United States,Salem,First-time,Chris Collins,christojc@me.com,United States,151.200,Italian Pastel,1,151.200,-15.120,0.000,136.080,0.000,0.000,136.080,136.080,1,1
+2023-12,product,United States,Edison,First-time,Julie Arnow,rivky.arnow@gmail.com,United States,71.100,Western Wall,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-12,product,Singapore,Singapore,First-time,Elaine Tan,elaineissomewhere@gmail.com,Singapore,151.200,Open Birdcage,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,Maldives,Hulhumale,First-time,Ali Naseem,h.niham@icloud.com,Maldives,71.100,Cat,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-12,product,Panama,Panama,First-time,Joseph Gazal,joeygazal@gmail.com,Panama,430.000,Your favorite Petite 4x larger,1,430.000,0.000,0.000,430.000,0.000,0.000,430.000,430.000,1,1
+2023-12,product,Australia,Harrington Park,First-time,Stevan Maslovaric,steve1389@hotmail.com,Australia,151.200,Italian Pastel,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,Canada,Vancouver,First-time,Claudine Lam,claudine_lam@hotmail.com,Canada,151.200,Open Birdcage,1,151.200,-15.120,0.000,136.080,0.000,0.000,136.080,136.080,1,1
+2023-12,product,Canada,Toronto,First-time,Chana Levi,chanalevi97@gmail.com,Canada,151.200,Jerusalem Prayer,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,Canada,Winnipeg,First-time,Melissa Serbin,melissanserbin@gmail.com,Canada,79.000,Jaffa,1,79.000,0.000,0.000,79.000,0.000,0.000,79.000,79.000,1,1
+2023-12,product,United Kingdom,London,First-time,Man Yu Choi,choitzeyu@gmail.com,United Kingdom,10.000,Hand-written personalization inside your painting,1,10.000,0.000,0.000,10.000,0.000,0.000,10.000,10.000,1,1
+2023-12,product,United Kingdom,London,First-time,Man Yu Choi,choitzeyu@gmail.com,United Kingdom,71.100,Sweet Year,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-12,product,United Kingdom,London,First-time,Sarah Woodward,sarahlouisewoodward@hotmail.co.uk,United Kingdom,151.200,Jerusalem Prayer,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,United Kingdom,Wigston,First-time,Tara Mercer,taramercer@aol.com,United Kingdom,151.200,Here's to you!,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,Ireland,An Cheathrú Rua,First-time,Michael Brennan,michael.carraroesruthan@gmail.com,Ireland,71.100,Wonder,1,71.100,0.000,0.000,71.100,0.000,0.000,71.100,71.100,1,1
+2023-12,product,Israel,Tel Aviv,Returning,Shirley and Omid Rahmani,dbassiri@gmail.com,Israel,151.200,Tree of Life,1,129.230,-12.920,0.000,116.310,0.000,19.770,136.080,116.310,1,1
+2023-12,product,Israel,Tel Aviv,Returning,Shirley and Omid Rahmani,dbassiri@gmail.com,Israel,71.100,Mazal,1,60.760,-6.070,0.000,54.690,0.000,9.300,63.990,54.690,1,1
+2023-12,product,Israel,Tel Aviv,Returning,Shirley and Omid Rahmani,dbassiri@gmail.com,Israel,71.100,Sweet Year,1,60.760,-6.070,0.000,54.690,0.000,9.300,63.990,54.690,1,1
+2023-12,product,Israel,Tel Aviv,Returning,Shirley and Omid Rahmani,dbassiri@gmail.com,Israel,71.100,Jaffa,1,60.760,-6.070,0.000,54.690,0.000,9.300,63.990,54.690,1,1
+2023-12,product,Switzerland,Lanzenhäusern,First-time,Demira Lerch,lerch.demira@gmail.com,Switzerland,151.200,Birthday Celebration,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,Germany,Hamburg,First-time,Elnaz Klippgen,elnaz.m@freenet.de,Germany,151.200,Ballet Class,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1
+2023-12,product,Germany,Greifswald,First-time,Friederike Kautz,schuhgroesse39@web.de,Germany,151.200,Wildflowers,1,151.200,0.000,0.000,151.200,0.000,0.000,151.200,151.200,1,1

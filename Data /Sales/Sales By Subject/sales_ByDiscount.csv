@@ -1,0 +1,19 @@
+discount_name,discount_method,discount_type,discount_class,orders,total_gross_sales,total_non_shipping_script_discount_amount,total_discount_amount,total_returns,total_net_sales,total_shipping_script_discount_amount,total_shipping_price,total_tax_amount,grand_total_sales
+BLACKFRIDAY,Code,Percentage,product,1,22000.000,0.000,-8800.000,0.000,13200.000,0.000,0.000,0.000,13200.000
+WELCOME,Code,Percentage,order,29,5246.660,0.000,-531.260,-499.690,4237.340,0.000,120.000,58.000,4400.340
+LOYALTY,Code,Percentage,product,7,1182.000,0.000,-141.840,0.000,1040.160,0.000,45.000,0.000,1085.160
+LET_US_STRIVE,Code,Percentage,order,3,1234.000,0.000,-246.800,0.000,987.200,0.000,0.000,0.000,987.200
+2Love,Code,Percentage,order,4,1190.000,0.000,-238.000,0.000,952.000,0.000,15.000,0.000,952.000
+SMILE,Code,Buy X get Y,product,2,897.000,0.000,-207.000,0.000,690.000,0.000,0.000,0.000,690.000
+SPRING23,Code,Fixed amount,product,4,676.000,0.000,-80.000,0.000,596.000,0.000,15.000,0.000,611.000
+Hot off the Easel Discount,Automatic,Percentage,product,3,507.000,0.000,-50.700,0.000,456.300,0.000,15.000,0.000,471.300
+StudioGuest,Code,Percentage,order,1,530.000,0.000,-106.000,0.000,424.000,0.000,0.000,0.000,424.000
+FineCC,Code,Fixed amount,product,1,430.000,0.000,-25.200,0.000,404.800,0.000,0.000,0.000,404.800
+GreatService30,Code,Percentage,product,1,530.000,0.000,-159.000,0.000,371.000,0.000,0.000,0.000,371.000
+shipfree,Code,Free shipping,shipping,1,338.000,0.000,-15.000,0.000,270.400,0.000,15.000,0.000,270.400
+Love20,Code,Percentage,order,1,238.000,0.000,-47.600,0.000,190.400,0.000,0.000,0.000,190.400
+SUKKOT23,Code,Percentage,order,1,237.000,0.000,-47.400,0.000,189.600,0.000,0.000,0.000,189.600
+09A528CEB32D,Code,Percentage,order,1,169.000,0.000,-8.450,0.000,160.550,0.000,0.000,0.000,160.550
+Sebban,Code,Percentage,product,1,169.000,0.000,-25.350,0.000,143.650,0.000,0.000,0.000,143.650
+GREATSERVICE,Code,Percentage,product,1,89.000,0.000,-15.800,0.000,73.200,0.000,0.000,0.000,73.200
+FedericoVIP,Code,Percentage,product,1,79.000,0.000,-6.900,0.000,72.100,0.000,0.000,0.000,72.100

@@ -1,0 +1,983 @@
+month,order_id,billing_city,customer_id,product_id,product_price,product_title,product_type,variant_id,variant_sku,variant_title,api_client_title,shipping_city,market_name,total_sales,discounts,orders,customers,net_quantity,ordered_item_quantity
+2023-01,5125581144294,Kelowna,6680148934886,0,0.000,,,0,,,Online Store,Kelowna,International,0.000,0.000,0,0,0,0
+2023-01,5086626611430,Auburn,4429319798939,5906079547547,69.000,Tree of Orange Hearts,Mini,37053058220187,MCtoohB,Black,Online Store,Springfield,United States,69.000,0.000,1,1,1,1
+2023-01,5086626611430,Auburn,4429319798939,0,0.000,,,0,,,Online Store,Springfield,United States,0.000,0.000,0,0,0,0
+2023-01,5087234097382,Downingtown,6044981690598,4826366673034,69.000,Together,Mini,33258994925706,MCtogetB,Black,Online Store,Downingtown,United States,69.000,0.000,1,1,1,1
+2023-01,5087234097382,Downingtown,6044981690598,0,0.000,,,0,,,Online Store,Downingtown,United States,15.000,0.000,0,0,0,0
+2023-01,5129864904934,Huntington Woods,6622440325350,0,0.000,,,0,,,Online Store,West Bloomfield Township,United States,0.000,0.000,0,0,0,0
+2023-01,5129864904934,Huntington Woods,6622440325350,4600669896842,169.000,Kotel,Gift Collection,32493256441994,PCkotelB,Black,Online Store,West Bloomfield Township,United States,169.000,0.000,1,1,1,1
+2023-01,5103242477798,Potomac,6658018771174,7030030565531,530.000,Tree,Classique,41153211170971,CCtreeB,,Online Store,Washington,United States,530.000,0.000,1,1,1,1
+2023-01,5103242477798,Potomac,6658018771174,0,0.000,,,0,,,Online Store,Washington,United States,0.000,0.000,0,0,0,0
+2023-01,5109673066726,Huntington Woods,6622440325350,0,0.000,,,0,,,Online Store,Margate,United States,0.000,0.000,0,0,0,0
+2023-01,5109673066726,Huntington Woods,6622440325350,4612036624522,169.000,Jerusalem Prayer,Gift Collection,32492898451594,PCjerusB,Black,Online Store,Margate,United States,169.000,0.000,1,1,1,1
+2023-01,5095764689126,Tel Aviv Yafo/תל אביב יפו,6652314058982,4826366673034,69.000,Together,Mini,33258995024010,MCtogetW,Wood,Online Store,Tel Aviv Yafo/תל אביב יפו,International,69.000,0.000,1,1,1,1
+2023-01,5095764689126,Tel Aviv Yafo/תל אביב יפו,6652314058982,0,0.000,,,0,,,Online Store,Tel Aviv Yafo/תל אביב יפו,International,0.000,0.000,0,0,0,0
+2023-01,5110640541926,Bordentown,4307502694555,6203234119,169.000,A moment's rest,Gift Collection,32493203882122,PCamomeB,Black,Online Store,Bordentown,United States,135.200,-33.800,1,1,1,1
+2023-01,5110640541926,Bordentown,4307502694555,0,0.000,,,0,,,Online Store,Bordentown,United States,0.000,0.000,0,0,0,0
+2023-01,5110640541926,Bordentown,4307502694555,4826366673034,69.000,Together,Mini,33258994925706,MCtogetB,Black,Online Store,Bordentown,United States,55.200,-13.800,1,1,1,1
+2023-01,5090389065958,Corte Madera,6646972809446,5280927514779,69.000,Water Yourself,Mini,34575556771995,MCwateLB,Black / Standard,Online Store,Stillwater,United States,69.000,0.000,1,1,1,1
+2023-01,5090389065958,Corte Madera,6646972809446,0,0.000,,,0,,,Online Store,Stillwater,United States,0.000,0.000,0,0,0,0
+2023-01,5113201197286,Naples,6666791813350,0,0.000,,,0,,,Online Store,Naperville,United States,0.000,0.000,0,0,0,0
+2023-01,5113201197286,Naples,6666791813350,7462201950438,69.000,Happy Penguin,Mini,42095352185062,MChpengB,Black,Online Store,Naperville,United States,69.000,0.000,1,1,1,1
+2023-01,5086763155686,Centerton,5972175814886,5280927514779,69.000,Water Yourself,Mini,34575556771995,MCwateLB,Black / Standard,Online Store,Middlebury,United States,69.000,0.000,1,1,1,1
+2023-01,5086763155686,Centerton,5972175814886,0,0.000,,,0,,,Online Store,Middlebury,United States,0.000,0.000,0,0,0,0
+2023-01,5100534563046,Columbia,4332472959131,5280927514779,69.000,Water Yourself,Mini,34575556771995,MCwateLB,Black / Standard,Online Store,Columbia,United States,69.000,0.000,1,1,1,1
+2023-01,5100534563046,Columbia,4332472959131,0,0.000,,,0,,,Online Store,Columbia,United States,15.000,0.000,0,0,0,0
+2023-01,5126756008166,Washington,6681547374822,4612009623690,169.000,Aleph Bet,Gift Collection,32492690210954,PCalephB,Black,Online Store,Washington,United States,405.600,-101.400,1,1,3,3
+2023-01,5126756008166,Washington,6681547374822,0,0.000,,,0,,,Online Store,Washington,United States,0.000,0.000,0,0,0,0
+2023-01,5122002223334,Toronto,5253975572635,4826526285962,69.000,Beginnings,Mini,33259441160330,MCbeginW,Wood,Online Store,Toronto,International,55.200,-13.800,1,1,1,1
+2023-01,5122002223334,Toronto,5253975572635,5480589525147,69.000,Sweet Year,Mini,35426691448987,MCsweetB,Black,Online Store,Toronto,International,55.200,-13.800,1,1,1,1
+2023-01,5122002223334,Toronto,5253975572635,0,0.000,,,0,,,Online Store,Toronto,International,0.000,0.000,0,0,0,0
+2023-01,5119543214310,Houston,4382671044763,5906079547547,69.000,Tree of Orange Hearts,Mini,37053058220187,MCtoohB,Black,Online Store,Houston,United States,69.000,0.000,1,1,1,1
+2023-01,5119543214310,Houston,4382671044763,0,0.000,,,0,,,Online Store,Houston,United States,0.000,0.000,0,0,0,0
+2023-01,5125581144294,Kelowna,6680148934886,5646494269595,59.000,The Well of Being,Book Prints,36119407263899,,,Online Store,Kelowna,International,59.000,0.000,1,1,1,1
+2023-02,5139658211558,Fort Worth,6694044827878,4796659433610,69.000,Love,Mini,43417907527910,,Black / Hebrew,Online Store,Fort Worth,United States,69.000,0.000,1,1,1,1
+2023-02,5139658211558,Fort Worth,6694044827878,0,0.000,,,0,,,Online Store,Fort Worth,United States,15.000,0.000,0,0,0,0
+2023-02,5136296116454,Depew,5223907229851,0,0.000,,,0,,,Online Store,Depew,United States,0.000,0.000,0,0,0,0
+2023-02,5136296116454,Depew,5223907229851,6306382599,169.000,Ballet,Gift Collection,32491304452234,PCballeB,Black,Online Store,Depew,United States,169.000,0.000,1,1,1,1
+2023-02,5165116784870,Newport Beach,5228600557723,0,0.000,,,0,,,Online Store,Newport Beach,United States,0.000,0.000,0,0,0,0
+2023-02,5165087588582,Parma,6046055268582,0,0.000,,,0,,,Online Store,Parma,United States,0.000,0.000,0,0,0,0
+2023-02,5165087588582,Parma,6046055268582,5906123686043,69.000,Tree of Purple Hearts,Mini,37053196927131,MCtophB,Black,Online Store,Parma,United States,69.000,0.000,1,1,1,1
+2023-02,5165087588582,Parma,6046055268582,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,Parma,United States,10.000,0.000,1,1,1,1
+2023-02,5136317579494,Severna Park,4501732655259,6306615303,169.000,Tree of Life,Gift Collection,32493347307658,PCtreeoB,Black,Online Store,Severna Park,United States,135.200,-33.800,1,1,1,1
+2023-02,5136317579494,Severna Park,4501732655259,4612049404042,169.000,Open Birdcage,Gift Collection,32492984336522,PCopenbB,Black,Online Store,Severna Park,United States,135.200,-33.800,1,1,1,1
+2023-02,5136317579494,Severna Park,4501732655259,0,0.000,,,0,,,Online Store,Severna Park,United States,0.000,0.000,0,0,0,0
+2023-02,5143429677286,Toms River,6698761355494,0,0.000,,,0,,,Online Store,Los Angeles,United States,15.000,0.000,0,0,0,0
+2023-02,5143429677286,Toms River,6698761355494,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,Los Angeles,United States,9.000,-1.000,1,1,1,1
+2023-02,5143429677286,Toms River,6698761355494,4826452033674,69.000,Western Wall,Mini,33259238523018,MCwesteB,Black,Online Store,Los Angeles,United States,62.100,-6.900,1,1,1,1
+2023-02,5138534400230,Carnation,6693045928166,4826452033674,69.000,Western Wall,Mini,33259238555786,MCwesteC,Cream,Online Store,Carnation,United States,69.000,0.000,1,1,1,1
+2023-02,5138534400230,Carnation,6693045928166,0,0.000,,,0,,,Online Store,Carnation,United States,0.000,0.000,0,0,0,0
+2023-02,5148188279014,Wilmington,4377592594587,0,0.000,,,0,,,Online Store,Wilmington,United States,0.000,0.000,0,0,0,0
+2023-02,5148188279014,Wilmington,4377592594587,5280927514779,69.000,Water Yourself,Mini,34575556771995,MCwateLB,Black / Standard,Online Store,Wilmington,United States,69.000,0.000,1,1,1,1
+2023-02,5163678531814,Las Vegas,6729097773286,0,0.000,,,0,,,Online Store,Zichron Yaakov,International,-12.000,0.000,0,0,0,0
+2023-02,5163678531814,Las Vegas,6729097773286,5646494269595,59.000,The Well of Being,Book Prints,36119407263899,,,Online Store,Zichron Yaakov,International,59.000,0.000,1,1,1,1
+2023-02,5138055397606,Hindhead,5904334651622,6203234119,169.000,A moment's rest,Gift Collection,32493203882122,PCamomeB,Black,Online Store,Hindhead,International,160.550,-8.450,1,1,1,1
+2023-02,5138055397606,Hindhead,5904334651622,0,0.000,,,0,,,Online Store,Hindhead,International,0.000,0.000,0,0,0,0
+2023-02,5151078711526,Richardson,6710867460326,0,0.000,,,0,,,Online Store,Richardson,United States,0.000,0.000,0,0,0,0
+2023-02,5151078711526,Richardson,6710867460326,4612036624522,169.000,Jerusalem Prayer,Gift Collection,32492898451594,PCjerusB,Black,Online Store,Richardson,United States,169.000,0.000,1,1,1,1
+2023-02,5136362504422,Valhermoso Springs,5098931323035,0,0.000,,,0,,,Online Store,Valhermoso Springs,United States,0.000,0.000,0,0,0,0
+2023-02,5136362504422,Valhermoso Springs,5098931323035,5280931414171,69.000,Small Things,Mini,34575590981787,MCsmallB,Black,Online Store,Valhermoso Springs,United States,55.200,-13.800,1,1,1,1
+2023-02,5136362504422,Valhermoso Springs,5098931323035,4826366673034,69.000,Together,Mini,33258994925706,MCtogetB,Black,Online Store,Valhermoso Springs,United States,55.200,-13.800,1,1,1,1
+2023-02,5136362504422,Valhermoso Springs,5098931323035,5280927514779,69.000,Water Yourself,Mini,34575556771995,MCwateLB,Black / Standard,Online Store,Valhermoso Springs,United States,55.200,-13.800,1,1,1,1
+2023-02,5162669506790,Flossmoor,6728176173286,4826470842506,69.000,Mazal,Mini,33259296129162,MCmazalB,Black,Online Store,Flossmoor,United States,69.000,0.000,1,1,1,1
+2023-02,5162669506790,Flossmoor,6728176173286,0,0.000,,,0,,,Online Store,Flossmoor,United States,0.000,0.000,0,0,0,0
+2023-02,5162121003238,Plano,6727608008934,0,0.000,,,0,,,Online Store,Plano,United States,0.000,0.000,0,0,0,0
+2023-02,5162121003238,Plano,6727608008934,7543722442982,169.000,Giraffe Heart,Gift Collection,42287338324198,PCGiraffB,Black,Online Store,Plano,United States,152.100,-16.900,1,1,1,1
+2023-02,5165116784870,Newport Beach,5228600557723,5906079547547,69.000,Tree of Orange Hearts,Mini,37053058285723,MCtoohW,Wood,Online Store,Newport Beach,United States,138.000,0.000,1,1,2,2
+2023-03,5183372558566,Sartell,6032691429606,4605174448266,169.000,Lone Oak Tree,Gift Collection,32491293606026,PCloneoB,Black,Online Store,Sartell,United States,169.000,0.000,1,1,1,1
+2023-03,5191907442918,ראש העין,6758364512486,0,0.000,,,0,,,Online Store,ראש העין,International,0.000,0.000,0,0,0,0
+2023-03,5172818346214,New York,6737462952166,0,0.000,,,0,,,Online Store,New York,United States,0.000,0.000,0,0,0,0
+2023-03,5197493862630,Narborough,5042444992667,0,0.000,,,0,,,Online Store,Narborough,International,0.000,0.000,0,0,0,0
+2023-03,5197493862630,Narborough,5042444992667,6202345927,169.000,Shalom,Gift Collection,32493286621322,PCshaloB,Black,Online Store,Narborough,International,169.000,0.000,1,1,1,1
+2023-03,5195475124454,תקוע,6772957937894,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,תקוע,International,0.000,-0.850,1,1,0,1
+2023-03,5202534498534,Lincoln,6266758463718,0,0.000,,,0,,,Online Store,Lincoln,United States,0.000,0.000,0,0,0,0
+2023-03,5200235987174,Lake Forest,6019077177574,0,0.000,,,0,,,Online Store,Lake Forest,United States,15.000,0.000,0,0,0,0
+2023-03,5200235987174,Lake Forest,6019077177574,4605174448266,169.000,Lone Oak Tree,Gift Collection,32491293704330,PCloneoC,Cream,Online Store,Lake Forest,United States,149.000,-20.000,1,1,1,1
+2023-03,5178588627174,Deerfield,6742509748454,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,Deerfield,United States,10.000,0.000,1,1,1,1
+2023-03,5199961620710,Lexington,6567840252134,5280925122715,69.000,Boots,Mini,34575547138203,MCbootsW,Wood,Online Store,Lexington,United States,69.000,0.000,1,1,1,1
+2023-03,5199961620710,Lexington,6567840252134,6351983687,3100.000,Paris Spring,Series,37097494904987,,Black,Online Store,Lexington,United States,3100.000,0.000,1,1,1,1
+2023-03,5183372558566,Sartell,6032691429606,0,0.000,,,0,,,Online Store,Sartell,United States,0.000,0.000,0,0,0,0
+2023-03,5199961620710,Lexington,6567840252134,0,0.000,,,0,,,Online Store,Lexington,United States,-5.000,0.000,0,0,0,0
+2023-03,5177492373734,Beverly Hills,5315077013659,0,0.000,,,0,,,Online Store,Lakewood,United States,0.000,0.000,0,0,0,0
+2023-03,5177492373734,Beverly Hills,5315077013659,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,Lakewood,United States,10.000,0.000,1,1,1,1
+2023-03,5198543782118,Otelfingen,6251130061030,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,Otelfingen,International,10.000,0.000,1,1,1,1
+2023-03,5198543782118,Otelfingen,6251130061030,5280931414171,69.000,Small Things,Mini,34575591047323,MCsmallW,Wood,Online Store,Otelfingen,International,69.000,0.000,1,1,1,1
+2023-03,5198543782118,Otelfingen,6251130061030,0,0.000,,,0,,,Online Store,Otelfingen,International,0.000,0.000,0,0,0,0
+2023-03,5196167348454,Coventry,5069226639515,0,0.000,,,0,,,Online Store,Singapore,International,0.000,0.000,0,0,0,0
+2023-03,5196167348454,Coventry,5069226639515,4826239631498,69.000,Emet,Mini,33258667638922,MCemetB,Black,Online Store,Singapore,International,69.000,0.000,1,1,1,1
+2023-03,5196167348454,Coventry,5069226639515,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,Singapore,International,10.000,0.000,1,1,1,1
+2023-03,5207549903078,Belton,6845968974054,0,0.000,,,0,,,Online Store,Belton,United States,0.000,0.000,0,0,0,0
+2023-03,5207549903078,Belton,6845968974054,6203242823,169.000,Men Raining,Gift Collection,33814001975434,PCmenraB,Black,Online Store,Belton,United States,169.000,0.000,1,1,1,1
+2023-03,5200615047398,Grayson,4561350885531,6203252359,169.000,Happy Anniversary,Gift Collection,32493224788106,PChanniC,Cream,Online Store,Grayson,United States,149.000,-20.000,1,1,1,1
+2023-03,5200615047398,Grayson,4561350885531,0,0.000,,,0,,,Online Store,Grayson,United States,0.000,0.000,0,0,0,0
+2023-03,5207545741542,Lake Havasu City,6174152884454,0,0.000,,,0,,,Online Store,Houston,United States,15.000,0.000,0,0,0,0
+2023-03,5203621216486,New York,6737462952166,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,New York,United States,10.000,0.000,1,1,1,1
+2023-03,5203621216486,New York,6737462952166,0,0.000,,,0,,,Online Store,New York,United States,0.000,0.000,0,0,0,0
+2023-03,5203621216486,New York,6737462952166,4826239631498,69.000,Emet,Mini,33258667704458,MCemetW,Wood,Online Store,New York,United States,62.100,-6.900,1,1,1,1
+2023-03,5192510636262,Newark,6758994837734,7340697977062,169.000,Rachel's Tomb,Gift Collection,41885021733094,PCracheB,Black,Online Store,Newark,International,169.000,0.000,1,1,1,1
+2023-03,5192510636262,Newark,6758994837734,0,0.000,,,0,,,Online Store,Newark,International,0.000,0.000,0,0,0,0
+2023-03,5205775614182,Mclean,4427342774427,0,0.000,,,0,,,Online Store,Mclean,United States,0.000,0.000,0,0,0,0
+2023-03,5205775614182,Mclean,4427342774427,6306615303,169.000,Tree of Life,Gift Collection,32493347307658,PCtreeoB,Black,Online Store,Mclean,United States,149.000,-20.000,1,1,1,1
+2023-03,5204054147302,Ramat Gan,6758333350118,4826452033674,69.000,Western Wall,Mini,33259238523018,MCwesteB,Black,Online Store,Ramat Gan,International,69.000,0.000,1,1,1,1
+2023-03,5204054147302,Ramat Gan,6758333350118,0,0.000,,,0,,,Online Store,Ramat Gan,International,15.000,0.000,0,0,0,0
+2023-03,5178588627174,Deerfield,6742509748454,0,0.000,,,0,,,Online Store,Deerfield,United States,0.000,0.000,0,0,0,0
+2023-03,5178588627174,Deerfield,6742509748454,4826582417546,69.000,Red Riding Hood,Mini,33259588944010,MCrrhW,Wood,Online Store,Deerfield,United States,69.000,0.000,1,1,1,1
+2023-03,5202534498534,Lincoln,6266758463718,6179810823,169.000,Moonlight Dance,Gift Collection,32493353861258,PCmoonlB,Black,Online Store,Lincoln,United States,149.000,-20.000,1,1,1,1
+2023-03,5193042133222,Perris,6759494779110,4826452033674,69.000,Western Wall,Mini,33259238523018,MCwesteB,Black,Online Store,Perris,United States,69.000,0.000,1,1,1,1
+2023-03,5193042133222,Perris,6759494779110,6306615303,169.000,Tree of Life,Gift Collection,32493347307658,PCtreeoB,Black,Online Store,Perris,United States,169.000,0.000,1,1,1,1
+2023-03,5195475124454,תקוע,6772957937894,0,0.000,,,0,,,Online Store,תקוע,International,0.000,0.000,0,0,0,0
+2023-03,5193042133222,Perris,6759494779110,0,0.000,,,0,,,Online Store,Perris,United States,15.000,0.000,0,0,0,0
+2023-03,5191907442918,ראש העין,6758364512486,5280920141979,69.000,Home,Mini,34575525249179,MChomeW,Wood / Standard,Online Store,ראש העין,International,69.000,0.000,1,1,1,1
+2023-03,5172818346214,New York,6737462952166,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,New York,United States,10.000,0.000,1,1,1,1
+2023-03,5199198421222,Champaign,6790182437094,0,0.000,,,0,,,Online Store,Dublin,United States,0.000,0.000,0,0,0,0
+2023-03,5199198421222,Champaign,6790182437094,6160174791,169.000,Fiddler on the Roof,Gift Collection,32493186154634,PCfiddlB,Black,Online Store,Dublin,United States,152.100,-16.900,1,1,1,1
+2023-03,5207545741542,Lake Havasu City,6174152884454,6129484398747,169.000,Wildflowers,Gift Collection,37806903853211,PCwildfB,Black / Standard,Online Store,Houston,United States,169.000,0.000,1,1,1,1
+2023-03,5182972887270,Bogota,6173248061670,4826253754506,69.000,Fiddler,Mini,33258703978634,MCfiddlB,Black,Online Store,Hollywood,United States,69.000,0.000,1,1,1,1
+2023-03,5182972887270,Bogota,6173248061670,4612036624522,169.000,Jerusalem Prayer,Gift Collection,32492898451594,PCjerusB,Black,Online Store,Hollywood,United States,169.000,0.000,1,1,1,1
+2023-03,5182972887270,Bogota,6173248061670,0,0.000,,,0,,,Online Store,Hollywood,United States,0.000,0.000,0,0,0,0
+2023-03,5180921512166,Englewood,5966185234662,6306419079,169.000,Cranes in Winter,Gift Collection,32493198704778,PCcraneB,Black,Online Store,Englewood,United States,169.000,0.000,1,1,1,1
+2023-03,5180921512166,Englewood,5966185234662,0,0.000,,,0,,,Online Store,Englewood,United States,15.000,0.000,0,0,0,0
+2023-03,5200726229222,Holtville,6804982366438,0,0.000,,,0,,,Online Store,San Diego,United States,0.000,0.000,0,0,0,0
+2023-03,5200726229222,Holtville,6804982366438,7340697977062,169.000,Rachel's Tomb,Gift Collection,41885021733094,PCracheB,Black,Online Store,San Diego,United States,169.000,0.000,1,1,1,1
+2023-03,5193642639590,Garnet Valley,6761808298214,4600669896842,169.000,Kotel,Gift Collection,32493256441994,PCkotelB,Black,Online Store,Garnet Valley,United States,169.000,0.000,1,1,1,1
+2023-03,5193642639590,Garnet Valley,6761808298214,0,0.000,,,0,,,Online Store,Garnet Valley,United States,0.000,0.000,0,0,0,0
+2023-03,5198925037798,New York,6737462952166,0,0.000,,,0,,,Online Store,New York,United States,15.000,0.000,0,0,0,0
+2023-03,5198925037798,New York,6737462952166,4826652835978,69.000,Wonder,Mini,33259816714378,MCwondeW,Wood,Online Store,New York,United States,69.000,0.000,1,1,1,1
+2023-03,5198925037798,New York,6737462952166,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,New York,United States,10.000,0.000,1,1,1,1
+2023-03,5173267792102,Northborough,6627347300582,0,0.000,,,0,,,Online Store,Northborough,United States,0.000,0.000,0,0,0,0
+2023-03,5173267792102,Northborough,6627347300582,4600557273226,169.000,NY Jazz,Gift Collection,32493269909642,PCnyjazB,Black,Online Store,Northborough,United States,169.000,0.000,1,1,1,1
+2023-03,5176873517286,Beverly Hills,5315077013659,0,0.000,,,0,,,Online Store,Lakewood,United States,0.000,0.000,0,0,0,0
+2023-03,5176873517286,Beverly Hills,5315077013659,4600669896842,169.000,Kotel,Gift Collection,32493256474762,PCkotelC,Cream,Online Store,Lakewood,United States,143.650,-25.350,1,1,1,1
+2023-03,5172818346214,New York,6737462952166,4826470842506,69.000,Mazal,Mini,33259296227466,MCmazalW,Wood,Online Store,New York,United States,69.000,0.000,1,1,1,1
+2023-04,5227684856038,Beaverton,6958433042662,5646494269595,59.000,The Well of Being,Book Prints,36119407263899,,,Online Store,Beaverton,United States,59.000,0.000,1,1,1,1
+2023-04,5249023377638,San Mateo,5201766318235,4826253754506,69.000,Fiddler,Mini,33258703978634,MCfiddlB,Black,Online Store,San Mateo,United States,69.000,0.000,1,1,1,1
+2023-04,5215241601254,Liberty Twp,5178599538843,0,0.000,,,0,,,Online Store,Liberty Twp,United States,0.000,0.000,0,0,0,0
+2023-04,5249128628454,Smithtown,7049667150054,0,0.000,,,0,,,Online Store,Smithtown,United States,15.000,0.000,0,0,0,0
+2023-04,5228673204454,Dublin,6965456109798,4826253754506,69.000,Fiddler,Mini,33258703978634,MCfiddlB,Black,Online Store,Dublin,United States,69.000,0.000,1,1,1,1
+2023-04,5228673204454,Dublin,6965456109798,0,0.000,,,0,,,Online Store,Dublin,United States,0.000,0.000,0,0,0,0
+2023-04,5243579728102,Weston,5588314488987,5280931414171,69.000,Small Things,Mini,34575590981787,MCsmallB,Black,Online Store,Weston,United States,69.000,0.000,1,1,1,1
+2023-04,5244381397222,Buffalo,7041760362726,4826366673034,69.000,Together,Mini,33258994925706,MCtogetB,Black,Online Store,Buffalo,United States,138.000,0.000,1,1,2,2
+2023-04,5247169626342,Benson,6929959387366,4826526285962,69.000,Beginnings,Mini,33259441094794,MCbeginB,Black,Online Store,Benson,United States,62.100,-6.900,1,1,1,1
+2023-04,5227388371174,West Plains,5926661554406,0,0.000,,,0,,,Online Store,Golden,United States,15.000,0.000,0,0,0,0
+2023-04,5240786190566,Framingham,6573960954086,5755818934427,169.000,Feathers,Gift Collection,36586571169947,PCfeathB,Black,Online Store,Framingham,United States,169.000,0.000,1,1,1,1
+2023-04,5243525857510,Newport Beach,5228600557723,0,0.000,,,0,,,Online Store,Newport Beach,United States,0.000,0.000,0,0,0,0
+2023-04,5224907505894,Desenzano Del Garda,6737462952166,4796659433610,69.000,Love,Mini,43417907593446,,Wood / Hebrew,Online Store,Desenzano Del Garda,International,69.000,0.000,1,1,1,1
+2023-04,5249023377638,San Mateo,5201766318235,0,0.000,,,0,,,Online Store,San Mateo,United States,0.000,0.000,0,0,0,0
+2023-04,5214798315750,Garnet Valley,6761808298214,4600669896842,169.000,Kotel,Gift Collection,32493256441994,PCkotelB,Black,Online Store,Garnet Valley,United States,169.000,0.000,1,1,1,1
+2023-04,5217117864166,Forest City,5200906518683,0,0.000,,,0,,,Online Store,Forest City,United States,0.000,0.000,0,0,0,0
+2023-04,5227261395174,Washington,6956513394918,5646494269595,59.000,The Well of Being,Book Prints,36119407263899,,,Online Store,Washington,United States,59.000,0.000,1,1,1,1
+2023-04,5238274818278,Chicago,5483718410395,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,Glenview,United States,10.000,0.000,1,1,1,1
+2023-04,5223308165350,Placentia,6933165474022,0,0.000,,,0,,,Online Store,Placentia,United States,15.000,0.000,0,0,0,0
+2023-04,5244381397222,Buffalo,7041760362726,0,0.000,,,0,,,Online Store,Buffalo,United States,0.000,0.000,0,0,0,0
+2023-04,5215241601254,Liberty Twp,5178599538843,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,Liberty Twp,United States,10.000,0.000,1,1,1,1
+2023-04,5210666533094,Pasadena,6862835581158,0,0.000,,,0,,,Online Store,Paris,International,0.000,0.000,0,0,0,0
+2023-04,5217206501606,Manchester,6898103189734,7941422907622,169.000,Italian Pastel,Gift Collection,43270753059046,,Cream,Online Store,Manchester,International,152.100,-16.900,1,1,1,1
+2023-04,5240786190566,Framingham,6573960954086,0,0.000,,,0,,,Online Store,Framingham,United States,15.000,0.000,0,0,0,0
+2023-04,5227388371174,West Plains,5926661554406,8151177986278,169.000,Mesorah,Gift Collection,43671957536998,,Black,Online Store,Golden,United States,152.100,-16.900,1,1,1,1
+2023-04,5243579728102,Weston,5588314488987,5906079547547,69.000,Tree of Orange Hearts,Mini,37053058252955,MCtoohC,Cream,Online Store,Weston,United States,69.000,0.000,1,1,1,1
+2023-04,5238274818278,Chicago,5483718410395,0,0.000,,,0,,,Online Store,Glenview,United States,0.000,0.000,0,0,0,0
+2023-04,5227602247910,Springfield,6046357258470,0,0.000,,,0,,,Online Store,Springfield,United States,0.000,0.000,0,0,0,0
+2023-04,5209972408550,Nudgee,6858119741670,0,0.000,,,0,,,Online Store,Nudgee,International,15.000,0.000,0,0,0,0
+2023-04,5244381397222,Buffalo,7041760362726,4796659433610,69.000,Love,Mini,33210380681354,MCahavaB,Black / English,Online Store,Buffalo,United States,0.000,-69.000,1,1,1,1
+2023-04,5209456509158,Dordrecht,6856152514790,4826366673034,69.000,Together,Mini,33258995024010,MCtogetW,Wood,Online Store,Dordrecht,International,69.000,0.000,1,1,1,1
+2023-04,5224894562534,West Hempstead,6420014104806,8151177986278,169.000,Mesorah,Gift Collection,43671957569766,,Cream,Online Store,West Hempstead,United States,152.100,-16.900,1,1,1,1
+2023-04,5244381397222,Buffalo,7041760362726,5906079547547,69.000,Tree of Orange Hearts,Mini,37053058220187,MCtoohB,Black,Online Store,Buffalo,United States,0.000,-69.000,1,1,1,1
+2023-04,5223308165350,Placentia,6933165474022,4806075023498,69.000,Bear,Mini,33210426556554,MCbearB,Black,Online Store,Placentia,United States,69.000,0.000,1,1,1,1
+2023-04,5224967831782,West Plains,5926661554406,0,0.000,,,0,,,Online Store,West Plains,United States,0.000,0.000,0,0,0,0
+2023-04,5227159060710,Finchley,6955636883686,0,0.000,,,0,,,Online Store,London,International,0.000,0.000,0,0,0,0
+2023-04,5249023377638,San Mateo,5201766318235,4816345923722,69.000,Cat,Mini,33233301373066,MCcatB,Black,Online Store,San Mateo,United States,0.000,-69.000,1,1,1,1
+2023-04,5249023377638,San Mateo,5201766318235,4826452033674,69.000,Western Wall,Mini,33259238588554,MCwesteW,Wood,Online Store,San Mateo,United States,69.000,0.000,1,1,1,1
+2023-04,5243525857510,Newport Beach,5228600557723,4806031704202,69.000,Soar!,Mini,39939094347931,MCsoarW,Wood,Online Store,Newport Beach,United States,69.000,0.000,1,1,1,1
+2023-04,5210666533094,Pasadena,6862835581158,6202345927,169.000,Shalom,Gift Collection,32493286621322,PCshaloB,Black,Online Store,Paris,International,169.000,0.000,1,1,1,1
+2023-04,5247169626342,Benson,6929959387366,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,Benson,United States,9.000,-1.000,1,1,1,1
+2023-04,5214798315750,Garnet Valley,6761808298214,0,0.000,,,0,,,Online Store,Garnet Valley,United States,0.000,0.000,0,0,0,0
+2023-04,5227261395174,Washington,6956513394918,0,0.000,,,0,,,Online Store,Washington,United States,0.000,0.000,0,0,0,0
+2023-04,5209554944230,Le Vésinet,6856480424166,0,0.000,,,0,,,Online Store,Le Grand Saconnex,International,0.000,0.000,0,0,0,0
+2023-04,5249128628454,Smithtown,7049667150054,5755818934427,169.000,Feathers,Gift Collection,36586571202715,PCfeathC,Cream,Online Store,Smithtown,United States,169.000,0.000,1,1,1,1
+2023-04,5209554944230,Le Vésinet,6856480424166,6179810823,169.000,Moonlight Dance,Gift Collection,32493353861258,PCmoonlB,Black,Online Store,Le Grand Saconnex,International,169.000,0.000,1,1,1,1
+2023-04,5227684856038,Beaverton,6958433042662,0,0.000,,,0,,,Online Store,Beaverton,United States,0.000,0.000,0,0,0,0
+2023-04,5238274818278,Chicago,5483718410395,4806031704202,69.000,Soar!,Mini,33210402242698,MCsoarB,Black,Online Store,Glenview,United States,69.000,0.000,1,1,1,1
+2023-04,5227602247910,Springfield,6046357258470,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,Springfield,United States,10.000,0.000,1,1,1,1
+2023-04,5209972408550,Nudgee,6858119741670,4826408681610,69.000,Jerusalem,Mini,33259121344650,MCjerusB,Black,Online Store,Nudgee,International,69.000,0.000,1,1,1,1
+2023-04,5227602247910,Springfield,6046357258470,4826526285962,69.000,Beginnings,Mini,33259441094794,MCbeginB,Black,Online Store,Springfield,United States,69.000,0.000,1,1,1,1
+2023-04,5224907505894,Desenzano Del Garda,6737462952166,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,Desenzano Del Garda,International,10.000,0.000,1,1,1,1
+2023-04,5247169626342,Benson,6929959387366,0,0.000,,,0,,,Online Store,Benson,United States,0.000,0.000,0,0,0,0
+2023-04,5224907505894,Desenzano Del Garda,6737462952166,0,0.000,,,0,,,Online Store,Desenzano Del Garda,International,0.000,0.000,0,0,0,0
+2023-04,5217206501606,Manchester,6898103189734,0,0.000,,,0,,,Online Store,Manchester,International,0.000,0.000,0,0,0,0
+2023-04,5209456509158,Dordrecht,6856152514790,0,0.000,,,0,,,Online Store,Dordrecht,International,0.000,0.000,0,0,0,0
+2023-04,5223308165350,Placentia,6933165474022,4826652835978,69.000,Wonder,Mini,33259816648842,MCwondeB,Black,Online Store,Placentia,United States,69.000,0.000,1,1,1,1
+2023-04,5244381397222,Buffalo,7041760362726,5280931414171,69.000,Small Things,Mini,34575590981787,MCsmallB,Black,Online Store,Buffalo,United States,138.000,0.000,1,1,2,2
+2023-04,5211562967270,Avon Lake,6868239712486,0,0.000,,,0,,,Online Store,Avon Lake,United States,0.000,0.000,0,0,0,0
+2023-04,5244381397222,Buffalo,7041760362726,5906123686043,69.000,Tree of Purple Hearts,Mini,37053196927131,MCtophB,Black,Online Store,Buffalo,United States,138.000,0.000,1,1,2,2
+2023-04,5215241601254,Liberty Twp,5178599538843,5906123686043,69.000,Tree of Purple Hearts,Mini,37053196959899,MCtophC,Cream,Online Store,Liberty Twp,United States,69.000,0.000,1,1,1,1
+2023-04,5227159060710,Finchley,6955636883686,4826526285962,69.000,Beginnings,Mini,33259441094794,MCbeginB,Black,Online Store,London,International,69.000,0.000,1,1,1,1
+2023-04,5249023377638,San Mateo,5201766318235,4826277413002,69.000,Herodium,Mini,33258759291018,MCherodW,Wood,Online Store,San Mateo,United States,138.000,0.000,1,1,2,2
+2023-04,5211562967270,Avon Lake,6868239712486,4612025942154,169.000,Goat on Balcony,Gift Collection,32492997116042,PCgoatoB,Black,Online Store,Avon Lake,United States,152.100,-16.900,1,1,1,1
+2023-04,5229671383270,Valley Village,6971635957990,0,0.000,,,0,,,Online Store,Valley Village,United States,15.000,0.000,0,0,0,0
+2023-04,5217117864166,Forest City,5200906518683,5280920141979,69.000,Home,Mini,34575525183643,MChomeB,Black / Standard,Online Store,Forest City,United States,69.000,0.000,1,1,1,1
+2023-04,5224967831782,West Plains,5926661554406,8151177986278,169.000,Mesorah,Gift Collection,43671957536998,,Black,Online Store,West Plains,United States,152.100,-16.900,1,1,1,1
+2023-04,5243579728102,Weston,5588314488987,0,0.000,,,0,,,Online Store,Weston,United States,0.000,0.000,0,0,0,0
+2023-04,5229671383270,Valley Village,6971635957990,8145538744550,69.000,Jaffa,Mini,43661784678630,,Black,Online Store,Valley Village,United States,69.000,0.000,1,1,1,1
+2023-04,5224894562534,West Hempstead,6420014104806,0,0.000,,,0,,,Online Store,West Hempstead,United States,0.000,0.000,0,0,0,0
+2023-05,5290236117222,University Place,4468801011867,0,0.000,,,0,,,Online Store,University Place,United States,0.000,0.000,0,0,0,0
+2023-05,5263301705958,Toronto,5253975572635,6306514567,169.000,Venice Autumn,Gift Collection,32493351075978,PCvenicB,Black,Online Store,Marinha Grande,International,169.000,0.000,1,1,1,1
+2023-05,5284083663078,Springfield,7202716942566,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,Springfield,United States,10.000,0.000,1,1,1,1
+2023-05,5284083663078,Springfield,7202716942566,0,0.000,,,0,,,Online Store,Springfield,United States,0.000,0.000,0,0,0,0
+2023-05,5284083663078,Springfield,7202716942566,4826452033674,69.000,Western Wall,Mini,33259238523018,MCwesteB,Black,Online Store,Springfield,United States,69.000,0.000,1,1,1,1
+2023-05,5282744762598,Wheeling,4192573751451,5280927514779,69.000,Water Yourself,Mini,34575556804763,MCwateLC,Cream,Online Store,Wheeling,United States,69.000,0.000,1,1,1,1
+2023-05,5282744762598,Wheeling,4192573751451,0,0.000,,,0,,,Online Store,Wheeling,United States,0.000,0.000,0,0,0,0
+2023-05,5282744762598,Wheeling,4192573751451,4826452033674,69.000,Western Wall,Mini,33259238555786,MCwesteC,Cream,Online Store,Wheeling,United States,69.000,0.000,1,1,1,1
+2023-05,5291240915174,Maple Grove,7230556766438,6160174791,169.000,Fiddler on the Roof,Gift Collection,32493186154634,PCfiddlB,Black,Online Store,Maple Grove,United States,169.000,0.000,1,1,1,1
+2023-05,5291240915174,Maple Grove,7230556766438,0,0.000,,,0,,,Online Store,Maple Grove,United States,15.000,0.000,0,0,0,0
+2023-05,5253044601062,Queens,7079317176550,0,0.000,,,0,,,Online Store,Surrey,International,0.000,0.000,0,0,0,0
+2023-05,5253044601062,Queens,7079317176550,6129484398747,169.000,Wildflowers,Gift Collection,37806903885979,PCwildfC,Cream / Standard,Online Store,Surrey,International,169.000,0.000,1,1,1,1
+2023-05,5287765770470,Stamford,7225709330662,0,0.000,,,0,,,Online Store,Stamford,United States,15.000,0.000,0,0,0,0
+2023-05,5287765770470,Stamford,7225709330662,5453242728603,79.000,Ruth,,35297301823643,,,Online Store,Stamford,United States,79.000,0.000,1,1,1,1
+2023-05,5263301705958,Toronto,5253975572635,0,0.000,,,0,,,Online Store,Marinha Grande,International,0.000,0.000,0,0,0,0
+2023-05,5251475276006,Webster Springs,5113275056283,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,Webster Springs,United States,10.000,0.000,1,1,1,1
+2023-05,5251475276006,Webster Springs,5113275056283,0,0.000,,,0,,,Online Store,Webster Springs,United States,0.000,0.000,0,0,0,0
+2023-05,5251475276006,Webster Springs,5113275056283,4826366673034,69.000,Together,Mini,33258994925706,MCtogetB,Black,Online Store,Webster Springs,United States,69.000,0.000,1,1,1,1
+2023-05,5265879531750,Corte Madera,6646972809446,5280931414171,69.000,Small Things,Mini,34575590981787,MCsmallB,Black,Online Store,Los Angeles,United States,69.000,0.000,1,1,1,1
+2023-05,5265879531750,Corte Madera,6646972809446,0,0.000,,,0,,,Online Store,Los Angeles,United States,0.000,0.000,0,0,0,0
+2023-05,5291089264870,Toronto,7186247516390,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,Rishon Lezion,International,9.000,-0.850,1,1,1,1
+2023-05,5291089264870,Toronto,7186247516390,4796659433610,69.000,Love,Mini,43417907527910,,Black / Hebrew,Online Store,Rishon Lezion,International,62.100,-5.890,1,1,1,1
+2023-05,5291089264870,Toronto,7186247516390,0,0.000,,,0,,,Online Store,Rishon Lezion,International,15.000,0.000,0,0,0,0
+2023-05,5288048263398,Englewood,5966185234662,0,0.000,,,0,,,Online Store,Englewood,United States,15.000,0.000,0,0,0,0
+2023-05,5288048263398,Englewood,5966185234662,6306419079,169.000,Cranes in Winter,Gift Collection,32493198704778,PCcraneB,Black,Online Store,Englewood,United States,169.000,0.000,1,1,1,1
+2023-05,5290963599590,Los Angeles,6167414178022,0,0.000,,,0,,,Online Store,Tel Aviv,International,0.000,0.000,0,0,0,0
+2023-05,5290963599590,Los Angeles,6167414178022,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,Tel Aviv,International,10.000,0.000,1,1,1,1
+2023-05,5290963599590,Los Angeles,6167414178022,4826366673034,69.000,Together,Mini,33258994925706,MCtogetB,Black,Online Store,Tel Aviv,International,69.000,0.000,1,1,1,1
+2023-05,5291959746790,Huntington Woods,6622440325350,6202345927,169.000,Shalom,Gift Collection,32493286621322,PCshaloB,Black,Online Store,Keego Harbor,United States,169.000,0.000,1,1,1,1
+2023-05,5291959746790,Huntington Woods,6622440325350,0,0.000,,,0,,,Online Store,Keego Harbor,United States,0.000,0.000,0,0,0,0
+2023-05,5271909302502,Fort Lee,5370158710939,0,0.000,,,0,,,Online Store,Southbury,United States,0.000,0.000,0,0,0,0
+2023-05,5271909302502,Fort Lee,5370158710939,4826366673034,69.000,Together,Mini,33258994925706,MCtogetB,Black,Online Store,Southbury,United States,69.000,0.000,1,1,1,1
+2023-05,5285690310886,Auburn,7213271941350,0,0.000,,,0,,,Online Store,Auburn,United States,0.000,0.000,0,0,0,0
+2023-05,5285690310886,Auburn,7213271941350,4612049404042,169.000,Open Birdcage,Gift Collection,32492984369290,PCopenbC,Cream,Online Store,Auburn,United States,169.000,0.000,1,1,1,1
+2023-05,5250295759078,Powell,5583397224603,4826366673034,69.000,Together,Mini,33258994925706,MCtogetB,Black,Online Store,Powell,United States,69.000,0.000,1,1,1,1
+2023-05,5250295759078,Powell,5583397224603,0,0.000,,,0,,,Online Store,Powell,United States,0.000,0.000,0,0,0,0
+2023-05,5265681088742,Omaha,7109479334118,8145538744550,69.000,Jaffa,Mini,43661784678630,,Black,Online Store,Omaha,United States,69.000,0.000,1,1,1,1
+2023-05,5265681088742,Omaha,7109479334118,0,0.000,,,0,,,Online Store,Omaha,United States,0.000,0.000,0,0,0,0
+2023-05,5259100520678,Sugar Land,5224317485211,5280932626587,69.000,Daydreams,Mini,34575601762459,MCdaydrC,Cream,Online Store,Sugar Land,United States,69.000,0.000,1,1,1,1
+2023-05,5259100520678,Sugar Land,5224317485211,0,0.000,,,0,,,Online Store,Sugar Land,United States,0.000,0.000,0,0,0,0
+2023-05,5259100520678,Sugar Land,5224317485211,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,Sugar Land,United States,10.000,0.000,1,1,1,1
+2023-05,5250304508134,Powell,5583397224603,4826253754506,69.000,Fiddler,Mini,33258703978634,MCfiddlB,Black,Online Store,Powell,United States,69.000,0.000,1,1,1,1
+2023-05,5250304508134,Powell,5583397224603,0,0.000,,,0,,,Online Store,Powell,United States,0.000,0.000,0,0,0,0
+2023-05,5266215174374,Pomona,7112952840422,0,0.000,,,0,,,Online Store,Borehamwood,International,0.000,0.000,0,0,0,0
+2023-05,5266215174374,Pomona,7112952840422,5755818934427,169.000,Feathers,Gift Collection,36586571169947,PCfeathB,Black,Online Store,Borehamwood,International,169.000,0.000,1,1,1,1
+2023-05,5249786216678,Chino,4453372133531,4816345923722,69.000,Cat,Mini,33233301373066,MCcatB,Black,Online Store,Chino,United States,69.000,0.000,1,1,1,1
+2023-05,5249786216678,Chino,4453372133531,0,0.000,,,0,,,Online Store,Chino,United States,0.000,0.000,0,0,0,0
+2023-05,5259432329446,Franklin,4297215901851,0,0.000,,,0,,,Online Store,Franklin,United States,0.000,0.000,0,0,0,0
+2023-05,5259432329446,Franklin,4297215901851,5280927514779,69.000,Water Yourself,Mini,34575556804763,MCwateLC,Cream,Online Store,Franklin,United States,69.000,0.000,1,1,1,1
+2023-05,5290236117222,University Place,4468801011867,4605089349770,169.000,Child on Beach,Gift Collection,32493160038538,PCchildB,Black,Online Store,University Place,United States,169.000,0.000,1,1,1,1
+2023-05,5276685795558,Sestu,7158959374566,0,0.000,,,0,,,Online Store,Sestu,International,15.000,0.000,0,0,0,0
+2023-05,5276685795558,Sestu,7158959374566,6203234119,169.000,A moment's rest,Gift Collection,32493203882122,PCamomeB,Black,Online Store,Sestu,International,152.100,-16.900,1,1,1,1
+2023-06,5318229131494,Austin,7346594218214,1474303557684,530.000,Moonlit Dancers,Classique,41153168965787,CCmoonlB,,Online Store,Montrose,United States,530.000,0.000,1,1,1,1
+2023-06,5324885885158,Lawrence Township,3858920276123,0,0.000,,,0,,,Online Store,Philadelphia,United States,0.000,0.000,0,0,0,0
+2023-06,5299007357158,Oakhurst,7258922909926,5906123686043,79.000,Tree of Purple Hearts,Mini,37053196927131,MCtophB,Black,Online Store,Oakhurst,United States,69.520,-9.480,1,1,1,1
+2023-06,5299007357158,Oakhurst,7258922909926,0,0.000,,,0,,,Online Store,Oakhurst,United States,0.000,0.000,0,0,0,0
+2023-06,5297075912934,Osterville,7203122053350,0,0.000,,,0,,,Online Store,Haverhill,United States,0.000,0.000,0,0,0,0
+2023-06,5297075912934,Osterville,7203122053350,6203234119,189.000,A moment's rest,Gift Collection,32493203882122,PCamomeB,Black,Online Store,Haverhill,United States,166.320,-22.680,1,1,1,1
+2023-06,5320561066214,Eschweiler,4282488914075,0,0.000,,,0,,,Online Store,Eschweiler,International,0.000,0.000,0,0,0,0
+2023-06,5320561066214,Eschweiler,4282488914075,8226437955814,370.000,Your favorite Petite 4x larger,,43800461508838,,,Online Store,Eschweiler,International,370.000,0.000,1,1,1,1
+2023-06,5315546317030,Tucson,501875277876,0,0.000,,,0,,,Online Store,Greenwood Village,United States,0.000,0.000,0,0,0,0
+2023-06,5315546317030,Tucson,501875277876,4612036624522,189.000,Jerusalem Prayer,Gift Collection,32492898484362,PCjerusC,Cream,Online Store,Greenwood Village,United States,189.000,0.000,1,1,1,1
+2023-06,5297023156454,Auburn,4429319798939,0,0.000,,,0,,,Online Store,Auburn,United States,15.000,0.000,0,0,0,0
+2023-06,5297023156454,Auburn,4429319798939,4826470842506,79.000,Mazal,Mini,33259296129162,MCmazalB,Black,Online Store,Auburn,United States,69.520,-9.480,1,1,1,1
+2023-06,5308454764774,Huntington Woods,6622440325350,8151177986278,189.000,Mesorah,Gift Collection,43671957536998,,Black,Online Store,Boston,United States,189.000,0.000,1,1,1,1
+2023-06,5308454764774,Huntington Woods,6622440325350,0,0.000,,,0,,,Online Store,Boston,United States,-20.000,0.000,0,0,0,0
+2023-06,5297340186854,West Orange,6366061232358,0,0.000,,,0,,,Online Store,West Orange,United States,15.000,0.000,0,0,0,0
+2023-06,5297340186854,West Orange,6366061232358,4826638155914,79.000,Dove,Mini,33259773198474,MCdoveB,Black,Online Store,West Orange,United States,69.520,-9.480,1,1,1,1
+2023-06,5318408667366,Morristown,6027579424998,7941422907622,189.000,Italian Pastel,Gift Collection,43270753059046,,Cream,Online Store,Morristown,United States,166.320,-22.680,1,1,1,1
+2023-06,5318408667366,Morristown,6027579424998,0,0.000,,,0,,,Online Store,Morristown,United States,15.000,0.000,0,0,0,0
+2023-06,5319531921638,Eschweiler,4282488914075,8226437955814,370.000,Your favorite Petite 4x larger,,43800461508838,,,Online Store,Eschweiler,International,740.000,0.000,1,1,2,2
+2023-06,5319531921638,Eschweiler,4282488914075,0,0.000,,,0,,,Online Store,Eschweiler,International,0.000,0.000,0,0,0,0
+2023-06,5303887823078,Los Angeles,6167414178022,4826366673034,79.000,Together,Mini,33258994925706,MCtogetB,Black,Online Store,Tel Aviv,International,79.000,0.000,1,1,1,1
+2023-06,5303887823078,Los Angeles,6167414178022,0,0.000,,,0,,,Online Store,Tel Aviv,International,0.000,0.000,0,0,0,0
+2023-06,5303887823078,Los Angeles,6167414178022,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,Tel Aviv,International,10.000,0.000,1,1,1,1
+2023-06,5326738391270,Rijswijk,7345768366310,0,0.000,,,0,,,Online Store,Rijswijk,International,0.000,0.000,0,0,0,0
+2023-06,5326738391270,Rijswijk,7345768366310,6203198151,189.000,Paris Morning,Gift Collection,32493273153674,PCparisB,Black,Online Store,Rijswijk,International,170.100,-18.900,1,1,1,1
+2023-06,5296002957542,Maple Grove,7230556766438,4600669896842,189.000,Kotel,Gift Collection,32493256441994,PCkotelB,Black,Online Store,Maple Grove,United States,189.000,0.000,1,1,1,1
+2023-06,5296002957542,Maple Grove,7230556766438,0,0.000,,,0,,,Online Store,Maple Grove,United States,15.000,0.000,0,0,0,0
+2023-06,5305139822822,Huntsville,7293863428326,5906079547547,79.000,Tree of Orange Hearts,Mini,37053058220187,MCtoohB,Black,Online Store,Clarksville,United States,79.000,0.000,1,1,1,1
+2023-06,5305139822822,Huntsville,7293863428326,0,0.000,,,0,,,Online Store,Clarksville,United States,0.000,0.000,0,0,0,0
+2023-06,5308735783142,Mt. Pleasant,7312182378726,0,0.000,,,0,,,Online Store,Mt. Pleasant,United States,0.000,0.000,0,0,0,0
+2023-06,5308735783142,Mt. Pleasant,7312182378726,6203198151,189.000,Paris Morning,Gift Collection,32493273153674,PCparisB,Black,Online Store,Mt. Pleasant,United States,189.000,0.000,1,1,1,1
+2023-06,5313622507750,West Hempstead,6420014104806,8226437955814,370.000,Your favorite Petite 4x larger,,43800461508838,,,Online Store,West Hempstead,United States,370.000,0.000,1,1,1,1
+2023-06,5313622507750,West Hempstead,6420014104806,0,0.000,,,0,,,Online Store,West Hempstead,United States,0.000,0.000,0,0,0,0
+2023-06,5318229131494,Austin,7346594218214,0,0.000,,,0,,,Online Store,Montrose,United States,15.000,0.000,0,0,0,0
+2023-06,5314072510694,Glasgow,5055436718235,0,0.000,,,0,,,Online Store,Glasgow,International,0.000,0.000,0,0,0,0
+2023-06,5314072510694,Glasgow,5055436718235,6129484398747,189.000,Wildflowers,Gift Collection,37806903853211,PCwildfB,Black,Online Store,Glasgow,International,189.000,0.000,1,1,1,1
+2023-06,5295758409958,Moscow,7240492941542,0,0.000,,,0,,,Online Store,Moscow,International,15.000,0.000,0,0,0,0
+2023-06,5295758409958,Moscow,7240492941542,6306570567,189.000,Balloon Over Paris Bridge,Gift Collection,32493118914698,PCballoB,Black,Online Store,Moscow,International,189.000,0.000,1,1,1,1
+2023-06,5295758409958,Moscow,7240492941542,6203198151,189.000,Paris Morning,Gift Collection,32493273153674,PCparisB,Black,Online Store,Moscow,International,189.000,0.000,1,1,1,1
+2023-06,5323201478886,Charlotte,7350819586278,0,0.000,,,0,,,Online Store,Charlotte,United States,0.000,0.000,0,0,0,0
+2023-06,5323201478886,Charlotte,7350819586278,4826408681610,79.000,Jerusalem,Mini,33259121410186,MCjerusW,Wood,Online Store,Charlotte,United States,79.000,0.000,1,1,1,1
+2023-06,5323201478886,Charlotte,7350819586278,4600669896842,189.000,Kotel,Gift Collection,32493256441994,PCkotelB,Black,Online Store,Charlotte,United States,189.000,0.000,1,1,1,1
+2023-06,5305878348006,Fort Lee,5370158710939,4826366673034,79.000,Together,Mini,33258994925706,MCtogetB,Black,Online Store,League City,United States,79.000,0.000,1,1,1,1
+2023-06,5305878348006,Fort Lee,5370158710939,0,0.000,,,0,,,Online Store,League City,United States,0.000,0.000,0,0,0,0
+2023-06,5324885885158,Lawrence Township,3858920276123,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,Philadelphia,United States,10.000,0.000,1,1,1,1
+2023-06,5324885885158,Lawrence Township,3858920276123,4826526285962,79.000,Beginnings,Mini,33259441094794,MCbeginB,Black,Online Store,Philadelphia,United States,79.000,0.000,1,1,1,1
+2023-07,5362842271974,Weddington,7390827577574,4973542113418,79.000,Medical superhero M,Mini,33582753906826,MCmsmLB,Black / Lighter,Online Store,Weddington,United States,79.000,0.000,1,1,1,1
+2023-07,5356048941286,Key West,4097256161435,5280931414171,79.000,Small Things,Mini,34575590981787,MCsmallB,Black,Online Store,Key West,United States,79.000,0.000,1,1,1,1
+2023-07,5331064488166,New City,7360073040102,4816366928010,79.000,Friendship,Mini,33233371463818,MCfrienB,Black,Online Store,New City,United States,79.000,0.000,1,1,1,1
+2023-07,5367913480422,Brooklyn,5920203014374,0,0.000,,,0,,,Online Store,Brooklyn,United States,0.000,0.000,0,0,0,0
+2023-07,5367841554662,Jerusalem,7395254370534,4600557273226,189.000,NY Jazz,Gift Collection,32493269909642,PCnyjazB,Black,Online Store,East Hampton,United States,189.000,0.000,1,1,1,1
+2023-07,5333085323494,Miami,7361898610918,4826622394506,79.000,Sailing,Mini,33259725815946,MCsailiB,Black,Online Store,Miami,United States,79.000,0.000,1,1,1,1
+2023-07,5364136149222,Mazarrón,7391797444838,0,0.000,,,0,,,Online Store,Mazarrón,International,0.000,0.000,0,0,0,0
+2023-07,5333085323494,Miami,7361898610918,8145538744550,79.000,Jaffa,Mini,43661784678630,,Black,Online Store,Miami,United States,79.000,0.000,1,1,1,1
+2023-07,5337450807526,Rockwall,4400689381531,4826582417546,79.000,Red Riding Hood,Mini,33259588878474,MCrrhB,Black,Online Store,Concord,United States,63.200,-15.800,1,1,1,1
+2023-07,5332609138918,Nottingham,6591129321702,5906079547547,79.000,Tree of Orange Hearts,Mini,37053058285723,MCtoohW,Wood,Online Store,Walland,United States,79.000,0.000,1,1,1,1
+2023-07,5345951514854,New York,6737462952166,0,0.000,,,0,,,Online Store,New York,United States,0.000,0.000,0,0,0,0
+2023-07,5333085323494,Miami,7361898610918,0,0.000,,,0,,,Online Store,Miami,United States,0.000,0.000,0,0,0,0
+2023-07,5366856024294,Dallas,7394400108774,0,0.000,,,0,,,Online Store,Dallas,United States,0.000,0.000,0,0,0,0
+2023-07,5356048941286,Key West,4097256161435,0,0.000,,,0,,,Online Store,Key West,United States,15.000,0.000,0,0,0,0
+2023-07,5361645355238,Daytona Beach,5390860845211,4605089349770,189.000,Child on Beach,Gift Collection,32493160071306,PCchildC,Cream,Online Store,Daytona Beach,United States,189.000,0.000,1,1,1,1
+2023-07,5367841554662,Jerusalem,7395254370534,0,0.000,,,0,,,Online Store,East Hampton,United States,15.000,0.000,0,0,0,0
+2023-07,5367841554662,Jerusalem,7395254370534,4612036624522,189.000,Jerusalem Prayer,Gift Collection,32492898451594,PCjerusB,Black,Online Store,East Hampton,United States,189.000,0.000,1,1,1,1
+2023-07,5361645355238,Daytona Beach,5390860845211,0,0.000,,,0,,,Online Store,Daytona Beach,United States,0.000,0.000,0,0,0,0
+2023-07,5337390678246,Bogota,6173248061670,5906123686043,79.000,Tree of Purple Hearts,Mini,37053196927131,MCtophB,Black,Online Store,Bogota,United States,63.200,-15.800,1,1,1,1
+2023-07,5363878494438,Mazarrón,7391797444838,1474303557684,530.000,Moonlit Dancers,Classique,41153168965787,CCmoonlB,,Online Store,Mazarrón,International,0.000,-53.000,1,1,0,1
+2023-07,5340062679270,Owings Mills,6544660332774,8226437955814,530.000,Your favorite Petite 4x larger,,43800461508838,,,Online Store,Owings Mills,United States,424.000,-106.000,1,1,1,1
+2023-07,5349138071782,Lynn,7376700997862,6129484398747,189.000,Wildflowers,Gift Collection,37806903853211,PCwildfB,Black,Online Store,Lynn,United States,189.000,0.000,1,1,1,1
+2023-07,5358137639142,Englewood,5966185234662,0,0.000,,,0,,,Online Store,Englewood,United States,15.000,0.000,0,0,0,0
+2023-07,5366199419110,Denham Court,7393408876774,0,0.000,,,0,,,Online Store,Denham Court,International,0.000,0.000,0,0,0,0
+2023-07,5363215859942,Tracy,7391155454182,5280927514779,79.000,Water Yourself,Mini,34575556771995,MCwateLB,Black,Online Store,Tracy,United States,79.000,0.000,1,1,1,1
+2023-07,5331612860646,Ceresco,6567349453030,5906123686043,79.000,Tree of Purple Hearts,Mini,37053196992667,MCtophW,Wood,Online Store,Ceresco,United States,79.000,0.000,1,1,1,1
+2023-07,5363994951910,Obermichelbach Rothenberg,7391856132326,4826366673034,79.000,Together,Mini,33258994925706,MCtogetB,Black,Online Store,Obermichelbach Rothenberg,International,71.100,-7.900,1,1,1,1
+2023-07,5367913480422,Brooklyn,5920203014374,4806075023498,79.000,Bear,Mini,33210426556554,MCbearB,Black,Online Store,Brooklyn,United States,63.200,-15.800,1,1,1,1
+2023-07,5337390678246,Bogota,6173248061670,4826366673034,79.000,Together,Mini,33258994925706,MCtogetB,Black,Online Store,Bogota,United States,63.200,-15.800,1,1,1,1
+2023-07,5332609138918,Nottingham,6591129321702,0,0.000,,,0,,,Online Store,Walland,United States,0.000,0.000,0,0,0,0
+2023-07,5363994951910,Obermichelbach Rothenberg,7391856132326,0,0.000,,,0,,,Online Store,Obermichelbach Rothenberg,International,0.000,0.000,0,0,0,0
+2023-07,5337390678246,Bogota,6173248061670,5280927514779,79.000,Water Yourself,Mini,34575556771995,MCwateLB,Black,Online Store,Bogota,United States,63.200,-15.800,1,1,1,1
+2023-07,5335661576422,Johannesburg,7364111466726,8226437955814,530.000,Your favorite Petite 4x larger,,43800461508838,,,Online Store,Johannesburg,International,371.000,-159.000,1,1,1,1
+2023-07,5337390678246,Bogota,6173248061670,7543722442982,189.000,Giraffe Heart,Gift Collection,42287338324198,PCGiraffB,Black,Online Store,Bogota,United States,151.200,-37.800,1,1,1,1
+2023-07,5363878494438,Mazarrón,7391797444838,0,0.000,,,0,,,Online Store,Mazarrón,International,0.000,0.000,0,0,0,0
+2023-07,5337390678246,Bogota,6173248061670,6306615303,189.000,Tree of Life,Gift Collection,32493347307658,PCtreeoB,Black,Online Store,Bogota,United States,151.200,-37.800,1,1,1,1
+2023-07,5349138071782,Lynn,7376700997862,0,0.000,,,0,,,Online Store,Lynn,United States,0.000,0.000,0,0,0,0
+2023-07,5366856024294,Dallas,7394400108774,8145538744550,79.000,Jaffa,Mini,43661784678630,,Black,Online Store,Dallas,United States,79.000,0.000,1,1,1,1
+2023-07,5366856024294,Dallas,7394400108774,4826638155914,79.000,Dove,Mini,33259773198474,MCdoveB,Black,Online Store,Dallas,United States,79.000,0.000,1,1,1,1
+2023-07,5345951514854,New York,6737462952166,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,New York,United States,10.000,0.000,1,1,1,1
+2023-07,5358137639142,Englewood,5966185234662,4826366673034,79.000,Together,Mini,33258994925706,MCtogetB,Black,Online Store,Englewood,United States,553.000,0.000,1,1,7,7
+2023-07,5340062679270,Owings Mills,6544660332774,0,0.000,,,0,,,Online Store,Owings Mills,United States,0.000,0.000,0,0,0,0
+2023-07,5363215859942,Tracy,7391155454182,0,0.000,,,0,,,Online Store,Tracy,United States,0.000,0.000,0,0,0,0
+2023-07,5345951514854,New York,6737462952166,4826408681610,79.000,Jerusalem,Mini,33259121410186,MCjerusW,Wood,Online Store,New York,United States,79.000,0.000,1,1,1,1
+2023-07,5331612860646,Ceresco,6567349453030,0,0.000,,,0,,,Online Store,Ceresco,United States,0.000,0.000,0,0,0,0
+2023-07,5337450807526,Rockwall,4400689381531,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,Concord,United States,8.000,-2.000,1,1,1,1
+2023-07,5337390678246,Bogota,6173248061670,0,0.000,,,0,,,Online Store,Bogota,United States,0.000,0.000,0,0,0,0
+2023-07,5367913480422,Brooklyn,5920203014374,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,Brooklyn,United States,10.000,0.000,1,1,1,1
+2023-07,5335661576422,Johannesburg,7364111466726,0,0.000,,,0,,,Online Store,Johannesburg,International,0.000,0.000,0,0,0,0
+2023-07,5362842271974,Weddington,7390827577574,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,Weddington,United States,10.000,0.000,1,1,1,1
+2023-07,5366199419110,Denham Court,7393408876774,6129484398747,189.000,Wildflowers,Gift Collection,37806903853211,PCwildfB,Black,Online Store,Denham Court,International,166.320,-22.680,1,1,1,1
+2023-07,5364136149222,Mazarrón,7391797444838,6179810823,189.000,Moonlight Dance,Gift Collection,32493353861258,PCmoonlB,Black,Online Store,Mazarrón,International,170.100,-18.900,1,1,1,1
+2023-07,5337450807526,Rockwall,4400689381531,0,0.000,,,0,,,Online Store,Concord,United States,0.000,0.000,0,0,0,0
+2023-07,5362842271974,Weddington,7390827577574,0,0.000,,,0,,,Online Store,Weddington,United States,0.000,0.000,0,0,0,0
+2023-07,5331064488166,New City,7360073040102,0,0.000,,,0,,,Online Store,New City,United States,0.000,0.000,0,0,0,0
+2023-07,5366856024294,Dallas,7394400108774,4826452033674,79.000,Western Wall,Mini,33259238523018,MCwesteB,Black,Online Store,Dallas,United States,79.000,0.000,1,1,1,1
+2023-08,5378186936550,Mequon,7397763580134,8226437955814,530.000,Your favorite Petite 4x larger,,43800461508838,,,Online Store,Mequon,United States,424.000,-106.000,1,1,1,1
+2023-08,5373514219750,Sterling Heights,3771333214363,4826543030410,79.000,Penguin,Mini,33259484151946,MCpenguiB,Black,Online Store,Sterling Heights,United States,79.000,0.000,1,1,1,1
+2023-08,5373514219750,Sterling Heights,3771333214363,0,0.000,,,0,,,Online Store,Sterling Heights,United States,0.000,0.000,0,0,0,0
+2023-08,5402075726054,Diekhusen Fahrstedt,7444519321830,4826652835978,79.000,Wonder,Mini,33259816714378,MCwondeW,Wood,Online Store,Diekhusen Fahrstedt,International,71.100,-7.900,1,1,1,1
+2023-08,5402075726054,Diekhusen Fahrstedt,7444519321830,0,0.000,,,0,,,Online Store,Diekhusen Fahrstedt,International,0.000,0.000,0,0,0,0
+2023-08,5377407647974,Laurel Hollow,7411687227622,4796659433610,79.000,Love,Mini,33210380681354,MCahavaB,Black / English,Online Store,Laurel Hollow,United States,79.000,0.000,1,1,1,1
+2023-08,5380605509862,Delray Beach,6020705485030,0,0.000,,,0,,,Online Store,Staten Island,United States,15.000,0.000,0,0,0,0
+2023-08,5380605509862,Delray Beach,6020705485030,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,Staten Island,United States,10.000,0.000,1,1,1,1
+2023-08,5380605509862,Delray Beach,6020705485030,5280927514779,79.000,Water Yourself,Mini,34575556771995,MCwateLB,Black,Online Store,Staten Island,United States,79.000,0.000,1,1,1,1
+2023-08,5389271171302,Newport Beach,5228600557723,6306615303,189.000,Tree of Life,Gift Collection,32493347373194,PCtreeoC,Cream,Online Store,Newport Beach,United States,189.000,0.000,1,1,1,1
+2023-08,5389271171302,Newport Beach,5228600557723,0,0.000,,,0,,,Online Store,Newport Beach,United States,0.000,0.000,0,0,0,0
+2023-08,5389384384742,Placentia,6933165474022,5280920141979,79.000,Home,Mini,34575525183643,MChomeB,Black,Online Store,Placentia,United States,79.000,0.000,1,1,1,1
+2023-08,5389384384742,Placentia,6933165474022,0,0.000,,,0,,,Online Store,Placentia,United States,0.000,0.000,0,0,0,0
+2023-08,5400792301798,Rome,5129605480603,4816345923722,79.000,Cat,Mini,33233301373066,MCcatB,Black,Online Store,Rydal,United States,79.000,0.000,1,1,1,1
+2023-08,5400792301798,Rome,5129605480603,0,0.000,,,0,,,Online Store,Rydal,United States,15.000,0.000,0,0,0,0
+2023-08,5398490546406,Hartford,7427265593574,0,0.000,,,0,,,Online Store,Amissville,United States,0.000,0.000,0,0,0,0
+2023-08,5398490546406,Hartford,7427265593574,5280927514779,79.000,Water Yourself,Mini,34575556837531,MCwateLW,Wood,Online Store,Amissville,United States,79.000,0.000,1,1,1,1
+2023-08,5387246534886,Deerfield,7423387238630,4826638155914,79.000,Dove,Mini,33259773198474,MCdoveB,Black,Online Store,Deerfield,United States,79.000,0.000,1,1,1,1
+2023-08,5387246534886,Deerfield,7423387238630,0,0.000,,,0,,,Online Store,Deerfield,United States,0.000,0.000,0,0,0,0
+2023-08,5387496489190,Dallas,7394400108774,6306615303,189.000,Tree of Life,Gift Collection,32493347307658,PCtreeoB,Black,Online Store,Dallas,United States,189.000,0.000,1,1,1,1
+2023-08,5387496489190,Dallas,7394400108774,0,0.000,,,0,,,Online Store,Dallas,United States,0.000,0.000,0,0,0,0
+2023-08,5376228851942,מבועים,3794657575067,4826277413002,79.000,Herodium,Mini,33258759258250,MCherodC,Cream,Online Store,מבועים,International,79.000,0.000,1,1,1,1
+2023-08,5376228851942,מבועים,3794657575067,4826452033674,79.000,Western Wall,Mini,33259238555786,MCwesteC,Cream,Online Store,מבועים,International,79.000,0.000,1,1,1,1
+2023-08,5376228851942,מבועים,3794657575067,0,0.000,,,0,,,Online Store,מבועים,International,0.000,0.000,0,0,0,0
+2023-08,5376228851942,מבועים,3794657575067,7340697977062,189.000,Rachel's Tomb,Gift Collection,41885021765862,PCracheC,Cream,Online Store,מבועים,International,189.000,0.000,1,1,1,1
+2023-08,5376228851942,מבועים,3794657575067,8145538744550,79.000,Jaffa,Mini,43661784711398,,Cream,Online Store,מבועים,International,79.000,0.000,1,1,1,1
+2023-08,5383607451878,West Newbury,7419583955174,4605089349770,189.000,Child on Beach,Gift Collection,32493160071306,PCchildC,Cream,Online Store,West Newbury,United States,189.000,0.000,1,1,1,1
+2023-08,5383607451878,West Newbury,7419583955174,0,0.000,,,0,,,Online Store,West Newbury,United States,0.000,0.000,0,0,0,0
+2023-08,5383607451878,West Newbury,7419583955174,4826652835978,79.000,Wonder,Mini,33259816681610,MCwondeC,Cream,Online Store,West Newbury,United States,79.000,0.000,1,1,1,1
+2023-08,5364136149222,Mazarrón,7391797444838,0,0.000,,,0,,,Online Store,Mazarrón,International,-170.100,0.000,0,0,0,0
+2023-08,5371165966566,Lakewood,5315077013659,0,0.000,,,0,,,Online Store,Lakewood,United States,0.000,0.000,0,0,0,0
+2023-08,5377407647974,Laurel Hollow,7411687227622,0,0.000,,,0,,,Online Store,Laurel Hollow,United States,-8.900,0.000,0,0,0,0
+2023-08,5377407647974,Laurel Hollow,7411687227622,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,Laurel Hollow,United States,10.000,0.000,1,1,1,1
+2023-08,5367841554662,Jerusalem,7395254370534,0,0.000,,,0,,,Online Store,East Hampton,United States,-15.000,0.000,0,0,0,0
+2023-08,5375840452838,Dallas,7394400108774,4826366673034,79.000,Together,Mini,33258994925706,MCtogetB,Black,Online Store,Dallas,United States,79.000,0.000,1,1,1,1
+2023-08,5375840452838,Dallas,7394400108774,0,0.000,,,0,,,Online Store,Dallas,United States,0.000,0.000,0,0,0,0
+2023-08,5375840452838,Dallas,7394400108774,4806031704202,79.000,Soar!,Mini,33210402242698,MCsoarB,Black,Online Store,Dallas,United States,79.000,0.000,1,1,1,1
+2023-08,5393329160422,מבועים,3794657575067,0,0.000,,,0,,,Online Store,מבועים,International,0.000,0.000,0,0,0,0
+2023-08,5393329160422,מבועים,3794657575067,7941422907622,189.000,Italian Pastel,Gift Collection,43270753059046,,Cream,Online Store,מבועים,International,189.000,0.000,1,1,1,1
+2023-08,5378186936550,Mequon,7397763580134,0,0.000,,,0,,,Online Store,Mequon,United States,0.000,0.000,0,0,0,0
+2023-08,5372915744998,Athens,7399832256742,0,0.000,,,0,,,Online Store,Athens,International,0.000,0.000,0,0,0,0
+2023-08,5372915744998,Athens,7399832256742,5280920141979,79.000,Home,Mini,34575525249179,MChomeW,Wood,Online Store,Athens,International,79.000,0.000,1,1,1,1
+2023-08,5371165966566,Lakewood,5315077013659,8151177986278,189.000,Mesorah,Gift Collection,43671957569766,,Cream,Online Store,Lakewood,United States,189.000,0.000,1,1,1,1
+2023-09,5437695590630,Sachse,7487623823590,4826366673034,79.000,Together,Mini,33258994925706,MCtogetB,Black,Online Store,Sachse,United States,79.000,0.000,1,1,1,1
+2023-09,5409431814374,Mequon,7397763580134,0,0.000,,,0,,,Online Store,Mequon,United States,0.000,0.000,0,0,0,0
+2023-09,5405566730470,Phnom Penh,7450361135334,0,0.000,,,0,,,Online Store,Phnom Penh,International,15.000,0.000,0,0,0,0
+2023-09,5405480288486,Flushing,7448816517350,5480589525147,71.100,Sweet Year,Mini,35426691514523,MCsweetW,Wood,Online Store,Flushing,United States,71.100,0.000,1,1,1,1
+2023-09,5405486907622,Flushing,7448816517350,0,0.000,,,0,,,Online Store,Silver Spring,United States,0.000,0.000,0,0,0,0
+2023-09,5438468030694,Kilcock,7488357171430,0,0.000,,,0,,,Online Store,Kilcock,International,15.000,0.000,0,0,0,0
+2023-09,5437467623654,Encino,7487447498982,4600669896842,189.000,Kotel,Gift Collection,32493256474762,PCkotelC,Cream,Online Store,Encino,United States,189.000,0.000,1,1,1,1
+2023-09,5429338210534,Buffalo Grove,7478933913830,0,0.000,,,0,,,Online Store,Buffalo Grove,United States,15.000,0.000,0,0,0,0
+2023-09,5437904781542,Porirua,7487798837478,0,0.000,,,0,,,Online Store,Porirua,International,0.000,0.000,0,0,0,0
+2023-09,5432855789798,Omaha,7109479334118,4826366673034,79.000,Together,Mini,33258994925706,MCtogetB,Black,Online Store,Omaha,United States,79.000,0.000,1,1,1,1
+2023-09,5424852435174,Exton,7473946427622,6179810823,189.000,Moonlight Dance,Gift Collection,32493353861258,PCmoonlB,Black,Online Store,Exton,United States,189.000,0.000,1,1,1,1
+2023-09,5436298526950,Havre De Grace,7486223384806,0,0.000,,,0,,,Online Store,Havre De Grace,United States,0.000,0.000,0,0,0,0
+2023-09,5409932214502,Los Angeles,7457644806374,0,0.000,,,0,,,Online Store,Los Angeles,United States,0.000,0.000,0,0,0,0
+2023-09,5405449486566,Hammond,5224165867675,5480589525147,71.100,Sweet Year,Mini,35426691448987,MCsweetB,Black,Online Store,Falls Church,United States,71.100,0.000,1,1,1,1
+2023-09,5437695590630,Sachse,7487623823590,0,0.000,,,0,,,Online Store,Sachse,United States,15.000,0.000,0,0,0,0
+2023-09,5405486907622,Flushing,7448816517350,5480589525147,71.100,Sweet Year,Mini,35426691514523,MCsweetW,Wood,Online Store,Silver Spring,United States,71.100,0.000,1,1,1,1
+2023-09,5434308657382,Arlington,7484237775078,0,0.000,,,0,,,Online Store,Arlington,United States,15.000,0.000,0,0,0,0
+2023-09,5424852435174,Exton,7473946427622,0,0.000,,,0,,,Online Store,Exton,United States,15.000,0.000,0,0,0,0
+2023-09,5437881057510,Redmond,5291519377563,0,0.000,,,0,,,Online Store,Redmond,United States,0.000,0.000,0,0,0,0
+2023-09,5436298526950,Havre De Grace,7486223384806,8151177986278,189.000,Mesorah,Gift Collection,43671957536998,,Black,Online Store,Havre De Grace,United States,170.100,-18.900,1,1,1,1
+2023-09,5405449486566,Hammond,5224165867675,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,Falls Church,United States,10.000,0.000,1,1,1,1
+2023-09,5409431814374,Mequon,7397763580134,4612036624522,189.000,Jerusalem Prayer,Gift Collection,32492898451594,PCjerusB,Black,Online Store,Mequon,United States,166.320,-22.680,1,1,1,1
+2023-09,5424549527782,Haifa,7473613439206,0,0.000,,,0,,,Online Store,Haifa,International,0.000,0.000,0,0,0,0
+2023-09,5416012873958,Mount Vernon,7464461238502,0,0.000,,,0,,,Online Store,Mount Vernon,United States,0.000,0.000,0,0,0,0
+2023-09,5438468030694,Kilcock,7488357171430,7462201950438,79.000,Happy Penguin,Mini,42095352217830,MChpengC,Cream,Online Store,Kilcock,International,71.100,-7.900,1,1,1,1
+2023-09,5429132165350,Boerne,5112442126491,4826366673034,79.000,Together,Mini,33258994925706,MCtogetB,Black,Online Store,Boerne,United States,79.000,0.000,1,1,1,1
+2023-09,5429230010598,Boerne,5112442126491,0,0.000,,,0,,,Online Store,Boerne,United States,0.000,0.000,0,0,0,0
+2023-09,5426700615910,Boston,6053064048870,4796659433610,79.000,Love,Mini,33210380746890,MCahavaW,Wood / English,Online Store,Boston,United States,79.000,0.000,1,1,1,1
+2023-09,5405566730470,Phnom Penh,7450361135334,6129484398747,189.000,Wildflowers,Gift Collection,37806903853211,PCwildfB,Black,Online Store,Phnom Penh,International,189.000,0.000,1,1,1,1
+2023-09,5429338210534,Buffalo Grove,7478933913830,4826470842506,79.000,Mazal,Mini,33259296129162,MCmazalB,Black,Online Store,Buffalo Grove,United States,71.100,-7.900,1,1,1,1
+2023-09,5437904781542,Porirua,7487798837478,4806031704202,79.000,Soar!,Mini,33210402242698,MCsoarB,Black,Online Store,Porirua,International,79.000,0.000,1,1,1,1
+2023-09,5437467623654,Encino,7487447498982,0,0.000,,,0,,,Online Store,Encino,United States,0.000,0.000,0,0,0,0
+2023-09,5438468030694,Kilcock,7488357171430,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,Kilcock,International,9.000,-1.000,1,1,1,1
+2023-09,5434308657382,Arlington,7484237775078,7766198321382,189.000,Birthday Celebration,Gift Collection,42873256476902,,Cream,Online Store,Arlington,United States,189.000,0.000,1,1,1,1
+2023-09,5429230010598,Boerne,5112442126491,4826253754506,79.000,Fiddler,Mini,33258703978634,MCfiddlB,Black,Online Store,Boerne,United States,79.000,0.000,1,1,1,1
+2023-09,5416012873958,Mount Vernon,7464461238502,5646494269595,59.000,The Well of Being,Book Prints,36119407263899,,,Online Store,Mount Vernon,United States,59.000,0.000,1,1,1,1
+2023-09,5429230010598,Boerne,5112442126491,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,Boerne,United States,20.000,0.000,1,1,2,2
+2023-09,5424549527782,Haifa,7473613439206,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,Haifa,International,10.000,0.000,1,1,1,1
+2023-09,5424549527782,Haifa,7473613439206,4973542113418,79.000,Medical superhero M,Mini,33582753906826,MCmsmLB,Black / Lighter,Online Store,Haifa,International,79.000,0.000,1,1,1,1
+2023-09,5437695590630,Sachse,7487623823590,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,Sachse,United States,10.000,0.000,1,1,1,1
+2023-09,5405449486566,Hammond,5224165867675,0,0.000,,,0,,,Online Store,Falls Church,United States,0.000,0.000,0,0,0,0
+2023-09,5405480288486,Flushing,7448816517350,0,0.000,,,0,,,Online Store,Flushing,United States,0.000,0.000,0,0,0,0
+2023-09,5429132165350,Boerne,5112442126491,0,0.000,,,0,,,Online Store,Boerne,United States,0.000,0.000,0,0,0,0
+2023-09,5409431814374,Mequon,7397763580134,6306514567,189.000,Venice Autumn,Gift Collection,32493351075978,PCvenicB,Black,Online Store,Mequon,United States,166.320,-22.680,1,1,1,1
+2023-09,5437881057510,Redmond,5291519377563,4600669896842,189.000,Kotel,Gift Collection,32493256441994,PCkotelB,Black,Online Store,Redmond,United States,189.000,0.000,1,1,1,1
+2023-09,5429338210534,Buffalo Grove,7478933913830,4600669896842,189.000,Kotel,Gift Collection,32493256441994,PCkotelB,Black,Online Store,Buffalo Grove,United States,170.100,-18.900,1,1,1,1
+2023-09,5432855789798,Omaha,7109479334118,0,0.000,,,0,,,Online Store,Omaha,United States,0.000,0.000,0,0,0,0
+2023-09,5426700615910,Boston,6053064048870,0,0.000,,,0,,,Online Store,Boston,United States,0.000,0.000,0,0,0,0
+2023-09,5429230010598,Boerne,5112442126491,4826366673034,79.000,Together,Mini,33258994925706,MCtogetB,Black,Online Store,Boerne,United States,79.000,0.000,1,1,1,1
+2023-09,5429132165350,Boerne,5112442126491,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,Boerne,United States,10.000,0.000,1,1,1,1
+2023-09,5409932214502,Los Angeles,7457644806374,6306615303,189.000,Tree of Life,Gift Collection,32493347307658,PCtreeoB,Black,Online Store,Los Angeles,United States,189.000,0.000,1,1,1,1
+2023-10,5477134631142,Lexington,7542915825894,5906123686043,79.000,Tree of Purple Hearts,Mini,37053196959899,MCtophC,Cream,Online Store,Lexington,United States,158.000,0.000,1,1,2,2
+2023-10,5460922597606,Webster Springs,5113275056283,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,Webster Springs,United States,10.000,0.000,1,1,1,1
+2023-10,5460922597606,Webster Springs,5113275056283,0,0.000,,,0,,,Online Store,Webster Springs,United States,0.000,0.000,0,0,0,0
+2023-10,5452952731878,Jamison,7503885533414,0,0.000,,,0,,,Online Store,Jamison,United States,0.000,0.000,0,0,0,0
+2023-10,5452952731878,Jamison,7503885533414,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,Jamison,United States,9.000,-1.000,1,1,1,1
+2023-10,5452952731878,Jamison,7503885533414,8145538744550,79.000,Jaffa,Mini,43661784744166,,Wood,Online Store,Jamison,United States,71.100,-7.900,1,1,1,1
+2023-10,5451031642342,Lake Oswego,7501912178918,4826582417546,79.000,Red Riding Hood,Mini,33259588878474,MCrrhB,Black,Online Store,Lake Oswego,United States,79.000,0.000,1,1,1,1
+2023-10,5451031642342,Lake Oswego,7501912178918,7030036299931,530.000,Wings,Classique,41153213431963,CCwingsB,,Online Store,Lake Oswego,United States,530.000,0.000,1,1,1,1
+2023-10,5451031642342,Lake Oswego,7501912178918,0,0.000,,,0,,,Online Store,Lake Oswego,United States,15.000,0.000,0,0,0,0
+2023-10,5451031642342,Lake Oswego,7501912178918,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,Lake Oswego,United States,10.000,0.000,1,1,1,1
+2023-10,5451031642342,Lake Oswego,7501912178918,5280927514779,79.000,Water Yourself,Mini,34575556771995,MCwateLB,Black,Online Store,Lake Oswego,United States,79.000,0.000,1,1,1,1
+2023-10,5451031642342,Lake Oswego,7501912178918,7543722442982,189.000,Giraffe Heart,Gift Collection,42287338356966,PCGiraffC,Cream,Online Store,Lake Oswego,United States,189.000,0.000,1,1,1,1
+2023-10,5444978442470,Northbrook,7448290820326,8226437955814,530.000,Your favorite Petite 4x larger,,43800461508838,,,Online Store,Northbrook,United States,477.000,-53.000,1,1,1,1
+2023-10,5444978442470,Northbrook,7448290820326,0,0.000,,,0,,,Online Store,Northbrook,United States,0.000,0.000,0,0,0,0
+2023-10,5459200671974,Berkey,7519006687462,4826638155914,79.000,Dove,Mini,33259773198474,MCdoveB,Black,Online Store,Berkey,United States,79.000,0.000,1,1,1,1
+2023-10,5459200671974,Berkey,7519006687462,8145538744550,79.000,Jaffa,Mini,43661784678630,,Black,Online Store,Berkey,United States,79.000,0.000,1,1,1,1
+2023-10,5459200671974,Berkey,7519006687462,0,0.000,,,0,,,Online Store,Berkey,United States,0.000,0.000,0,0,0,0
+2023-10,5444591452390,Havre De Grace,7486223384806,8145538744550,79.000,Jaffa,Mini,43661784744166,,Wood,Online Store,Havre De Grace,United States,63.200,-15.800,1,1,1,1
+2023-10,5444591452390,Havre De Grace,7486223384806,5280931414171,79.000,Small Things,Mini,34575591047323,MCsmallW,Wood,Online Store,Havre De Grace,United States,63.200,-15.800,1,1,1,1
+2023-10,5444591452390,Havre De Grace,7486223384806,4816345923722,79.000,Cat,Mini,33233301373066,MCcatB,Black,Online Store,Havre De Grace,United States,63.200,-15.800,1,1,1,1
+2023-10,5444591452390,Havre De Grace,7486223384806,0,0.000,,,0,,,Online Store,Havre De Grace,United States,0.000,0.000,0,0,0,0
+2023-10,5476657529062,Paranaque,7542445342950,0,0.000,,,0,,,Online Store,Paranaque,International,0.000,0.000,0,0,0,0
+2023-10,5476657529062,Paranaque,7542445342950,8226437955814,530.000,Your favorite Petite 4x larger,,43800461508838,,,Online Store,Paranaque,International,477.000,-53.000,1,1,1,1
+2023-10,5446601081062,Strausberg,7496622375142,5280927514779,79.000,Water Yourself,Mini,34575556804763,MCwateLC,Cream,Online Store,Strausberg,International,79.000,0.000,1,1,1,1
+2023-10,5446601081062,Strausberg,7496622375142,0,0.000,,,0,,,Online Store,Strausberg,International,0.000,0.000,0,0,0,0
+2023-10,5446601081062,Strausberg,7496622375142,5906123686043,79.000,Tree of Purple Hearts,Mini,37053196959899,MCtophC,Cream,Online Store,Strausberg,International,79.000,0.000,1,1,1,1
+2023-10,5446601081062,Strausberg,7496622375142,5280925122715,79.000,Boots,Mini,34575547105435,MCbootsC,Cream,Online Store,Strausberg,International,79.000,0.000,1,1,1,1
+2023-10,5463030956262,Peachtree City,7527361839334,6203145863,189.000,John Lennon,Gift Collection,32493249396874,PCjohnlB,Black,Online Store,Peachtree City,United States,189.000,0.000,1,1,1,1
+2023-10,5463030956262,Peachtree City,7527361839334,0,0.000,,,0,,,Online Store,Peachtree City,United States,0.000,0.000,0,0,0,0
+2023-10,5460399194342,Naples,7520144949478,5280927514779,79.000,Water Yourself,Mini,34575556771995,MCwateLB,Black,Online Store,Naples,United States,79.000,0.000,1,1,1,1
+2023-10,5460399194342,Naples,7520144949478,0,0.000,,,0,,,Online Store,Naples,United States,0.000,0.000,0,0,0,0
+2023-10,5442713092326,Woodstock,7492414144742,0,0.000,,,0,,,Online Store,Woodstock,United States,0.000,0.000,0,0,0,0
+2023-10,5442713092326,Woodstock,7492414144742,4826638155914,79.000,Dove,Mini,33259773231242,MCdoveC,Cream,Online Store,Woodstock,United States,79.000,0.000,1,1,1,1
+2023-10,5453111427302,Lakewood,7504263184614,0,0.000,,,0,,,Online Store,Lakewood,United States,0.000,0.000,0,0,0,0
+2023-10,5453111427302,Lakewood,7504263184614,6203188167,189.000,Jitterbug,Gift Collection,32493239763082,PCjitteB,Black,Online Store,Lakewood,United States,189.000,0.000,1,1,1,1
+2023-10,5460922597606,Webster Springs,5113275056283,4816345923722,79.000,Cat,Mini,33233301373066,MCcatB,Black,Online Store,Webster Springs,United States,79.000,0.000,1,1,1,1
+2023-10,5463180411110,Vancouver,7497331605734,4612049404042,189.000,Open Birdcage,Gift Collection,32492984369290,PCopenbC,Cream,Online Store,Vancouver,International,189.000,0.000,1,1,1,1
+2023-10,5463180411110,Vancouver,7497331605734,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,Vancouver,International,20.000,0.000,1,1,2,2
+2023-10,5463180411110,Vancouver,7497331605734,0,0.000,,,0,,,Online Store,Vancouver,International,0.000,0.000,0,0,0,0
+2023-10,5463180411110,Vancouver,7497331605734,5906123686043,79.000,Tree of Purple Hearts,Mini,37053196959899,MCtophC,Cream,Online Store,Vancouver,International,158.000,0.000,1,1,2,2
+2023-10,5461633564902,Fredericksburg,7488496697574,7766198321382,189.000,Birthday Celebration,Gift Collection,42873256444134,,Black,Online Store,Fredericksburg,United States,189.000,0.000,1,1,1,1
+2023-10,5461633564902,Fredericksburg,7488496697574,0,0.000,,,0,,,Online Store,Fredericksburg,United States,0.000,0.000,0,0,0,0
+2023-10,5458785173734,Deer Park,7518465949926,0,0.000,,,0,,,Online Store,Deer Park,United States,0.000,0.000,0,0,0,0
+2023-10,5458785173734,Deer Park,7518465949926,7941422907622,189.000,Italian Pastel,Gift Collection,43270753026278,,Black,Online Store,Deer Park,United States,170.100,-18.900,1,1,1,1
+2023-10,5477134631142,Lexington,7542915825894,6306419079,189.000,Cranes in Winter,Gift Collection,32493198737546,PCcraneC,Cream,Online Store,Lexington,United States,189.000,0.000,1,1,1,1
+2023-10,5477134631142,Lexington,7542915825894,0,0.000,,,0,,,Online Store,Lexington,United States,0.000,0.000,0,0,0,0
+2023-10,5477134631142,Lexington,7542915825894,6306615303,189.000,Tree of Life,Gift Collection,32493347373194,PCtreeoC,Cream,Online Store,Lexington,United States,189.000,0.000,1,1,1,1
+2023-10,5475788095718,Hamburg,7541608284390,8145538744550,79.000,Jaffa,Mini,43661784744166,,Wood,Online Store,Hamburg,International,79.000,0.000,1,1,1,1
+2023-10,5475788095718,Hamburg,7541608284390,0,0.000,,,0,,,Online Store,Hamburg,International,0.000,0.000,0,0,0,0
+2023-10,5452183208166,Omaha,7109479334118,0,0.000,,,0,,,Online Store,Palo Alto,United States,0.000,0.000,0,0,0,0
+2023-10,5452183208166,Omaha,7109479334118,4826452033674,79.000,Western Wall,Mini,33259238523018,MCwesteB,Black,Online Store,Palo Alto,United States,79.000,0.000,1,1,1,1
+2023-10,5440448135398,León,7490228650214,8145538744550,79.000,Jaffa,Mini,43661784678630,,Black,Online Store,León,International,79.000,0.000,1,1,1,1
+2023-10,5440448135398,León,7490228650214,4826408681610,79.000,Jerusalem,Mini,33259121344650,MCjerusB,Black,Online Store,León,International,79.000,0.000,1,1,1,1
+2023-10,5440448135398,León,7490228650214,0,0.000,,,0,,,Online Store,León,International,15.000,0.000,0,0,0,0
+2023-10,5440448135398,León,7490228650214,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,León,International,10.000,0.000,1,1,1,1
+2023-10,5476666278118,Avon Lake,7530909434086,0,0.000,,,0,,,Online Store,Avon Lake,United States,0.000,0.000,0,0,0,0
+2023-10,5476666278118,Avon Lake,7530909434086,5280927514779,79.000,Water Yourself,Mini,34575556771995,MCwateLB,Black,Online Store,Avon Lake,United States,71.100,-7.900,1,1,1,1
+2023-10,5444687757542,Silver Spring,6613413069030,5575819657371,189.000,Flying High With You,Gift Collection,35828206338203,PCflyinB,Black,Online Store,Silver Spring,United States,189.000,0.000,1,1,1,1
+2023-10,5444687757542,Silver Spring,6613413069030,0,0.000,,,0,,,Online Store,Silver Spring,United States,0.000,0.000,0,0,0,0
+2023-10,5459224559846,Clements,7519036702950,0,0.000,,,0,,,Online Store,Clements,United States,15.000,0.000,0,0,0,0
+2023-10,5459224559846,Clements,7519036702950,5280920141979,79.000,Home,Mini,34575525183643,MChomeB,Black,Online Store,Clements,United States,79.000,0.000,1,1,1,1
+2023-10,5459224559846,Clements,7519036702950,5280927514779,79.000,Water Yourself,Mini,34575556771995,MCwateLB,Black,Online Store,Clements,United States,79.000,0.000,1,1,1,1
+2023-10,5472461619430,Singapore,7537802871014,8226437955814,530.000,Your favorite Petite 4x larger,,43800461508838,,,Online Store,Singapore,International,530.000,0.000,1,1,1,1
+2023-10,5472461619430,Singapore,7537802871014,0,0.000,,,0,,,Online Store,Singapore,International,0.000,0.000,0,0,0,0
+2023-10,5474011939046,Paramus,7539650461926,0,0.000,,,0,,,Online Store,Paramus,United States,0.000,0.000,0,0,0,0
+2023-10,5474011939046,Paramus,7539650461926,5280920141979,79.000,Home,Mini,34575525183643,MChomeB,Black,Online Store,Paramus,United States,79.000,0.000,1,1,1,1
+2023-10,5453192626406,Boerne,5112442126491,6160174791,189.000,Fiddler on the Roof,Gift Collection,32493186154634,PCfiddlB,Black,Online Store,Boerne,United States,189.000,0.000,1,1,1,1
+2023-10,5453192626406,Boerne,5112442126491,6179810823,189.000,Moonlight Dance,Gift Collection,32493353861258,PCmoonlB,Black,Online Store,Boerne,United States,189.000,0.000,1,1,1,1
+2023-10,5453192626406,Boerne,5112442126491,5575819657371,189.000,Flying High With You,Gift Collection,35828206338203,PCflyinB,Black,Online Store,Boerne,United States,189.000,0.000,1,1,1,1
+2023-10,5453192626406,Boerne,5112442126491,0,0.000,,,0,,,Online Store,Boerne,United States,-85.000,0.000,0,0,0,0
+2023-10,5477163008230,Las Vegas,7542944268518,4826366673034,79.000,Together,Mini,33258994958474,MCtogetC,Cream,Online Store,Key West,United States,79.000,0.000,1,1,1,1
+2023-10,5477163008230,Las Vegas,7542944268518,4826666696842,79.000,Rendezvous,Mini,33259855577226,MCrendeC,Cream,Online Store,Key West,United States,79.000,0.000,1,1,1,1
+2023-10,5477163008230,Las Vegas,7542944268518,0,0.000,,,0,,,Online Store,Key West,United States,0.000,0.000,0,0,0,0
+2023-10,5467920924902,New York,5119167725723,8145538744550,79.000,Jaffa,Mini,43661784678630,,Black,Online Store,תקוע,International,0.000,0.000,1,1,0,1
+2023-10,5467920924902,New York,5119167725723,0,0.000,,,0,,,Online Store,תקוע,International,79.000,0.000,0,0,0,0
+2023-10,5449535946982,Antioch,7499720917222,5575819657371,189.000,Flying High With You,Gift Collection,35828206338203,PCflyinB,Black,Online Store,Antioch,United States,189.000,0.000,1,1,1,1
+2023-10,5449535946982,Antioch,7499720917222,0,0.000,,,0,,,Online Store,Antioch,United States,0.000,0.000,0,0,0,0
+2023-11,5478223773926,Commerce Township,5159610417307,0,0.000,,,0,,,Online Store,Commerce Township,United States,0.000,0.000,0,0,0,0
+2023-11,5511832928486,Charlotte,7625291301094,4612036624522,151.200,Jerusalem Prayer,Gift Collection,32492898451594,PCjerusB,Black,Online Store,Charlotte,United States,151.200,0.000,1,1,1,1
+2023-11,5510020825318,Ashton Under Lyne,5223812202651,0,0.000,,,0,,,Online Store,Ashton Under Lyne,International,0.000,0.000,0,0,0,0
+2023-11,5510020825318,Ashton Under Lyne,5223812202651,5280931414171,71.100,Small Things,Mini,34575591047323,MCsmallW,Wood,Online Store,Ashton Under Lyne,International,71.100,0.000,1,1,1,1
+2023-11,5491751551206,Devine,4309641691291,5280932626587,71.100,Daydreams,Mini,34575601729691,MCdaydrB,Black,Online Store,Devine,United States,71.100,0.000,1,1,1,1
+2023-11,5491751551206,Devine,4309641691291,0,0.000,,,0,,,Online Store,Devine,United States,0.000,0.000,0,0,0,0
+2023-11,5524286079206,Samborondon,7649082048742,0,0.000,,,0,,,Online Store,Samborondon,International,0.000,0.000,0,0,0,0
+2023-11,5524286079206,Samborondon,7649082048742,5906123686043,71.100,Tree of Purple Hearts,Mini,37053196927131,MCtophB,Black,Online Store,Samborondon,International,71.100,0.000,1,1,1,1
+2023-11,5487854682342,"Cypress, Ca",6077184278758,0,0.000,,,0,,,Online Store,Valencia,United States,15.000,0.000,0,0,0,0
+2023-11,5487854682342,"Cypress, Ca",6077184278758,6179810823,151.200,Moonlight Dance,Gift Collection,32493353861258,PCmoonlB,Black,Online Store,Valencia,United States,151.200,0.000,1,1,1,1
+2023-11,5506305687782,Scottsdale,7603400704230,4826666696842,71.100,Rendezvous,Mini,33259855544458,MCrendeB,Black,Online Store,Scottsdale,United States,71.100,0.000,1,1,1,1
+2023-11,5506305687782,Scottsdale,7603400704230,0,0.000,,,0,,,Online Store,Scottsdale,United States,0.000,0.000,0,0,0,0
+2023-11,5515417747686,Liverpool,7633050665190,6160174791,151.200,Fiddler on the Roof,Gift Collection,32493186154634,PCfiddlB,Black,Online Store,Liverpool,United States,151.200,0.000,1,1,1,1
+2023-11,5515417747686,Liverpool,7633050665190,0,0.000,,,0,,,Online Store,Liverpool,United States,15.000,0.000,0,0,0,0
+2023-11,5503351488742,Dix Hills,7591508508902,5280927514779,71.100,Water Yourself,Mini,34575556771995,MCwateLB,Black,Online Store,Dix Hills,United States,71.100,0.000,1,1,1,1
+2023-11,5503351488742,Dix Hills,7591508508902,4826452033674,71.100,Western Wall,Mini,33259238523018,MCwesteB,Black,Online Store,Dix Hills,United States,71.100,0.000,1,1,1,1
+2023-11,5503351488742,Dix Hills,7591508508902,4605169074314,151.200,Herod's Mountain,Gift Collection,32493231603850,PCherodB,Black,Online Store,Dix Hills,United States,151.200,0.000,1,1,1,1
+2023-11,5503351488742,Dix Hills,7591508508902,4826638155914,71.100,Dove,Mini,33259773198474,MCdoveB,Black,Online Store,Dix Hills,United States,71.100,0.000,1,1,1,1
+2023-11,5503351488742,Dix Hills,7591508508902,0,0.000,,,0,,,Online Store,Dix Hills,United States,0.000,0.000,0,0,0,0
+2023-11,5483867275494,Greifswald,7550204149990,0,0.000,,,0,,,Online Store,Greifswald,International,0.000,0.000,0,0,0,0
+2023-11,5483867275494,Greifswald,7550204149990,6203252359,151.200,Happy Anniversary,Gift Collection,32493224788106,PChanniC,Cream,Online Store,Greifswald,International,151.200,0.000,1,1,1,1
+2023-11,5514756849894,Champaign,6790182437094,0,0.000,,,0,,,Online Store,Champaign,United States,0.000,0.000,0,0,0,0
+2023-11,5514756849894,Champaign,6790182437094,4612036624522,151.200,Jerusalem Prayer,Gift Collection,32492898484362,PCjerusC,Cream,Online Store,Champaign,United States,151.200,0.000,1,1,1,1
+2023-11,5477163008230,Las Vegas,7542944268518,0,0.000,,,0,,,Online Store,Key West,United States,0.000,0.000,0,0,0,0
+2023-11,5479276347622,Houston,3371911741578,6306615303,151.200,Tree of Life,Gift Collection,32493347307658,PCtreeoB,Black,Online Store,Houston,United States,151.200,0.000,1,1,1,1
+2023-11,5479276347622,Houston,3371911741578,0,0.000,,,0,,,Online Store,Houston,United States,0.000,0.000,0,0,0,0
+2023-11,5477981913318,Gilford,5573945131163,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,Boston,United States,10.000,0.000,1,1,1,1
+2023-11,5477981913318,Gilford,5573945131163,4973512523914,71.100,Medical Superhero F,Mini,39607074029723,MCmsfDB,Black / Darker,Online Store,Boston,United States,71.100,0.000,1,1,1,1
+2023-11,5477981913318,Gilford,5573945131163,0,0.000,,,0,,,Online Store,Boston,United States,0.000,0.000,0,0,0,0
+2023-11,5511895154918,Alfreton,6044461367526,5280920141979,71.100,Home,Mini,34575525183643,MChomeB,Black,Online Store,Alfreton,International,71.100,0.000,1,1,1,1
+2023-11,5511895154918,Alfreton,6044461367526,0,0.000,,,0,,,Online Store,Alfreton,International,0.000,0.000,0,0,0,0
+2023-11,5511895154918,Alfreton,6044461367526,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,Alfreton,International,10.000,0.000,1,1,1,1
+2023-11,5520829677798,Coventry,5069226639515,0,0.000,,,0,,,Online Store,Brighton,International,0.000,0.000,0,0,0,0
+2023-11,5520829677798,Coventry,5069226639515,4826366673034,71.100,Together,Mini,33258994958474,MCtogetC,Cream,Online Store,Brighton,International,71.100,0.000,1,1,1,1
+2023-11,5497364414694,Amherst,7565623296230,5906123686043,71.100,Tree of Purple Hearts,Mini,37053196992667,MCtophW,Wood,Online Store,Chicago,United States,71.100,0.000,1,1,1,1
+2023-11,5497364414694,Amherst,7565623296230,0,0.000,,,0,,,Online Store,Chicago,United States,15.000,0.000,0,0,0,0
+2023-11,5500127969510,Omaha,7109479334118,4796659433610,71.100,Love,Mini,33210380681354,MCahavaB,Black / English,Online Store,Omaha,United States,71.100,0.000,1,1,1,1
+2023-11,5500127969510,Omaha,7109479334118,0,0.000,,,0,,,Online Store,Omaha,United States,0.000,0.000,0,0,0,0
+2023-11,5500127969510,Omaha,7109479334118,5906079547547,71.100,Tree of Orange Hearts,Mini,37053058220187,MCtoohB,Black,Online Store,Omaha,United States,71.100,0.000,1,1,1,1
+2023-11,5510549569766,Marco Island,7546908704998,5280931414171,71.100,Small Things,Mini,34575591047323,MCsmallW,Wood,Online Store,Marco Island,United States,71.100,0.000,1,1,1,1
+2023-11,5510549569766,Marco Island,7546908704998,0,0.000,,,0,,,Online Store,Marco Island,United States,0.000,0.000,0,0,0,0
+2023-11,5479585153254,Ilford,7545955680486,8145538744550,71.100,Jaffa,Mini,43661784678630,,Black,Online Store,Ilford,International,71.100,0.000,1,1,1,1
+2023-11,5479585153254,Ilford,7545955680486,0,0.000,,,0,,,Online Store,Ilford,International,0.000,0.000,0,0,0,0
+2023-11,5487703818470,Denver,7524697374950,6129484398747,151.200,Wildflowers,Gift Collection,37806903853211,PCwildfB,Black,Online Store,Denver,United States,151.200,0.000,1,1,1,1
+2023-11,5487703818470,Denver,7524697374950,7941422907622,151.200,Italian Pastel,Gift Collection,43270753026278,,Black,Online Store,Denver,United States,151.200,0.000,1,1,1,1
+2023-11,5487703818470,Denver,7524697374950,8226437955814,424.000,Your favorite Petite 4x larger,,43800461508838,,,Online Store,Denver,United States,848.000,0.000,1,1,2,2
+2023-11,5487703818470,Denver,7524697374950,0,0.000,,,0,,,Online Store,Denver,United States,0.000,0.000,0,0,0,0
+2023-11,5513236906214,Waltham,7627373576422,6160174791,151.200,Fiddler on the Roof,Gift Collection,32493186154634,PCfiddlB,Black,Online Store,Waltham,United States,151.200,0.000,1,1,1,1
+2023-11,5513236906214,Waltham,7627373576422,0,0.000,,,0,,,Online Store,Waltham,United States,15.000,0.000,0,0,0,0
+2023-11,5478030278886,Livingston,7543730372838,6160174791,151.200,Fiddler on the Roof,Gift Collection,32493186154634,PCfiddlB,Black,Online Store,Livingston,United States,151.200,0.000,1,1,1,1
+2023-11,5478030278886,Livingston,7543730372838,4600669896842,151.200,Kotel,Gift Collection,32493256441994,PCkotelB,Black,Online Store,Livingston,United States,151.200,0.000,1,1,1,1
+2023-11,5478030278886,Livingston,7543730372838,0,0.000,,,0,,,Online Store,Livingston,United States,0.000,0.000,0,0,0,0
+2023-11,5478030278886,Livingston,7543730372838,7340697977062,151.200,Rachel's Tomb,Gift Collection,41885021733094,PCracheB,Black,Online Store,Livingston,United States,151.200,0.000,1,1,1,1
+2023-11,5491809747174,University Place,4468801011867,0,0.000,,,0,,,Online Store,University Place,United States,0.000,0.000,0,0,0,0
+2023-11,5491809747174,University Place,4468801011867,1474305327156,424.000,Dancing Cranes,Classique,41153161527451,CCdanciB,,Online Store,University Place,United States,424.000,0.000,1,1,1,1
+2023-11,5496651841766,Toronto,7564467241190,0,0.000,,,0,,,Online Store,Toronto,International,0.000,0.000,0,0,0,0
+2023-11,5496651841766,Toronto,7564467241190,6160174791,151.200,Fiddler on the Roof,Gift Collection,32493186154634,PCfiddlB,Black,Online Store,Toronto,International,151.200,0.000,1,1,1,1
+2023-11,5522124964070,Buffalo Grove,7478933913830,0,0.000,,,0,,,Online Store,Modiin,International,0.000,0.000,0,0,0,0
+2023-11,5522124964070,Buffalo Grove,7478933913830,4612036624522,151.200,Jerusalem Prayer,Gift Collection,32492898451594,PCjerusB,Black,Online Store,Modiin,International,151.200,0.000,1,1,1,1
+2023-11,5489180279014,Karlsruhe,7556331503846,0,0.000,,,0,,,Online Store,Karlsruhe,International,0.000,0.000,0,0,0,0
+2023-11,5489180279014,Karlsruhe,7556331503846,4826652835978,71.100,Wonder,Mini,33259816648842,MCwondeB,Black,Online Store,Karlsruhe,International,63.990,-7.110,1,1,1,1
+2023-11,5491096158438,"Rochester, Kent",5825921712358,0,0.000,,,0,,,Online Store,"Rochester, Kent",International,0.000,0.000,0,0,0,0
+2023-11,5491096158438,"Rochester, Kent",5825921712358,4826366673034,71.100,Together,Mini,33258994925706,MCtogetB,Black,Online Store,"Rochester, Kent",International,71.100,0.000,1,1,1,1
+2023-11,5496357388518,Mercer Island,7564094111974,4826452033674,71.100,Western Wall,Mini,33259238523018,MCwesteB,Black,Online Store,Mercer Island,United States,71.100,0.000,1,1,1,1
+2023-11,5496357388518,Mercer Island,7564094111974,4816345923722,71.100,Cat,Mini,33233301373066,MCcatB,Black,Online Store,Mercer Island,United States,71.100,0.000,1,1,1,1
+2023-11,5496357388518,Mercer Island,7564094111974,5906123686043,71.100,Tree of Purple Hearts,Mini,37053196927131,MCtophB,Black,Online Store,Mercer Island,United States,71.100,0.000,1,1,1,1
+2023-11,5496357388518,Mercer Island,7564094111974,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,Mercer Island,United States,20.000,0.000,1,1,2,2
+2023-11,5496357388518,Mercer Island,7564094111974,7766198321382,151.200,Birthday Celebration,Gift Collection,42873256444134,,Black,Online Store,Mercer Island,United States,151.200,0.000,1,1,1,1
+2023-11,5496357388518,Mercer Island,7564094111974,0,0.000,,,0,,,Online Store,Mercer Island,United States,15.000,0.000,0,0,0,0
+2023-11,5496357388518,Mercer Island,7564094111974,4816366928010,71.100,Friendship,Mini,33233371463818,MCfrienB,Black,Online Store,Mercer Island,United States,71.100,0.000,1,1,1,1
+2023-11,5485070418150,Baltimore,7551477940454,0,0.000,,,0,,,Online Store,Baltimore,United States,0.000,0.000,0,0,0,0
+2023-11,5485070418150,Baltimore,7551477940454,4826470842506,71.100,Mazal,Mini,33259296129162,MCmazalB,Black,Online Store,Baltimore,United States,71.100,0.000,1,1,1,1
+2023-11,5491907887334,Somerset,5032204828827,5280920141979,71.100,Home,Mini,34575525183643,MChomeB,Black,Online Store,Somerset,United States,142.200,0.000,1,1,2,2
+2023-11,5491907887334,Somerset,5032204828827,0,0.000,,,0,,,Online Store,Somerset,United States,0.000,0.000,0,0,0,0
+2023-11,5479904968934,Highlands Ranch,3675638595739,4826638155914,71.100,Dove,Mini,33259773264010,MCdoveW,Wood,Online Store,Highlands Ranch,United States,142.200,0.000,1,1,2,2
+2023-11,5479904968934,Highlands Ranch,3675638595739,0,0.000,,,0,,,Online Store,Highlands Ranch,United States,0.000,0.000,0,0,0,0
+2023-11,5479904968934,Highlands Ranch,3675638595739,7030036299931,424.000,Wings,Classique,41153213431963,CCwingsB,,Online Store,Highlands Ranch,United States,424.000,0.000,1,1,1,1
+2023-11,5479904968934,Highlands Ranch,3675638595739,8151177986278,151.200,Mesorah,Gift Collection,43671957536998,,Black,Online Store,Highlands Ranch,United States,151.200,0.000,1,1,1,1
+2023-11,5479904968934,Highlands Ranch,3675638595739,5755818934427,151.200,Feathers,Gift Collection,36586571202715,PCfeathC,Cream,Online Store,Highlands Ranch,United States,151.200,0.000,1,1,1,1
+2023-11,5523013140710,Amarillo,7647441813734,0,0.000,,,0,,,Online Store,Amarillo,United States,0.000,0.000,0,0,0,0
+2023-11,5523013140710,Amarillo,7647441813734,4600669896842,151.200,Kotel,Gift Collection,32493256441994,PCkotelB,Black,Online Store,Amarillo,United States,151.200,0.000,1,1,1,1
+2023-11,5511078445286,Issaquah,7622294601958,7543722442982,151.200,Giraffe Heart,Gift Collection,42287338324198,PCGiraffB,Black,Online Store,Issaquah,United States,151.200,0.000,1,1,1,1
+2023-11,5511078445286,Issaquah,7622294601958,0,0.000,,,0,,,Online Store,Issaquah,United States,0.000,0.000,0,0,0,0
+2023-11,5502261592294,Valencia,7586795127014,6306615303,151.200,Tree of Life,Gift Collection,32493347307658,PCtreeoB,Black,Online Store,Valencia,United States,151.200,0.000,1,1,1,1
+2023-11,5502261592294,Valencia,7586795127014,0,0.000,,,0,,,Online Store,Valencia,United States,0.000,0.000,0,0,0,0
+2023-11,5490207457510,Kamloops,7557391319270,7941422907622,151.200,Italian Pastel,Gift Collection,43270753026278,,Black,Online Store,Kamloops,International,151.200,0.000,1,1,1,1
+2023-11,5490207457510,Kamloops,7557391319270,0,0.000,,,0,,,Online Store,Kamloops,International,0.000,0.000,0,0,0,0
+2023-11,5503973753062,Greenfield,7593193636070,0,0.000,,,0,,,Online Store,Greenfield,United States,0.000,0.000,0,0,0,0
+2023-11,5503973753062,Greenfield,7593193636070,6306419079,151.200,Cranes in Winter,Gift Collection,32493198704778,PCcraneB,Black,Online Store,Greenfield,United States,151.200,0.000,1,1,1,1
+2023-11,5491983941862,Prestwick,5078661824667,0,0.000,,,0,,,Online Store,Prestwick,International,0.000,0.000,0,0,0,0
+2023-11,5491983941862,Prestwick,5078661824667,6306570567,151.200,Balloon Over Paris Bridge,Gift Collection,32493118914698,PCballoB,Black,Online Store,Prestwick,International,151.200,0.000,1,1,1,1
+2023-11,5525032796390,Meridian,6063059402982,4826526285962,71.100,Beginnings,Mini,33259441094794,MCbeginB,Black,Online Store,Meridian,United States,71.100,0.000,1,1,1,1
+2023-11,5525032796390,Meridian,6063059402982,0,0.000,,,0,,,Online Store,Meridian,United States,0.000,0.000,0,0,0,0
+2023-11,5480664596710,Assen,7547016282342,0,0.000,,,0,,,Online Store,Assen,International,0.000,0.000,0,0,0,0
+2023-11,5480664596710,Assen,7547016282342,6306615303,151.200,Tree of Life,Gift Collection,32493347307658,PCtreeoB,Black,Online Store,Assen,International,151.200,0.000,1,1,1,1
+2023-11,5505475805414,Newton,7599034630374,0,0.000,,,0,,,Online Store,Newton,United States,0.000,0.000,0,0,0,0
+2023-11,5505475805414,Newton,7599034630374,4826638155914,71.100,Dove,Mini,33259773198474,MCdoveB,Black,Online Store,Newton,United States,71.100,0.000,1,1,1,1
+2023-11,5505011319014,Rockford,7597534445798,8151177986278,151.200,Mesorah,Gift Collection,43671957536998,,Black,Online Store,Rockford,United States,151.200,0.000,1,1,1,1
+2023-11,5505011319014,Rockford,7597534445798,0,0.000,,,0,,,Online Store,Rockford,United States,0.000,0.000,0,0,0,0
+2023-11,5477777015014,Port Charlotte,4566122922139,0,0.000,,,0,,,Online Store,Port Charlotte,United States,0.000,0.000,0,0,0,0
+2023-11,5477777015014,Port Charlotte,4566122922139,6202345927,151.200,Shalom,Gift Collection,32493286621322,PCshaloB,Black,Online Store,Port Charlotte,United States,151.200,0.000,1,1,1,1
+2023-11,5501224583398,Strausberg,7496622375142,0,0.000,,,0,,,Online Store,Strausberg,International,0.000,0.000,0,0,0,0
+2023-11,5501224583398,Strausberg,7496622375142,5280927514779,71.100,Water Yourself,Mini,34575556804763,MCwateLC,Cream,Online Store,Strausberg,International,71.100,0.000,1,1,1,1
+2023-11,5513878208742,Armada,6060556615910,0,0.000,,,0,,,Online Store,Armada,United States,0.000,0.000,0,0,0,0
+2023-11,5513878208742,Armada,6060556615910,6179810823,151.200,Moonlight Dance,Gift Collection,32493353861258,PCmoonlB,Black,Online Store,Armada,United States,151.200,0.000,1,1,1,1
+2023-11,5516682494182,North York,7636011778278,8226437955814,424.000,Your favorite Petite 4x larger,,43800461508838,,,Online Store,North York,International,424.000,0.000,1,1,1,1
+2023-11,5516682494182,North York,7636011778278,0,0.000,,,0,,,Online Store,North York,International,0.000,0.000,0,0,0,0
+2023-11,5496663277798,Depew,5223907229851,0,0.000,,,0,,,Online Store,Depew,United States,0.000,0.000,0,0,0,0
+2023-11,5496663277798,Depew,5223907229851,6306419079,151.200,Cranes in Winter,Gift Collection,32493198704778,PCcraneB,Black,Online Store,Depew,United States,151.200,0.000,1,1,1,1
+2023-11,5507403022566,Virginia Beach,7604260503782,0,0.000,,,0,,,Online Store,Virginia Beach,United States,0.000,0.000,0,0,0,0
+2023-11,5507403022566,Virginia Beach,7604260503782,404862107685,22000.000,Nature is a Temple,Grand,4914791514149,,,Online Store,Virginia Beach,United States,13200.000,-8800.000,1,1,1,1
+2023-11,5498380910822,Surabaya,7572580499686,7030027649179,424.000,Limitless,Classique,41157664702619,CClimitB,,Online Store,Surabaya,International,424.000,0.000,1,1,1,1
+2023-11,5498380910822,Surabaya,7572580499686,0,0.000,,,0,,,Online Store,Surabaya,International,0.000,0.000,0,0,0,0
+2023-11,5501355917542,Ma On Shan,3282782781578,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,Ma On Shan,International,10.000,0.000,1,1,1,1
+2023-11,5501355917542,Ma On Shan,3282782781578,0,0.000,,,0,,,Online Store,Ma On Shan,International,0.000,0.000,0,0,0,0
+2023-11,5501355917542,Ma On Shan,3282782781578,5280927514779,71.100,Water Yourself,Mini,34575556771995,MCwateLB,Black,Online Store,Ma On Shan,International,71.100,0.000,1,1,1,1
+2023-11,5519547564262,Great Neck,7642606436582,4612036624522,151.200,Jerusalem Prayer,Gift Collection,32492898484362,PCjerusC,Cream,Online Store,Great Neck,United States,136.080,-15.120,1,1,1,1
+2023-11,5519547564262,Great Neck,7642606436582,0,0.000,,,0,,,Online Store,Great Neck,United States,15.000,0.000,0,0,0,0
+2023-11,5523796295910,Potomac,7648425050342,4826452033674,71.100,Western Wall,Mini,33259238523018,MCwesteB,Black,Online Store,New York,United States,71.100,0.000,1,1,1,1
+2023-11,5523796295910,Potomac,7648425050342,0,0.000,,,0,,,Online Store,New York,United States,0.000,0.000,0,0,0,0
+2023-11,5523467501798,Boerne,5112442126491,6756399579291,151.200,Seaside Serenade,Gift Collection,39954439274651,PCseasiB,Black,Online Store,Boerne,United States,151.200,0.000,1,1,1,1
+2023-11,5523467501798,Boerne,5112442126491,0,0.000,,,0,,,Online Store,Boerne,United States,0.000,0.000,0,0,0,0
+2023-11,5526205595878,Bremen,7651415556326,8226437955814,430.000,Your favorite Petite 4x larger,,43800461508838,,,Online Store,Bremen,International,430.000,0.000,1,1,1,1
+2023-11,5526205595878,Bremen,7651415556326,0,0.000,,,0,,,Online Store,Bremen,International,0.000,0.000,0,0,0,0
+2023-11,5490392465638,Owens Cross Roads,5090905653403,4826452033674,71.100,Western Wall,Mini,33259238523018,MCwesteB,Black,Online Store,Owens Cross Roads,United States,71.100,0.000,1,1,1,1
+2023-11,5490392465638,Owens Cross Roads,5090905653403,0,0.000,,,0,,,Online Store,Owens Cross Roads,United States,0.000,0.000,0,0,0,0
+2023-11,5478186647782,Astoria,4528501457051,6306419079,151.200,Cranes in Winter,Gift Collection,32493198704778,PCcraneB,Black,Online Store,Astoria,United States,151.200,0.000,1,1,1,1
+2023-11,5478186647782,Astoria,4528501457051,0,0.000,,,0,,,Online Store,Astoria,United States,0.000,0.000,0,0,0,0
+2023-11,5522605015270,Macungie,6047410094310,6179810823,151.200,Moonlight Dance,Gift Collection,32493353894026,PCmoonlC,Cream,Online Store,Macungie,United States,151.200,0.000,1,1,1,1
+2023-11,5522605015270,Macungie,6047410094310,0,0.000,,,0,,,Online Store,Macungie,United States,0.000,0.000,0,0,0,0
+2023-11,5522605015270,Macungie,6047410094310,4826582417546,71.100,Red Riding Hood,Mini,33259588911242,MCrrhC,Cream,Online Store,Macungie,United States,71.100,0.000,1,1,1,1
+2023-11,5509218369766,Mequon,7613713678566,0,0.000,,,0,,,Online Store,Bayside,United States,0.000,0.000,0,0,0,0
+2023-11,5509218369766,Mequon,7613713678566,4612036624522,151.200,Jerusalem Prayer,Gift Collection,32492898451594,PCjerusB,Black,Online Store,Bayside,United States,136.080,-15.120,1,1,1,1
+2023-11,5525905965286,Spring Valley,6568813068518,8226437955814,430.000,Your favorite Petite 4x larger,,43800461508838,,,Online Store,Spring Valley,United States,404.800,-25.200,1,1,1,1
+2023-11,5525905965286,Spring Valley,6568813068518,0,0.000,,,0,,,Online Store,Spring Valley,United States,0.000,0.000,0,0,0,0
+2023-11,5496106156262,Springfield,7563640275174,0,0.000,,,0,,,Online Store,Springfield,United States,0.000,0.000,0,0,0,0
+2023-11,5496106156262,Springfield,7563640275174,6306615303,151.200,Tree of Life,Gift Collection,32493347307658,PCtreeoB,Black,Online Store,Springfield,United States,151.200,0.000,1,1,1,1
+2023-11,5478389874918,Holden,4355221848219,6203257287,151.200,Time Flies,Gift Collection,33585565630602,PCtimefB,Black,Online Store,Holden,United States,151.200,0.000,1,1,1,1
+2023-11,5478389874918,Holden,4355221848219,0,0.000,,,0,,,Online Store,Holden,United States,0.000,0.000,0,0,0,0
+2023-11,5526018031846,Sunset Beach,7651194110182,4826622394506,71.100,Sailing,Mini,33259725815946,MCsailiB,Black,Online Store,Sunset Beach,United States,71.100,0.000,1,1,1,1
+2023-11,5526018031846,Sunset Beach,7651194110182,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,Sunset Beach,United States,10.000,0.000,1,1,1,1
+2023-11,5526018031846,Sunset Beach,7651194110182,0,0.000,,,0,,,Online Store,Sunset Beach,United States,0.000,0.000,0,0,0,0
+2023-11,5485623476454,Auckland,7542805627110,6179810823,151.200,Moonlight Dance,Gift Collection,32493353861258,PCmoonlB,Black,Online Store,Auckland,International,151.200,0.000,1,1,1,1
+2023-11,5485623476454,Auckland,7542805627110,0,0.000,,,0,,,Online Store,Auckland,International,15.000,0.000,0,0,0,0
+2023-11,5520856219878,Coventry,5069226639515,4826366673034,71.100,Together,Mini,33258994958474,MCtogetC,Cream,Online Store,London,International,71.100,0.000,1,1,1,1
+2023-11,5520856219878,Coventry,5069226639515,0,0.000,,,0,,,Online Store,London,International,0.000,0.000,0,0,0,0
+2023-11,5497200148710,Metairie,7565020463334,4600669896842,151.200,Kotel,Gift Collection,32493256474762,PCkotelC,Cream,Online Store,Los Angeles,United States,151.200,0.000,1,1,1,1
+2023-11,5497200148710,Metairie,7565020463334,0,0.000,,,0,,,Online Store,Los Angeles,United States,0.000,0.000,0,0,0,0
+2023-11,5483613913318,Ramat Gan,7549977034982,6306703239,151.200,Here's to you!,Gift Collection,32493142212746,PCheresB,Black,Online Store,Ramat Gan,International,151.200,0.000,1,1,1,1
+2023-11,5483613913318,Ramat Gan,7549977034982,0,0.000,,,0,,,Online Store,Ramat Gan,International,0.000,0.000,0,0,0,0
+2023-11,5495798923494,Vancouver,7497331605734,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,Vancouver,International,20.000,0.000,1,1,2,2
+2023-11,5495798923494,Vancouver,7497331605734,5280931414171,71.100,Small Things,Mini,34575591014555,MCsmallC,Cream,Online Store,Vancouver,International,71.100,0.000,1,1,1,1
+2023-11,5495798923494,Vancouver,7497331605734,4816345923722,71.100,Cat,Mini,33233301373066,MCcatB,Black,Online Store,Vancouver,International,71.100,0.000,1,1,1,1
+2023-11,5495798923494,Vancouver,7497331605734,0,0.000,,,0,,,Online Store,Vancouver,International,0.000,0.000,0,0,0,0
+2023-11,5480538669286,Austin,7546908704998,5280927514779,71.100,Water Yourself,Mini,34575556837531,MCwateLW,Wood,Online Store,Austin,United States,71.100,0.000,1,1,1,1
+2023-11,5480538669286,Austin,7546908704998,0,0.000,,,0,,,Online Store,Austin,United States,0.000,0.000,0,0,0,0
+2023-11,5523377488102,Hurricane,6577369748,0,0.000,,,0,,,Online Store,Hurricane,United States,0.000,0.000,0,0,0,0
+2023-11,5523377488102,Hurricane,6577369748,5280925122715,71.100,Boots,Mini,34575547072667,MCbootsB,Black,Online Store,Hurricane,United States,71.100,0.000,1,1,1,1
+2023-11,5523377488102,Hurricane,6577369748,7941422907622,151.200,Italian Pastel,Gift Collection,43270753026278,,Black,Online Store,Hurricane,United States,151.200,0.000,1,1,1,1
+2023-11,5523377488102,Hurricane,6577369748,5280932626587,71.100,Daydreams,Mini,34575601729691,MCdaydrB,Black,Online Store,Hurricane,United States,71.100,0.000,1,1,1,1
+2023-11,5523377488102,Hurricane,6577369748,6306514567,151.200,Venice Autumn,Gift Collection,32493351075978,PCvenicB,Black,Online Store,Hurricane,United States,151.200,0.000,1,1,1,1
+2023-11,5477756371174,Metairie,7543484907750,4600669896842,151.200,Kotel,Gift Collection,32493256441994,PCkotelB,Black,Online Store,Metairie,United States,151.200,0.000,1,1,1,1
+2023-11,5477756371174,Metairie,7543484907750,0,0.000,,,0,,,Online Store,Metairie,United States,15.000,0.000,0,0,0,0
+2023-11,5509103681766,Newington,4328998240411,0,0.000,,,0,,,Online Store,Newington,United States,0.000,0.000,0,0,0,0
+2023-11,5509103681766,Newington,4328998240411,4612049404042,151.200,Open Birdcage,Gift Collection,32492984336522,PCopenbB,Black,Online Store,Newington,United States,151.200,0.000,1,1,1,1
+2023-11,5509103681766,Newington,4328998240411,6306703239,151.200,Here's to you!,Gift Collection,32493142212746,PCheresB,Black,Online Store,Newington,United States,151.200,0.000,1,1,1,1
+2023-11,5490257461478,Lindenhurst,6186493018342,5280920141979,71.100,Home,Mini,34575525183643,MChomeB,Black,Online Store,Lindenhurst,United States,71.100,0.000,1,1,1,1
+2023-11,5490257461478,Lindenhurst,6186493018342,0,0.000,,,0,,,Online Store,Lindenhurst,United States,0.000,0.000,0,0,0,0
+2023-11,5511441449190,Topeka,4329861283995,0,0.000,,,0,,,Online Store,Topeka,United States,0.000,0.000,0,0,0,0
+2023-11,5511441449190,Topeka,4329861283995,5280927514779,71.100,Water Yourself,Mini,34575556771995,MCwateLB,Black,Online Store,Topeka,United States,71.100,0.000,1,1,1,1
+2023-11,5524244267238,Beaumont,4277344010395,4605089349770,151.200,Child on Beach,Gift Collection,32493160038538,PCchildB,Black,Online Store,Beaumont,United States,151.200,0.000,1,1,1,1
+2023-11,5524244267238,Beaumont,4277344010395,0,0.000,,,0,,,Online Store,Beaumont,United States,15.000,0.000,0,0,0,0
+2023-11,5524244267238,Beaumont,4277344010395,7766198321382,151.200,Birthday Celebration,Gift Collection,42873256444134,,Black,Online Store,Beaumont,United States,151.200,0.000,1,1,1,1
+2023-11,5495896277222,Sint Nicolaasga,7563346510054,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,Sint Nicolaasga,International,20.000,0.000,1,1,2,2
+2023-11,5495896277222,Sint Nicolaasga,7563346510054,4826452033674,71.100,Western Wall,Mini,33259238588554,MCwesteW,Wood,Online Store,Sint Nicolaasga,International,71.100,0.000,1,1,1,1
+2023-11,5495896277222,Sint Nicolaasga,7563346510054,0,0.000,,,0,,,Online Store,Sint Nicolaasga,International,-10.000,0.000,0,0,0,0
+2023-11,5524740047078,Loudon,7604217839846,0,0.000,,,0,,,Online Store,Loudon,United States,0.000,0.000,0,0,0,0
+2023-11,5524740047078,Loudon,7604217839846,6306514567,151.200,Venice Autumn,Gift Collection,32493351075978,PCvenicB,Black,Online Store,Loudon,United States,151.200,0.000,1,1,1,1
+2023-11,5497673810150,Farmington Hills,5978361594086,0,0.000,,,0,,,Online Store,Farmington Hills,United States,0.000,0.000,0,0,0,0
+2023-11,5497673810150,Farmington Hills,5978361594086,5906123686043,71.100,Tree of Purple Hearts,Mini,37053196992667,MCtophW,Wood,Online Store,Farmington Hills,United States,71.100,0.000,1,1,1,1
+2023-11,5503229034726,Seattle,5075455574171,0,0.000,,,0,,,Online Store,Seattle,United States,0.000,0.000,0,0,0,0
+2023-11,5503229034726,Seattle,5075455574171,6306514567,151.200,Venice Autumn,Gift Collection,32493351075978,PCvenicB,Black,Online Store,Seattle,United States,151.200,0.000,1,1,1,1
+2023-11,5477513789670,Waldalgesheim,7543231971558,0,0.000,,,0,,,Online Store,Waldalgesheim,International,0.000,0.000,0,0,0,0
+2023-11,5477513789670,Waldalgesheim,7543231971558,4796659433610,71.100,Love,Mini,33210380714122,MCahavaC,Cream / English,Online Store,Waldalgesheim,International,71.100,0.000,1,1,1,1
+2023-11,5477513789670,Waldalgesheim,7543231971558,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,Waldalgesheim,International,10.000,0.000,1,1,1,1
+2023-11,5496228937958,Mount Hood Parkdale,7563820728550,5906123686043,71.100,Tree of Purple Hearts,Mini,37053196927131,MCtophB,Black,Online Store,Mount Hood Parkdale,United States,71.100,0.000,1,1,1,1
+2023-11,5496228937958,Mount Hood Parkdale,7563820728550,0,0.000,,,0,,,Online Store,Mount Hood Parkdale,United States,0.000,0.000,0,0,0,0
+2023-11,5497387483366,Staten Island,5359247851675,7340697977062,151.200,Rachel's Tomb,Gift Collection,41885021733094,PCracheB,Black,Online Store,Staten Island,United States,151.200,0.000,1,1,1,1
+2023-11,5497387483366,Staten Island,5359247851675,4612009623690,151.200,Aleph Bet,Gift Collection,32492690210954,PCalephB,Black,Online Store,Staten Island,United States,151.200,0.000,1,1,1,1
+2023-11,5497387483366,Staten Island,5359247851675,0,0.000,,,0,,,Online Store,Staten Island,United States,0.000,0.000,0,0,0,0
+2023-11,5524857979110,Lake Placid,7649765228774,0,0.000,,,0,,,Online Store,Lake Placid,United States,15.000,0.000,0,0,0,0
+2023-11,5524857979110,Lake Placid,7649765228774,5280920141979,71.100,Home,Mini,34575525183643,MChomeB,Black,Online Store,Lake Placid,United States,71.100,0.000,1,1,1,1
+2023-11,5499460714726,Flushing,7574665232614,0,0.000,,,0,,,Online Store,Livingston,United States,15.000,0.000,0,0,0,0
+2023-11,5499460714726,Flushing,7574665232614,6129484398747,151.200,Wildflowers,Gift Collection,37806903853211,PCwildfB,Black,Online Store,Livingston,United States,136.080,-15.120,1,1,1,1
+2023-11,5478593200358,Valley Village,3371911741578,0,0.000,,,0,,,Online Store,Valley Village,United States,0.000,0.000,0,0,0,0
+2023-11,5478593200358,Valley Village,3371911741578,6306703239,151.200,Here's to you!,Gift Collection,32493142212746,PCheresB,Black,Online Store,Valley Village,United States,151.200,0.000,1,1,1,1
+2023-11,5510995149030,Londonderry,4426607198363,5280920141979,71.100,Home,Mini,34575525183643,MChomeB,Black,Online Store,Londonderry,United States,71.100,0.000,1,1,1,1
+2023-11,5510995149030,Londonderry,4426607198363,0,0.000,,,0,,,Online Store,Londonderry,United States,0.000,0.000,0,0,0,0
+2023-11,5526609330406,Delray Beach,6020705485030,0,0.000,,,0,,,Online Store,Delray Beach,United States,0.000,0.000,0,0,0,0
+2023-11,5526609330406,Delray Beach,6020705485030,4973542113418,71.100,Medical superhero M,Mini,33582753906826,MCmsmLB,Black / Lighter,Online Store,Delray Beach,United States,71.100,0.000,1,1,1,1
+2023-11,5526609330406,Delray Beach,6020705485030,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,Delray Beach,United States,10.000,0.000,1,1,1,1
+2023-11,5497184190694,Metairie,7565020463334,4600669896842,151.200,Kotel,Gift Collection,32493256441994,PCkotelB,Black,Online Store,Metairie,United States,151.200,0.000,1,1,1,1
+2023-11,5497184190694,Metairie,7565020463334,0,0.000,,,0,,,Online Store,Metairie,United States,15.000,0.000,0,0,0,0
+2023-11,5510401622246,New York,6352000844006,4826452033674,71.100,Western Wall,Mini,33259238523018,MCwesteB,Black,Online Store,New York,United States,71.100,0.000,1,1,1,1
+2023-11,5510401622246,New York,6352000844006,0,0.000,,,0,,,Online Store,New York,United States,0.000,0.000,0,0,0,0
+2023-11,5525256929510,Tarrytown,7650268578022,4826452033674,71.100,Western Wall,Mini,33259238523018,MCwesteB,Black,Online Store,Tarrytown,United States,71.100,0.000,1,1,1,1
+2023-11,5525256929510,Tarrytown,7650268578022,0,0.000,,,0,,,Online Store,Tarrytown,United States,0.000,0.000,0,0,0,0
+2023-11,5525256929510,Tarrytown,7650268578022,4826622394506,71.100,Sailing,Mini,33259725815946,MCsailiB,Black,Online Store,Tarrytown,United States,71.100,0.000,1,1,1,1
+2023-11,5478223773926,Commerce Township,5159610417307,7766198321382,151.200,Birthday Celebration,Gift Collection,42873256444134,,Black,Online Store,Commerce Township,United States,151.200,0.000,1,1,1,1
+2023-11,5479731003622,Austin,6545565972,0,0.000,,,0,,,Online Store,Austin,United States,0.000,0.000,0,0,0,0
+2023-11,5479731003622,Austin,6545565972,8151177986278,151.200,Mesorah,Gift Collection,43671957536998,,Black,Online Store,Austin,United States,151.200,0.000,1,1,1,1
+2023-11,5523428081894,Rensselaer,5918842519782,7766198321382,151.200,Birthday Celebration,Gift Collection,42873256444134,,Black,Online Store,Rensselaer,United States,151.200,0.000,1,1,1,1
+2023-11,5523428081894,Rensselaer,5918842519782,0,0.000,,,0,,,Online Store,Rensselaer,United States,0.000,0.000,0,0,0,0
+2023-11,5523428081894,Rensselaer,5918842519782,8151177986278,151.200,Mesorah,Gift Collection,43671957536998,,Black,Online Store,Rensselaer,United States,151.200,0.000,1,1,1,1
+2023-11,5518078968038,Cumming,7640473632998,6306615303,151.200,Tree of Life,Gift Collection,32493347373194,PCtreeoC,Cream,Online Store,Cumming,United States,151.200,0.000,1,1,1,1
+2023-11,5518078968038,Cumming,7640473632998,0,0.000,,,0,,,Online Store,Cumming,United States,0.000,0.000,0,0,0,0
+2023-11,5493188952294,Laredo,7560239382758,8151177986278,151.200,Mesorah,Gift Collection,43671957536998,,Black,Online Store,Laredo,United States,151.200,0.000,1,1,1,1
+2023-11,5493188952294,Laredo,7560239382758,0,0.000,,,0,,,Online Store,Laredo,United States,0.000,0.000,0,0,0,0
+2023-11,5477864046822,University Place,4468801011867,7030023225499,424.000,Summer Friends,Classique,41153201504411,CCsummeB,,Online Store,University Place,United States,424.000,0.000,1,1,1,1
+2023-11,5477864046822,University Place,4468801011867,0,0.000,,,0,,,Online Store,University Place,United States,0.000,0.000,0,0,0,0
+2023-11,5511832928486,Charlotte,7625291301094,0,0.000,,,0,,,Online Store,Charlotte,United States,0.000,0.000,0,0,0,0
+2023-12,5548470206694,Denver,7524697374950,4806031704202,71.100,Soar!,Mini,33210402242698,MCsoarB,Black,Online Store,Lake Forest,United States,71.100,0.000,1,1,1,1
+2023-12,5573870911718,Edison,7714806956262,4826452033674,71.100,Western Wall,Mini,33259238523018,MCwesteB,Black,Online Store,Edison,United States,71.100,0.000,1,1,1,1
+2023-12,5545173156070,Seminole,7673431949542,4826408681610,71.100,Jerusalem,Mini,33259121344650,MCjerusB,Black,Online Store,Seminole,United States,71.100,0.000,1,1,1,1
+2023-12,5549019037926,Seattle,7678284464358,0,0.000,,,0,,,Online Store,Seattle,United States,15.000,0.000,0,0,0,0
+2023-12,5557209366758,Villa Rica,7689215705318,0,0.000,,,0,,,Online Store,Villa Rica,United States,15.000,0.000,0,0,0,0
+2023-12,5573870911718,Edison,7714806956262,0,0.000,,,0,,,Online Store,Edison,United States,0.000,0.000,0,0,0,0
+2023-12,5548952158438,Philadelphia,7678199824614,4826666696842,71.100,Rendezvous,Mini,33259855544458,MCrendeB,Black,Online Store,Philadelphia,United States,71.100,0.000,1,1,1,1
+2023-12,5554540118246,Orlando,7685775327462,4826366673034,71.100,Together,Mini,33258994958474,MCtogetC,Cream,Online Store,Orlando,United States,71.100,0.000,1,1,1,1
+2023-12,5548478759142,Denver,7524697374950,4816366928010,71.100,Friendship,Mini,33233371463818,MCfrienB,Black,Online Store,Lake Forest,United States,71.100,0.000,1,1,1,1
+2023-12,5547491655910,Lanzenhäusern,7676150972646,0,0.000,,,0,,,Online Store,Lanzenhäusern,International,0.000,0.000,0,0,0,0
+2023-12,5545173156070,Seminole,7673431949542,0,0.000,,,0,,,Online Store,Seminole,United States,0.000,0.000,0,0,0,0
+2023-12,5572251222246,Salem,7712725663974,0,0.000,,,0,,,Online Store,Salem,United States,0.000,0.000,0,0,0,0
+2023-12,5557172601062,Livingston,7689220030694,0,0.000,,,0,,,Online Store,Livingston,United States,15.000,0.000,0,0,0,0
+2023-12,5572639916262,Havre De Grace,7486223384806,0,0.000,,,0,,,Online Store,Havre De Grace,United States,15.000,0.000,0,0,0,0
+2023-12,5529414959334,Rancho Santa Fe,7655433502950,7340697977062,151.200,Rachel's Tomb,Gift Collection,41885021733094,PCracheB,Black,Online Store,Rancho Santa Fe,United States,151.200,0.000,1,1,1,1
+2023-12,5550118109414,Coral Springs,7493300093158,0,0.000,,,0,,,Online Store,Quincy,United States,0.000,0.000,0,0,0,0
+2023-12,5553506287846,San Francisco,7684473422054,7941422907622,151.200,Italian Pastel,Gift Collection,43270753059046,,Cream,Online Store,San Francisco,United States,151.200,0.000,1,1,1,1
+2023-12,5554391810278,Harrington Park,7685512397030,7941422907622,151.200,Italian Pastel,Gift Collection,43270753059046,,Cream,Online Store,Harrington Park,International,151.200,0.000,1,1,1,1
+2023-12,5546153476326,Greensboro,7674604847334,5755818934427,151.200,Feathers,Gift Collection,36586571169947,PCfeathB,Black,Online Store,Greensboro,United States,151.200,0.000,1,1,1,1
+2023-12,5546862543078,Oceanside,7675384496358,4600669896842,151.200,Kotel,Gift Collection,32493256441994,PCkotelB,Black,Online Store,ירושלים,International,151.200,0.000,1,1,1,1
+2023-12,5548414697702,St. Petersburg,7677593387238,0,0.000,,,0,,,Online Store,St. Petersburg,United States,15.000,0.000,0,0,0,0
+2023-12,5548828655846,Costa Mesa,7677998137574,0,0.000,,,0,,,Online Store,Costa Mesa,United States,15.000,0.000,0,0,0,0
+2023-12,5552387031270,Hamburg,7682971468006,6306382599,151.200,Ballet Class,Gift Collection,32491304485002,PCballeC,Cream,Online Store,Hamburg,International,151.200,0.000,1,1,1,1
+2023-12,5564183412966,Burlington,7698827280614,0,0.000,,,0,,,Online Store,Burlington,United States,15.000,0.000,0,0,0,0
+2023-12,5544690352358,Fairfield,5978580910310,5280925122715,71.100,Boots,Mini,34575547105435,MCbootsC,Cream,Online Store,Fairfield,United States,71.100,0.000,1,1,1,1
+2023-12,5548924338406,Tulsa,7678162567398,6306570567,151.200,Balloon Over Paris Bridge,Gift Collection,32493118914698,PCballoB,Black,Online Store,Tulsa,United States,151.200,0.000,1,1,1,1
+2023-12,5569399619814,Buffalo Grove,7478933913830,4600669896842,151.200,Kotel,Gift Collection,32493256441994,PCkotelB,Black,Online Store,Manhattan Beach,United States,151.200,0.000,1,1,1,1
+2023-12,5552387031270,Hamburg,7682971468006,0,0.000,,,0,,,Online Store,Hamburg,International,15.000,0.000,0,0,0,0
+2023-12,5545495134438,Springfield,4485755404443,5280931414171,71.100,Small Things,Mini,34575590981787,MCsmallB,Black,Online Store,Springfield,United States,71.100,0.000,1,1,1,1
+2023-12,5563390525670,Bronx,7697828053222,8145538744550,71.100,Jaffa,Mini,43661784678630,,Black,Online Store,Bronx,United States,71.100,0.000,1,1,1,1
+2023-12,5565120217318,Laurens,4527733342363,4612036624522,151.200,Jerusalem Prayer,Gift Collection,32492898451594,PCjerusB,Black,Online Store,Laurens,United States,151.200,0.000,1,1,1,1
+2023-12,5574175752422,Dix Hills,7591508508902,6306615303,151.200,Tree of Life,Gift Collection,32493347307658,PCtreeoB,Black,Online Store,Dix Hills,United States,151.200,0.000,1,1,1,1
+2023-12,5569894449382,Porto Alegre,7708869918950,4973512523914,71.100,Medical Superhero F,Mini,33582707966090,MCmsfLW,Wood / Lighter,Online Store,São Paulo,International,0.000,0.000,1,1,0,1
+2023-12,5552735912166,Warrington,7683432382694,0,0.000,,,0,,,Online Store,Warrington,United States,15.000,0.000,0,0,0,0
+2023-12,5571295412454,Dover,7706556956902,0,0.000,,,0,,,Online Store,Dover,United States,0.000,0.000,0,0,0,0
+2023-12,5542009176294,Austin,7669811675366,0,0.000,,,0,,,Online Store,Austin,United States,0.000,0.000,0,0,0,0
+2023-12,5544995651814,Philadelphia,7673245499622,4612036624522,151.200,Jerusalem Prayer,Gift Collection,32492898451594,PCjerusB,Black,Online Store,Philadelphia,United States,151.200,0.000,1,1,1,1
+2023-12,5553945116902,Abington,7684977295590,6306615303,151.200,Tree of Life,Gift Collection,32493347307658,PCtreeoB,Black,Online Store,Abington,United States,151.200,0.000,1,1,1,1
+2023-12,5545073737958,Los Angeles,4562679693467,1474305327156,430.000,Dancing Cranes,Classique,41153161527451,CCdanciB,,Online Store,Los Angeles,United States,430.000,0.000,1,1,1,1
+2023-12,5544995651814,Philadelphia,7673245499622,4600557273226,151.200,NY Jazz,Gift Collection,32493269909642,PCnyjazB,Black,Online Store,Philadelphia,United States,151.200,0.000,1,1,1,1
+2023-12,5571468525798,Singapore,7711725191398,0,0.000,,,0,,,Online Store,Singapore,International,0.000,0.000,0,0,0,0
+2023-12,5574012993766,Panama,7687479230694,8226437955814,430.000,Your favorite Petite 4x larger,,43800461508838,,,Online Store,Panama,International,430.000,0.000,1,1,1,1
+2023-12,5528975278310,Northfield,4525923565723,0,0.000,,,0,,,Online Store,Northfield,United States,0.000,0.000,0,0,0,0
+2023-12,5539283501286,London,7666972590310,4612036624522,151.200,Jerusalem Prayer,Gift Collection,32492898484362,PCjerusC,Cream,Online Store,London,International,151.200,0.000,1,1,1,1
+2023-12,5558425845990,Rome,4351957598363,6306615303,151.200,Tree of Life,Gift Collection,32493347307658,PCtreeoB,Black,Online Store,Rome,United States,151.200,0.000,1,1,1,1
+2023-12,5556289994982,Livingston,7543730372838,4826638155914,71.100,Dove,Mini,33259773198474,MCdoveB,Black,Online Store,Livingston,United States,71.100,0.000,1,1,1,1
+2023-12,5554540118246,Orlando,7685775327462,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,Orlando,United States,10.000,0.000,1,1,1,1
+2023-12,5555366789350,Sylvania,7686717341926,6306703239,151.200,Here's to you!,Gift Collection,32493142212746,PCheresB,Black,Online Store,Sylvania,United States,151.200,0.000,1,1,1,1
+2023-12,5529093406950,Tel Aviv,7642606436582,4826470842506,71.100,Mazal,Mini,33259296227466,MCmazalW,Wood,Online Store,Tel Aviv,International,63.990,-6.070,1,1,1,1
+2023-12,5539316498662,Benson,6929959387366,4826452033674,71.100,Western Wall,Mini,33259238523018,MCwesteB,Black,Online Store,Benson,United States,71.100,0.000,1,1,1,1
+2023-12,5571507454182,Cañon City,7711768707302,5646494269595,59.000,The Well of Being,Book Prints,36119407263899,,,Online Store,Cañon City,United States,59.000,0.000,1,1,1,1
+2023-12,5566521409766,Mountain View,7702271426790,4826652835978,71.100,Wonder,Mini,33259816648842,MCwondeB,Black,Online Store,Mountain View,United States,71.100,0.000,1,1,1,1
+2023-12,5574230212838,Macungie,6047410094310,6129484398747,151.200,Wildflowers,Gift Collection,37806903885979,PCwildfC,Cream,Online Store,Macungie,United States,151.200,0.000,1,1,1,1
+2023-12,5545173156070,Seminole,7673431949542,4826452033674,71.100,Western Wall,Mini,33259238523018,MCwesteB,Black,Online Store,Seminole,United States,71.100,0.000,1,1,1,1
+2023-12,5552413114598,New York,7682997027046,8145538744550,71.100,Jaffa,Mini,43661784678630,,Black,Online Store,New York,United States,71.100,0.000,1,1,1,1
+2023-12,5569894449382,Porto Alegre,7708869918950,0,0.000,,,0,,,Online Store,São Paulo,International,0.000,0.000,0,0,0,0
+2023-12,5552174006502,Södertälje,7682758738150,0,0.000,,,0,,,Online Store,Södertälje,International,15.000,0.000,0,0,0,0
+2023-12,5546508779750,Fort Worth,7674897334502,0,0.000,,,0,,,Online Store,Fort Worth,United States,0.000,0.000,0,0,0,0
+2023-12,5550539669734,Pikesville,7680702185702,8226437955814,430.000,Your favorite Petite 4x larger,,43800461508838,,,Online Store,Pikesville,United States,430.000,0.000,1,1,1,1
+2023-12,5552889987302,Seoul,7683737190630,7766198321382,151.200,Birthday Celebration,Gift Collection,42873256476902,,Cream,Online Store,Seoul,International,151.200,0.000,1,1,1,1
+2023-12,5548274286822,Wigston,7677152002278,0,0.000,,,0,,,Online Store,Wigston,International,0.000,0.000,0,0,0,0
+2023-12,5529371115750,Doylestown,7655382089958,4612049404042,151.200,Open Birdcage,Gift Collection,32492984336522,PCopenbB,Black,Online Store,Doylestown,United States,151.200,0.000,1,1,1,1
+2023-12,5550451687654,Marco Island,7546908704998,0,0.000,,,0,,,Online Store,Marco Island,United States,0.000,0.000,0,0,0,0
+2023-12,5571295412454,Dover,7706556956902,4816366928010,71.100,Friendship,Mini,33233371463818,MCfrienB,Black,Online Store,Dover,United States,71.100,0.000,1,1,1,1
+2023-12,5550608908518,Grand Rapids,7680779976934,6756399579291,151.200,Seaside Serenade,Gift Collection,39954439274651,PCseasiB,Black,Online Store,Grand Rapids,United States,151.200,0.000,1,1,1,1
+2023-12,5574616744166,Boynton Beach,7715826073830,4826452033674,71.100,Western Wall,Mini,33259238523018,MCwesteB,Black,Online Store,Orlando,United States,71.100,0.000,1,1,1,1
+2023-12,5551952625894,Leesport,7682520613094,0,0.000,,,0,,,Online Store,Leesport,United States,15.000,0.000,0,0,0,0
+2023-12,5544995651814,Philadelphia,7673245499622,6202345927,151.200,Shalom,Gift Collection,32493286621322,PCshaloB,Black,Online Store,Philadelphia,United States,151.200,0.000,1,1,1,1
+2023-12,5536128172262,Bryn Mawr,7662202454246,0,0.000,,,0,,,Online Store,Bryn Mawr,United States,15.000,0.000,0,0,0,0
+2023-12,5571378807014,Greifswald,7711606407398,6129484398747,151.200,Wildflowers,Gift Collection,37806903885979,PCwildfC,Cream,Online Store,Greifswald,International,151.200,0.000,1,1,1,1
+2023-12,5544995651814,Philadelphia,7673245499622,6306703239,151.200,Here's to you!,Gift Collection,32493142212746,PCheresB,Black,Online Store,Philadelphia,United States,151.200,0.000,1,1,1,1
+2023-12,5527782686950,Chicago,6194602180838,4816366928010,71.100,Friendship,Mini,33233371463818,MCfrienB,Black,Online Store,Kankakee,United States,71.100,0.000,1,1,1,1
+2023-12,5535767036134,Marco Island,7546908704998,0,0.000,,,0,,,Online Store,Marco Island,United States,0.000,0.000,0,0,0,0
+2023-12,5559684989158,Loveland,7692629803238,0,0.000,,,0,,,Online Store,Loveland,United States,0.000,0.000,0,0,0,0
+2023-12,5544995651814,Philadelphia,7673245499622,6160174791,151.200,Fiddler on the Roof,Gift Collection,32493186154634,PCfiddlB,Black,Online Store,Philadelphia,United States,151.200,0.000,1,1,1,1
+2023-12,5574275203302,Winnipeg,7715431743718,0,0.000,,,0,,,Online Store,Winnipeg,International,0.000,0.000,0,0,0,0
+2023-12,5556289994982,Livingston,7543730372838,4600557273226,151.200,NY Jazz,Gift Collection,32493269909642,PCnyjazB,Black,Online Store,Livingston,United States,151.200,0.000,1,1,1,1
+2023-12,5565120217318,Laurens,4527733342363,6160174791,151.200,Fiddler on the Roof,Gift Collection,32493186154634,PCfiddlB,Black,Online Store,Laurens,United States,151.200,0.000,1,1,1,1
+2023-12,5556000981222,Birmingham,7687414186214,7766198321382,151.200,Birthday Celebration,Gift Collection,42873256444134,,Black,Online Store,Birmingham,United States,151.200,0.000,1,1,1,1
+2023-12,5528975278310,Northfield,4525923565723,7462201950438,71.100,Happy Penguin,Mini,42095352185062,MChpengB,Black,Online Store,Northfield,United States,71.100,0.000,1,1,1,1
+2023-12,5534133092582,Glen Ellyn,6544305651942,7030027649179,430.000,Limitless,Classique,41157664702619,CClimitB,,Online Store,Glen Ellyn,United States,430.000,0.000,1,1,1,1
+2023-12,5546215342310,Plainview,7674711638246,4600557273226,151.200,NY Jazz,Gift Collection,32493269975178,PCnyjazC,Cream,Online Store,Plainview,United States,151.200,0.000,1,1,1,1
+2023-12,5536128172262,Bryn Mawr,7662202454246,8226437955814,430.000,Your favorite Petite 4x larger,,43800461508838,,,Online Store,Bryn Mawr,United States,430.000,0.000,1,1,1,1
+2023-12,5540922818790,New Oxford,7668815364326,5453242728603,79.000,Ruth,,35297301823643,,,Online Store,New Oxford,United States,79.000,0.000,1,1,1,1
+2023-12,5529093406950,Tel Aviv,7642606436582,8145538744550,71.100,Jaffa,Mini,43661784744166,,Wood,Online Store,Tel Aviv,International,63.990,-6.070,1,1,1,1
+2023-12,5573382308070,San Juan Capistrano,7714197831910,4612049404042,151.200,Open Birdcage,Gift Collection,32492984336522,PCopenbB,Black,Online Store,San Juan Capistrano,United States,151.200,0.000,1,1,1,1
+2023-12,5551610757350,North Bend,5031521812635,4826622394506,71.100,Sailing,Mini,33259725815946,MCsailiB,Black,Online Store,North Bend,United States,71.100,0.000,1,1,1,1
+2023-12,5544859140326,Dallas,7394400108774,0,0.000,,,0,,,Online Store,Dallas,United States,0.000,0.000,0,0,0,0
+2023-12,5547062296806,Hidden Hills,7675618361574,8151177986278,151.200,Mesorah,Gift Collection,43671957536998,,Black,Online Store,Hidden Hills,United States,151.200,0.000,1,1,1,1
+2023-12,5529093406950,Tel Aviv,7642606436582,5480589525147,71.100,Sweet Year,Mini,35426691514523,MCsweetW,Wood,Online Store,Tel Aviv,International,63.990,-6.070,1,1,1,1
+2023-12,5571156967654,Round Rock,7711342166246,6129484398747,151.200,Wildflowers,Gift Collection,37806903853211,PCwildfB,Black,Online Store,Round Rock,United States,151.200,0.000,1,1,1,1
+2023-12,5555865977062,Gallatin,7687252246758,4612009623690,151.200,Aleph Bet,Gift Collection,32492690210954,PCalephB,Black,Online Store,Gallatin,United States,151.200,0.000,1,1,1,1
+2023-12,5555698893030,Teaneck,7687071695078,4605089349770,151.200,Child on Beach,Gift Collection,32493160071306,PCchildC,Cream,Online Store,Teaneck,United States,151.200,0.000,1,1,1,1
+2023-12,5548388843750,Alexandria,7677569597670,4826582417546,71.100,Red Riding Hood,Mini,33259588878474,MCrrhB,Black,Online Store,Alexandria,United States,71.100,0.000,1,1,1,1
+2023-12,5545495134438,Springfield,4485755404443,5280927514779,71.100,Water Yourself,Mini,34575556771995,MCwateLB,Black,Online Store,Springfield,United States,71.100,0.000,1,1,1,1
+2023-12,5544679637222,Plainview,4250972487835,6179810823,151.200,Moonlight Dance,Gift Collection,32493353861258,PCmoonlB,Black,Online Store,Plainview,United States,151.200,0.000,1,1,1,1
+2023-12,5556937949414,Philadelphia,7673245499622,6160174791,151.200,Fiddler on the Roof,Gift Collection,32493186154634,PCfiddlB,Black,Online Store,Philadelphia,United States,151.200,0.000,1,1,1,1
+2023-12,5550273462502,Hoover,7680393969894,0,0.000,,,0,,,Online Store,Birmingham,United States,15.000,0.000,0,0,0,0
+2023-12,5572915560678,Elk Grove,7713607647462,0,0.000,,,0,,,Online Store,Houston,United States,0.000,0.000,0,0,0,0
+2023-12,5547692884198,An Cheathrú Rua,7676525019366,0,0.000,,,0,,,Online Store,An Cheathrú Rua,International,0.000,0.000,0,0,0,0
+2023-12,5566521409766,Mountain View,7702271426790,0,0.000,,,0,,,Online Store,Mountain View,United States,0.000,0.000,0,0,0,0
+2023-12,5572639916262,Havre De Grace,7486223384806,4612049404042,151.200,Open Birdcage,Gift Collection,32492984336522,PCopenbB,Black,Online Store,Havre De Grace,United States,151.200,0.000,1,1,1,1
+2023-12,5529414959334,Rancho Santa Fe,7655433502950,4600669896842,151.200,Kotel,Gift Collection,32493256441994,PCkotelB,Black,Online Store,Rancho Santa Fe,United States,151.200,0.000,1,1,1,1
+2023-12,5568854327526,Washington,7493300093158,5755818934427,151.200,Feathers,Gift Collection,36586571169947,PCfeathB,Black,Online Store,Washington,United States,151.200,0.000,1,1,1,1
+2023-12,5569164574950,Dover,7706556956902,0,0.000,,,0,,,Online Store,Dover,United States,0.000,0.000,0,0,0,0
+2023-12,5574175752422,Dix Hills,7591508508902,4612036624522,151.200,Jerusalem Prayer,Gift Collection,32492898451594,PCjerusB,Black,Online Store,Dix Hills,United States,151.200,0.000,1,1,1,1
+2023-12,5548470206694,Denver,7524697374950,0,0.000,,,0,,,Online Store,Lake Forest,United States,15.000,0.000,0,0,0,0
+2023-12,5573293211878,Bedford,7714062368998,0,0.000,,,0,,,Online Store,Bedford,United States,0.000,0.000,0,0,0,0
+2023-12,5547491655910,Lanzenhäusern,7676150972646,7766198321382,151.200,Birthday Celebration,Gift Collection,42873256444134,,Black,Online Store,Lanzenhäusern,International,151.200,0.000,1,1,1,1
+2023-12,5545326215398,Buskirk,6279378239718,0,0.000,,,0,,,Online Store,Buskirk,United States,15.000,0.000,0,0,0,0
+2023-12,5556035092710,Hulhumale,7676492021990,4816345923722,71.100,Cat,Mini,33233301373066,MCcatB,Black,Online Store,Hulhumale,International,71.100,0.000,1,1,1,1
+2023-12,5569894449382,Porto Alegre,7708869918950,4816345923722,71.100,Cat,Mini,33233301373066,MCcatB,Black,Online Store,São Paulo,International,0.000,0.000,1,1,0,1
+2023-12,5571295412454,Dover,7706556956902,5906079547547,71.100,Tree of Orange Hearts,Mini,37053058285723,MCtoohW,Wood,Online Store,Dover,United States,71.100,0.000,1,1,1,1
+2023-12,5551291072742,Toronto,7681767538918,0,0.000,,,0,,,Online Store,Toronto,International,0.000,0.000,0,0,0,0
+2023-12,5546862772454,Vancouver,7673789907174,4612049404042,151.200,Open Birdcage,Gift Collection,32492984336522,PCopenbB,Black,Online Store,Vancouver,International,136.080,-15.120,1,1,1,1
+2023-12,5573382308070,San Juan Capistrano,7714197831910,0,0.000,,,0,,,Online Store,San Juan Capistrano,United States,0.000,0.000,0,0,0,0
+2023-12,5530975371494,Orland Park,6167882825958,0,0.000,,,0,,,Online Store,Orland Park,United States,0.000,0.000,0,0,0,0
+2023-12,5553506287846,San Francisco,7684473422054,0,0.000,,,0,,,Online Store,San Francisco,United States,0.000,0.000,0,0,0,0
+2023-12,5571295412454,Dover,7706556956902,5280931414171,71.100,Small Things,Mini,34575591047323,MCsmallW,Wood,Online Store,Dover,United States,71.100,0.000,1,1,1,1
+2023-12,5549019037926,Seattle,7678284464358,5480589525147,71.100,Sweet Year,Mini,35426691448987,MCsweetB,Black,Online Store,Seattle,United States,71.100,0.000,1,1,1,1
+2023-12,5574616744166,Boynton Beach,7715826073830,0,0.000,,,0,,,Online Store,Orlando,United States,0.000,0.000,0,0,0,0
+2023-12,5550608908518,Grand Rapids,7680779976934,0,0.000,,,0,,,Online Store,Grand Rapids,United States,0.000,0.000,0,0,0,0
+2023-12,5544995651814,Philadelphia,7673245499622,6306514567,151.200,Venice Autumn,Gift Collection,32493351075978,PCvenicB,Black,Online Store,Philadelphia,United States,151.200,0.000,1,1,1,1
+2023-12,5564183412966,Burlington,7698827280614,4826622394506,71.100,Sailing,Mini,33259725914250,MCsailiW,Wood,Online Store,Burlington,United States,71.100,0.000,1,1,1,1
+2023-12,5530975371494,Orland Park,6167882825958,5280931414171,71.100,Small Things,Mini,34575590981787,MCsmallB,Black,Online Store,Orland Park,United States,71.100,0.000,1,1,1,1
+2023-12,5564183412966,Burlington,7698827280614,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,Burlington,United States,10.000,0.000,1,1,1,1
+2023-12,5544995651814,Philadelphia,7673245499622,4600669896842,151.200,Kotel,Gift Collection,32493256441994,PCkotelB,Black,Online Store,Philadelphia,United States,151.200,0.000,1,1,1,1
+2023-12,5551952625894,Leesport,7682520613094,6306570567,151.200,Balloon Over Paris Bridge,Gift Collection,32493118914698,PCballoB,Black,Online Store,Leesport,United States,151.200,0.000,1,1,1,1
+2023-12,5548952158438,Philadelphia,7678199824614,0,0.000,,,0,,,Online Store,Philadelphia,United States,0.000,0.000,0,0,0,0
+2023-12,5545073737958,Los Angeles,4562679693467,0,0.000,,,0,,,Online Store,Los Angeles,United States,0.000,0.000,0,0,0,0
+2023-12,5544995651814,Philadelphia,7673245499622,0,0.000,,,0,,,Online Store,Philadelphia,United States,15.000,0.000,0,0,0,0
+2023-12,5550451687654,Marco Island,7546908704998,4826652835978,71.100,Wonder,Mini,33259816714378,MCwondeW,Wood,Online Store,Marco Island,United States,71.100,0.000,1,1,1,1
+2023-12,5571378807014,Greifswald,7711606407398,0,0.000,,,0,,,Online Store,Greifswald,International,0.000,0.000,0,0,0,0
+2023-12,5544995651814,Philadelphia,7673245499622,4612009623690,151.200,Aleph Bet,Gift Collection,32492690210954,PCalephB,Black,Online Store,Philadelphia,United States,151.200,0.000,1,1,1,1
+2023-12,5553945116902,Abington,7684977295590,0,0.000,,,0,,,Online Store,Abington,United States,0.000,0.000,0,0,0,0
+2023-12,5535767036134,Marco Island,7546908704998,4605089349770,151.200,Child on Beach,Gift Collection,32493160071306,PCchildC,Cream,Online Store,Marco Island,United States,151.200,0.000,1,1,1,1
+2023-12,5527782686950,Chicago,6194602180838,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,Kankakee,United States,10.000,0.000,1,1,1,1
+2023-12,5544995651814,Philadelphia,7673245499622,6306615303,151.200,Tree of Life,Gift Collection,32493347307658,PCtreeoB,Black,Online Store,Philadelphia,United States,151.200,0.000,1,1,1,1
+2023-12,5527782686950,Chicago,6194602180838,0,0.000,,,0,,,Online Store,Kankakee,United States,0.000,0.000,0,0,0,0
+2023-12,5548828655846,Costa Mesa,7677998137574,5280920141979,71.100,Home,Mini,34575525183643,MChomeB,Black,Online Store,Costa Mesa,United States,71.100,0.000,1,1,1,1
+2023-12,5539283501286,London,7666972590310,0,0.000,,,0,,,Online Store,London,International,0.000,0.000,0,0,0,0
+2023-12,5544995651814,Philadelphia,7673245499622,6306570567,151.200,Balloon Over Paris Bridge,Gift Collection,32493118914698,PCballoB,Black,Online Store,Philadelphia,United States,151.200,0.000,1,1,1,1
+2023-12,5559684989158,Loveland,7692629803238,4826638155914,71.100,Dove,Mini,33259773198474,MCdoveB,Black,Online Store,Loveland,United States,71.100,0.000,1,1,1,1
+2023-12,5574012993766,Panama,7687479230694,0,0.000,,,0,,,Online Store,Panama,International,0.000,0.000,0,0,0,0
+2023-12,5571468525798,Singapore,7711725191398,4612049404042,151.200,Open Birdcage,Gift Collection,32492984336522,PCopenbB,Black,Online Store,Singapore,International,151.200,0.000,1,1,1,1
+2023-12,5544690352358,Fairfield,5978580910310,4826652835978,71.100,Wonder,Mini,33259816681610,MCwondeC,Cream,Online Store,Fairfield,United States,71.100,0.000,1,1,1,1
+2023-12,5574275203302,Winnipeg,7715431743718,8145538744550,79.000,Jaffa,Mini,43661784744166,,Wood,Online Store,Winnipeg,International,79.000,0.000,1,1,1,1
+2023-12,5556444102886,London,7688015642854,0,0.000,,,0,,,Online Store,London,International,15.000,0.000,0,0,0,0
+2023-12,5550118109414,Coral Springs,7493300093158,5280932626587,71.100,Daydreams,Mini,34575601729691,MCdaydrB,Black,Online Store,Quincy,United States,71.100,0.000,1,1,1,1
+2023-12,5544690352358,Fairfield,5978580910310,0,0.000,,,0,,,Online Store,Fairfield,United States,15.000,0.000,0,0,0,0
+2023-12,5572251222246,Salem,7712725663974,7941422907622,151.200,Italian Pastel,Gift Collection,43270753026278,,Black,Online Store,Salem,United States,136.080,-15.120,1,1,1,1
+2023-12,5534133092582,Glen Ellyn,6544305651942,0,0.000,,,0,,,Online Store,Glen Ellyn,United States,15.000,0.000,0,0,0,0
+2023-12,5528975278310,Northfield,4525923565723,4806031704202,71.100,Soar!,Mini,33210402242698,MCsoarB,Black,Online Store,Northfield,United States,71.100,0.000,1,1,1,1
+2023-12,5556000981222,Birmingham,7687414186214,0,0.000,,,0,,,Online Store,Birmingham,United States,0.000,0.000,0,0,0,0
+2023-12,5528975278310,Northfield,4525923565723,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,Northfield,United States,20.000,0.000,1,1,2,2
+2023-12,5556289994982,Livingston,7543730372838,4826366673034,71.100,Together,Mini,33258994925706,MCtogetB,Black,Online Store,Livingston,United States,71.100,0.000,1,1,1,1
+2023-12,5548924338406,Tulsa,7678162567398,0,0.000,,,0,,,Online Store,Tulsa,United States,15.000,0.000,0,0,0,0
+2023-12,5546862772454,Vancouver,7673789907174,0,0.000,,,0,,,Online Store,Vancouver,International,0.000,0.000,0,0,0,0
+2023-12,5546215342310,Plainview,7674711638246,0,0.000,,,0,,,Online Store,Plainview,United States,0.000,0.000,0,0,0,0
+2023-12,5569399619814,Buffalo Grove,7478933913830,0,0.000,,,0,,,Online Store,Manhattan Beach,United States,15.000,0.000,0,0,0,0
+2023-12,5558425845990,Rome,4351957598363,0,0.000,,,0,,,Online Store,Rome,United States,15.000,0.000,0,0,0,0
+2023-12,5573293211878,Bedford,7714062368998,6306615303,151.200,Tree of Life,Gift Collection,32493347307658,PCtreeoB,Black,Online Store,Bedford,United States,151.200,0.000,1,1,1,1
+2023-12,5540922818790,New Oxford,7668815364326,0,0.000,,,0,,,Online Store,New Oxford,United States,0.000,0.000,0,0,0,0
+2023-12,5556207943910,Jersey City,7687687962854,0,0.000,,,0,,,Online Store,Jersey City,United States,0.000,0.000,0,0,0,0
+2023-12,5557172601062,Livingston,7689220030694,8226437955814,430.000,Your favorite Petite 4x larger,,43800461508838,,,Online Store,Livingston,United States,430.000,0.000,1,1,1,1
+2023-12,5554391810278,Harrington Park,7685512397030,0,0.000,,,0,,,Online Store,Harrington Park,International,15.000,0.000,0,0,0,0
+2023-12,5554540118246,Orlando,7685775327462,5906079547547,71.100,Tree of Orange Hearts,Mini,37053058285723,MCtoohW,Wood,Online Store,Orlando,United States,71.100,0.000,1,1,1,1
+2023-12,5547062296806,Hidden Hills,7675618361574,0,0.000,,,0,,,Online Store,Hidden Hills,United States,0.000,0.000,0,0,0,0
+2023-12,5554540118246,Orlando,7685775327462,0,0.000,,,0,,,Online Store,Orlando,United States,-152.200,0.000,0,0,0,0
+2023-12,5551610757350,North Bend,5031521812635,0,0.000,,,0,,,Online Store,North Bend,United States,15.000,0.000,0,0,0,0
+2023-12,5544859140326,Dallas,7394400108774,7543722442982,151.200,Giraffe Heart,Gift Collection,42287338324198,PCGiraffB,Black,Online Store,Dallas,United States,151.200,0.000,1,1,1,1
+2023-12,5556289994982,Livingston,7543730372838,0,0.000,,,0,,,Online Store,Livingston,United States,0.000,0.000,0,0,0,0
+2023-12,5529093406950,Tel Aviv,7642606436582,6306615303,151.200,Tree of Life,Gift Collection,32493347373194,PCtreeoC,Cream,Online Store,Tel Aviv,International,136.080,-12.920,1,1,1,1
+2023-12,5555366789350,Sylvania,7686717341926,0,0.000,,,0,,,Online Store,Sylvania,United States,15.000,0.000,0,0,0,0
+2023-12,5529093406950,Tel Aviv,7642606436582,0,0.000,,,0,,,Online Store,Tel Aviv,International,0.000,0.000,0,0,0,0
+2023-12,5539316498662,Benson,6929959387366,0,0.000,,,0,,,Online Store,Benson,United States,0.000,0.000,0,0,0,0
+2023-12,5555865977062,Gallatin,7687252246758,0,0.000,,,0,,,Online Store,Gallatin,United States,0.000,0.000,0,0,0,0
+2023-12,5571156967654,Round Rock,7711342166246,0,0.000,,,0,,,Online Store,Round Rock,United States,0.000,0.000,0,0,0,0
+2023-12,5546153476326,Greensboro,7674604847334,0,0.000,,,0,,,Online Store,Greensboro,United States,15.000,0.000,0,0,0,0
+2023-12,5545173156070,Seminole,7673431949542,4826638155914,71.100,Dove,Mini,33259773198474,MCdoveB,Black,Online Store,Seminole,United States,71.100,0.000,1,1,1,1
+2023-12,5548388843750,Alexandria,7677569597670,0,0.000,,,0,,,Online Store,Alexandria,United States,0.000,0.000,0,0,0,0
+2023-12,5545495134438,Springfield,4485755404443,0,0.000,,,0,,,Online Store,Springfield,United States,0.000,0.000,0,0,0,0
+2023-12,5571507454182,Cañon City,7711768707302,0,0.000,,,0,,,Online Store,Cañon City,United States,0.000,0.000,0,0,0,0
+2023-12,5556937949414,Philadelphia,7673245499622,0,0.000,,,0,,,Online Store,Philadelphia,United States,0.000,0.000,0,0,0,0
+2023-12,5544679637222,Plainview,4250972487835,0,0.000,,,0,,,Online Store,Plainview,United States,0.000,0.000,0,0,0,0
+2023-12,5560503730406,Farmers Branch,7693630046438,4826638155914,71.100,Dove,Mini,33259773198474,MCdoveB,Black,Online Store,Farmers Branch,United States,71.100,0.000,1,1,1,1
+2023-12,5563390525670,Bronx,7697828053222,0,0.000,,,0,,,Online Store,Bronx,United States,0.000,0.000,0,0,0,0
+2023-12,5555698893030,Teaneck,7687071695078,0,0.000,,,0,,,Online Store,Teaneck,United States,0.000,0.000,0,0,0,0
+2023-12,5550273462502,Hoover,7680393969894,5755818934427,151.200,Feathers,Gift Collection,36586571169947,PCfeathB,Black,Online Store,Birmingham,United States,151.200,0.000,1,1,1,1
+2023-12,5572915560678,Elk Grove,7713607647462,5280927514779,71.100,Water Yourself,Mini,34575556771995,MCwateLB,Black,Online Store,Houston,United States,71.100,0.000,1,1,1,1
+2023-12,5574230212838,Macungie,6047410094310,4826543030410,71.100,Penguin,Mini,33259484184714,MCpenguiC,Cream,Online Store,Macungie,United States,71.100,0.000,1,1,1,1
+2023-12,5546862543078,Oceanside,7675384496358,0,0.000,,,0,,,Online Store,ירושלים,International,0.000,0.000,0,0,0,0
+2023-12,5574230212838,Macungie,6047410094310,0,0.000,,,0,,,Online Store,Macungie,United States,0.000,0.000,0,0,0,0
+2023-12,5529414959334,Rancho Santa Fe,7655433502950,0,0.000,,,0,,,Online Store,Rancho Santa Fe,United States,0.000,0.000,0,0,0,0
+2023-12,5547692884198,An Cheathrú Rua,7676525019366,4826652835978,71.100,Wonder,Mini,33259816648842,MCwondeB,Black,Online Store,An Cheathrú Rua,International,71.100,0.000,1,1,1,1
+2023-12,5556207943910,Jersey City,7687687962854,5575819657371,151.200,Flying High With You,Gift Collection,35828206370971,PCflyinC,Cream,Online Store,Jersey City,United States,151.200,0.000,1,1,1,1
+2023-12,5572639916262,Havre De Grace,7486223384806,6306615303,151.200,Tree of Life,Gift Collection,32493347307658,PCtreeoB,Black,Online Store,Havre De Grace,United States,151.200,0.000,1,1,1,1
+2023-12,5529414959334,Rancho Santa Fe,7655433502950,4600571232394,151.200,Bookville,Gift Collection,32493126779018,PCbookvB,Black,Online Store,Rancho Santa Fe,United States,151.200,0.000,1,1,1,1
+2023-12,5572639916262,Havre De Grace,7486223384806,8226437955814,430.000,Your favorite Petite 4x larger,,43800461508838,,,Online Store,Havre De Grace,United States,430.000,0.000,1,1,1,1
+2023-12,5569164574950,Dover,7706556956902,8226437955814,430.000,Your favorite Petite 4x larger,,43800461508838,,,Online Store,Dover,United States,430.000,0.000,1,1,1,1
+2023-12,5560574804198,Medford,7693764624614,6306514567,151.200,Venice Autumn,Gift Collection,32493351075978,PCvenicB,Black,Online Store,Medford,United States,151.200,0.000,1,1,1,1
+2023-12,5569894449382,Porto Alegre,7708869918950,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,São Paulo,International,10.000,0.000,1,1,1,1
+2023-12,5568854327526,Washington,7493300093158,0,0.000,,,0,,,Online Store,Washington,United States,0.000,0.000,0,0,0,0
+2023-12,5565120217318,Laurens,4527733342363,0,0.000,,,0,,,Online Store,Laurens,United States,0.000,0.000,0,0,0,0
+2023-12,5574175752422,Dix Hills,7591508508902,0,0.000,,,0,,,Online Store,Dix Hills,United States,0.000,0.000,0,0,0,0
+2023-12,5569894449382,Porto Alegre,7708869918950,4816345923722,71.100,Cat,Mini,33233301405834,MCcatC,Cream,Online Store,São Paulo,International,71.100,0.000,0,0,1,0
+2023-12,5552174006502,Södertälje,7682758738150,4600539447434,151.200,Shape of My Heart,Gift Collection,32493298581642,PCshapeC,Cream,Online Store,Södertälje,International,151.200,0.000,1,1,1,1
+2023-12,5546508779750,Fort Worth,7674897334502,4826452033674,71.100,Western Wall,Mini,33259238523018,MCwesteB,Black,Online Store,Fort Worth,United States,71.100,0.000,1,1,1,1
+2023-12,5552174006502,Södertälje,7682758738150,6306615303,151.200,Tree of Life,Gift Collection,32493347373194,PCtreeoC,Cream,Online Store,Södertälje,International,151.200,0.000,1,1,1,1
+2023-12,5569894449382,Porto Alegre,7708869918950,4973512523914,71.100,Medical Superhero F,Mini,33582707933322,MCmsfLC,Cream / Lighter,Online Store,São Paulo,International,71.100,0.000,0,0,1,0
+2023-12,5542009176294,Austin,7669811675366,7030027649179,430.000,Limitless,Classique,41157664702619,CClimitB,,Online Store,Austin,United States,430.000,0.000,1,1,1,1
+2023-12,5530975371494,Orland Park,6167882825958,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,Orland Park,United States,10.000,0.000,1,1,1,1
+2023-12,5548414697702,St. Petersburg,7677593387238,5575819657371,151.200,Flying High With You,Gift Collection,35828206370971,PCflyinC,Cream,Online Store,St. Petersburg,United States,151.200,0.000,1,1,1,1
+2023-12,5556035092710,Hulhumale,7676492021990,0,0.000,,,0,,,Online Store,Hulhumale,International,0.000,0.000,0,0,0,0
+2023-12,5545326215398,Buskirk,6279378239718,5906123686043,71.100,Tree of Purple Hearts,Mini,37053196927131,MCtophB,Black,Online Store,Buskirk,United States,71.100,0.000,1,1,1,1
+2023-12,5571295412454,Dover,7706556956902,6160174791,151.200,Fiddler on the Roof,Gift Collection,32493186154634,PCfiddlB,Black,Online Store,Dover,United States,151.200,0.000,1,1,1,1
+2023-12,5550539669734,Pikesville,7680702185702,0,0.000,,,0,,,Online Store,Pikesville,United States,15.000,0.000,0,0,0,0
+2023-12,5560503730406,Farmers Branch,7693630046438,0,0.000,,,0,,,Online Store,Farmers Branch,United States,0.000,0.000,0,0,0,0
+2023-12,5548478759142,Denver,7524697374950,0,0.000,,,0,,,Online Store,Lake Forest,United States,15.000,0.000,0,0,0,0
+2023-12,5529371115750,Doylestown,7655382089958,0,0.000,,,0,,,Online Store,Doylestown,United States,0.000,0.000,0,0,0,0
+2023-12,5552735912166,Warrington,7683432382694,6179810823,151.200,Moonlight Dance,Gift Collection,32493353861258,PCmoonlB,Black,Online Store,Warrington,United States,151.200,0.000,1,1,1,1
+2023-12,5552889987302,Seoul,7683737190630,0,0.000,,,0,,,Online Store,Seoul,International,0.000,0.000,0,0,0,0
+2023-12,5551291072742,Toronto,7681767538918,4612036624522,151.200,Jerusalem Prayer,Gift Collection,32492898451594,PCjerusB,Black,Online Store,Toronto,International,151.200,0.000,1,1,1,1
+2023-12,5571295412454,Dover,7706556956902,5280927514779,71.100,Water Yourself,Mini,34575556771995,MCwateLB,Black,Online Store,Dover,United States,71.100,0.000,1,1,1,1
+2023-12,5548274286822,Wigston,7677152002278,6306703239,151.200,Here's to you!,Gift Collection,32493142278282,PCheresC,Cream,Online Store,Wigston,International,151.200,0.000,1,1,1,1
+2023-12,5560574804198,Medford,7693764624614,0,0.000,,,0,,,Online Store,Medford,United States,0.000,0.000,0,0,0,0
+2023-12,5557209366758,Villa Rica,7689215705318,6306382599,151.200,Ballet Class,Gift Collection,32491304452234,PCballeB,Black,Online Store,Villa Rica,United States,151.200,0.000,1,1,1,1
+2023-12,5556444102886,London,7688015642854,5480589525147,71.100,Sweet Year,Mini,35426691514523,MCsweetW,Wood,Online Store,London,International,71.100,0.000,1,1,1,1
+2023-12,5552413114598,New York,7682997027046,0,0.000,,,0,,,Online Store,New York,United States,0.000,0.000,0,0,0,0
+2023-12,5556207943910,Jersey City,7687687962854,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,Jersey City,United States,10.000,0.000,1,1,1,1
+2023-12,5556207943910,Jersey City,7687687962854,4826366673034,71.100,Together,Mini,33258994958474,MCtogetC,Cream,Online Store,Jersey City,United States,71.100,0.000,1,1,1,1
+2023-12,5556444102886,London,7688015642854,6848885522587,10.000,Hand-written personalization inside your painting,,40289823654043,,,Online Store,London,International,10.000,0.000,1,1,1,1
+2023-12,5535674532070,Briarcliff Manor,6028868747494,5906079547547,71.100,Tree of Orange Hearts,Mini,37053058252955,MCtoohC,Cream,Online Store,Briarcliff Manor,United States,71.100,0.000,1,1,1,1
+2023-12,5535674532070,Briarcliff Manor,6028868747494,0,0.000,,,0,,,Online Store,Briarcliff Manor,United States,0.000,0.000,0,0,0,0
+2023-12,5544995651814,Philadelphia,7673245499622,8151177986278,151.200,Mesorah,Gift Collection,43671957536998,,Black,Online Store,Philadelphia,United States,151.200,0.000,1,1,1,1
+2023-12,5571378807014,Greifswald,7711606407398,4826582417546,71.100,Red Riding Hood,Mini,33259588911242,MCrrhC,Cream,Online Store,Greifswald,International,71.100,0.000,1,1,1,1
